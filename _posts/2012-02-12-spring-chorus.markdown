@@ -25,10 +25,10 @@ tags: []
 comments: []
 ---
 <p><a title="buy tickets online" href="http:&#47;&#47;www.ticketsource.co.uk&#47;event&#47;21012"> <img src="http:&#47;&#47;eums.eusa.ed.ac.uk&#47;wp-content&#47;uploads&#47;images&#47;w620&#47;posters&#47;20120323_chorus.jpg" alt="" width="620" height="872" &#47;><&#47;a></p>
-<p style="text-align: justify;">Following on from last year&rsquo;s sold out performance of "Dream of Gerontius", this Spring, Chorus are showcasing pieces that represent a selection of the finest British Choral works.<&#47;p><br />
+<p>Following on from last year&rsquo;s sold out performance of "Dream of Gerontius", this Spring, Chorus are showcasing pieces that represent a selection of the finest British Choral works.<&#47;p><br />
 Under the direction of Neil Metcalfe, the EUMS Chorus will be performing Wesley&rsquo;s <em>Blessed Be The God And Father<&#47;em>, Vaughan Williams&rsquo; <em>Five Mystical Songs<&#47;em>&nbsp;and Goodall&rsquo;s <em>Eternal Light<&#47;em>.</p>
 <p>Featuring solos from Jerome Knox (fresh from his role of Somnus in ESO's production of Semele)&nbsp;and members of Chorus (Emily Goad, Tom Cartwright, Dan Pyzer-Knapp, Amy Strachan, Laura Reading, Jay West, Tim Martin, Daniel Fisher, Vera Halvorsen, and Amanda MacLeod).</p>
-<p style="text-align: justify;">Organ <strong>Simon Nieminski<&#47;strong><br />
+<p>Organ <strong>Simon Nieminski<&#47;strong><br />
 Piano <strong>Stuart Hope<&#47;strong><br />
 ...and including a small string orchestra!<&#47;p><br />
 This concert sold out last year. Book now to avoid disappointment!</p>
