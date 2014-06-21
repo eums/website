@@ -1,0 +1,37 @@
+---
+layout: post
+status: publish
+published: true
+title: First Rehearsals
+author:
+  display_name: Web Manager
+  login: eums_website
+  email: web@eums.org.uk
+  url: http://www.eums.org.uk
+author_login: eums_website
+author_email: web@eums.org.uk
+author_url: http://www.eums.org.uk
+excerpt: Well, term has resumed and that means that we are back to rehearsals! Find
+  details here...
+wordpress_id: 1294
+wordpress_url: http://eums.eusa.ed.ac.uk/?p=1294
+date: '2011-09-19 16:59:20 -0700'
+date_gmt: '2011-09-19 16:59:20 -0700'
+categories:
+- Society
+- Chorus
+- Sinfonia
+- Symphony Orchestra
+- Rehearsals
+tags: []
+comments: []
+---
+<p><img src="http:&#47;&#47;eums.eusa.ed.ac.uk&#47;wp-content&#47;uploads&#47;build&#47;events.jpg" alt="" width="620" height="180" &#47;></p>
+<p style="text-align: justify;">Well, term has resumed and that means that we are back to rehearsals!<&#47;p></p>
+<p style="text-align: justify;">The first rehearsal time and locations are as follows:<&#47;p></p>
+<h3 style="text-align: justify;">SYMPHONY ORCHESTRA<&#47;h3></p>
+<p style="text-align: justify;">The first rehearsal is at 6.30 pm on Monday 19th at the Reid Concert Hall. Arrive early to get places sorted and music dished out.<&#47;p></p>
+<h3 style="text-align: justify;">CHORUS<&#47;h3></p>
+<p style="text-align: justify;">The first rehearsal is at 7 pm on Tuesday 20th at St. Peter's Church Hall. Please arrive ten or fifteen minutes early to ensure that we can have music and be ready to start the rehearsal on time.<&#47;p></p>
+<h3 style="text-align: justify;">SINFONIA<&#47;h3></p>
+<p style="text-align: justify;">The first rehearsal is at 10.30 am on Saturday 24th at Alison House (this is to be confirmed: if you are on the mailing list you will have been emailed the latest details).&nbsp;Again, arrive early to get sorted out before the rehearsal starts. Please note that Sinfonia usually hold rehearsals at the Reid Concert Hall.<&#47;p></p>

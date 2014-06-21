@@ -1,0 +1,27 @@
+---
+layout: post
+status: publish
+published: true
+title: 'Tour 2011: The Latest News'
+author:
+  display_name: Web Manager
+  login: eums_website
+  email: web@eums.org.uk
+  url: http://www.eums.org.uk
+author_login: eums_website
+author_email: web@eums.org.uk
+author_url: http://www.eums.org.uk
+excerpt: Tour 2011 is drawing ever nearer...
+wordpress_id: 289
+wordpress_url: http://eums.eusa.ed.ac.uk/?p=289
+date: '2011-03-31 13:32:37 -0700'
+date_gmt: '2011-03-31 13:32:37 -0700'
+categories:
+- News
+- Tour News
+tags: []
+comments: []
+---
+<p style="text-align: justify;">EUMS Tour 2011 has got 9 places left. This is a final call to sign up! I&nbsp;have to get everyone's names to the ferry company in a couple of weeks time.&nbsp;I only just found this out, so am obviously delighted that the ferry people&nbsp;have given me so much notice... If you have signed up, invite your pals&nbsp;along, we surprisingly have NO groupies so far. This is unusual! Groupies are welcome! We love groupies!<&#47;p></p>
+<p style="text-align: justify;">If you are unsure, stop thinking about it and email me to say you are coming! Its going to be monumentally great fun! Email me at <a href="https:&#47;&#47;www.sms.ed.ac.uk&#47;imp&#47;compose.php?to=eumstourmanager%40gmail.com&amp;thismailbox=INBOX">eumstourmanager@gmail.com<&#47;a>. I cannot emphasise enough how disappointed you will be if you miss out when everyone gets back and is talking about it for days, weeks, months and even years to come! Sign up now, or condemn your sole to a summer of sadness and regret. Tour is THEEEE best way to start your summer!!<&#47;p></p>
+<p style="text-align: justify;"><strong><em>Andy Laing, Tour Manager<&#47;em><&#47;strong><&#47;p></p>

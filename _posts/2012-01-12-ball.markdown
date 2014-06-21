@@ -1,0 +1,40 @@
+---
+layout: post
+status: publish
+published: true
+title: Musoc Ball 2012
+author:
+  display_name: Web Manager
+  login: eums_website
+  email: web@eums.org.uk
+  url: http://www.eums.org.uk
+author_login: eums_website
+author_email: web@eums.org.uk
+author_url: http://www.eums.org.uk
+excerpt: 'The date for the ball has been announced: come along and enjoy THE event
+  of the social calendar!'
+wordpress_id: 1534
+wordpress_url: http://eums.eusa.ed.ac.uk/?p=1534
+date: '2012-01-12 16:14:49 -0800'
+date_gmt: '2012-01-12 16:14:49 -0800'
+categories:
+- Events
+- Upcoming Socials
+- Society
+- Socials
+tags: []
+comments: []
+---
+<p style="text-align: justify;">The New Year brings delights in all forms, but for most the highlight of the social calendar is the Edinburgh University Music Society Ball... This year being held on the <strong>9th February<&#47;strong>.<&#47;p></p>
+<p style="text-align: justify;">For those of you who missed the Freshers' Week ceilidh and indeed for those of you who didn't, come along and enjoy fine dining and fantastic dancing in Teviot Row House. We will be booking out the whole of the top floor of Teviot (the Loft Bar and Debating Hall are up here) for the evening's frivolities.<&#47;p></p>
+<p style="text-align: justify;">As usual, the evening will start at 7pm with drinks in the Loft Bar followed by a delicious three course dinner in the Debating Hall. After dinner, the debating hall will be transformed into a ball room where we can dance the night away with the Edinburgh University Music Society's favourite live ceilidh band. If that wasn't all enough the disco lights will descend before midnight and we can party on into the early hours to the latest disco tunes...<&#47;p></p>
+<p style="text-align: justify;">The cost of a ticket is&nbsp;<strong>&pound;25<&#47;strong>, and these will be available from the first rehearsals onwards. Please buy tickets early so as not to be disappointed!<&#47;p></p>
+<p style="text-align: justify;">If for some reason you are unable to attend the dinner (our condolences) then you can purchase a "ceilidh only" ticket for the rosy sum of only&nbsp;<strong>&pound;5<&#47;strong>.<&#47;p></p>
+<p style="text-align: justify;">Indicate your interest on the <a title="Facebook event" href="http:&#47;&#47;www.facebook.com&#47;events&#47;276626945726495&#47;" target="_blank">Facebook event here<&#47;a>.<&#47;p></p>
+<h5 style="text-align: justify;"><span style="text-decoration: underline;">Details of the magical evening:<&#47;span><&#47;h5></p>
+<h5 style="text-align: justify;"><em>7pm,&nbsp;9th February 2012 @ Teviot Loft Bar<&#47;em><&#47;h5></p>
+<h5 style="text-align: justify;"><em>3-course Dinner and Ceilidh <strong>&pound;25<&#47;strong><&#47;em><br />
+<em>Ceilidh only&nbsp;<strong>&pound;5<&#47;strong><&#47;em><&#47;h5></p>
+<h5 style="text-align: justify;"><em>Dresscode: Formal. Black ties and beautiful dresses. Kilts (nearly) compulsory for Scottish members.<&#47;em><&#47;h5></p>
+<p style="text-align: justify;">Tickets will be available from the first rehearsals.&nbsp;If you can&rsquo;t make it or have any other enquiries then contact our social secretaries at <a title="Contact us" href="mailto:social@eums.org.uk">social@eums.org.uk<&#47;a> and they&rsquo;ll try and sort you out.&nbsp;Friends, family, dates, spouse, and non-members are all welcome too!<&#47;p></p>
+<p style="text-align: justify;">We can't wait to see you in your kilts, DJs and lovely dresses...<&#47;p></p>

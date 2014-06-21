@@ -1,0 +1,28 @@
+---
+layout: post
+status: publish
+published: true
+title: Chorus this Spring...
+author:
+  display_name: Web Manager
+  login: eums_website
+  email: web@eums.org.uk
+  url: http://www.eums.org.uk
+author_login: eums_website
+author_email: web@eums.org.uk
+author_url: http://www.eums.org.uk
+excerpt: Details for Chorus this semester...
+wordpress_id: 1548
+wordpress_url: http://eums.eusa.ed.ac.uk/?p=1548
+date: '2012-01-08 20:15:46 -0800'
+date_gmt: '2012-01-08 20:15:46 -0800'
+categories:
+- Society
+- Chorus
+tags: []
+comments: []
+---
+<p style="text-align: justify;">So it is that time again... Brush off your books and take your pencil case out of the cupboard. Term is about to resume, and for those of us not already back at work that means that the holidays have at last come to an end.<&#47;p></p>
+<p style="text-align: justify;">Fear not though! This means that rehearsals are starting again, and for Chorus this means that we are back in our usual venue: <strong>St. Peters Church Hall at 7pm from Tuesday 17th January<&#47;strong> onwards.<&#47;p></p>
+<p style="text-align: justify;">This semester we will be performing Howard Goodall's Eternal Light and Vaughan Williams's Five Mystical Songs. In the words of our very own Chorus Manager, these are "two absolutely fantastic pieces, the Vaughan Williams being a personal favourite. Have a wee listen on Youtube or Spotify, they are well worth the five minute break from dissertations, essays, or the 9-5".<&#47;p></p>
+<p style="text-align: justify;">The concert will be taking place in <strong>St Mary's Cathedral on Palmerston Place on Friday 23rd March<&#47;strong>.<&#47;p></p>

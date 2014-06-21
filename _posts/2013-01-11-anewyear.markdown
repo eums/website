@@ -1,0 +1,44 @@
+---
+layout: post
+status: publish
+published: true
+title: Welcome to 2013!
+author:
+  display_name: Web Manager
+  login: eums_website
+  email: web@eums.org.uk
+  url: http://www.eums.org.uk
+author_login: eums_website
+author_email: web@eums.org.uk
+author_url: http://www.eums.org.uk
+excerpt: Details of what we have in store this year and of all first rehearsal times...
+wordpress_id: 2690
+wordpress_url: http://eums.eusa.ed.ac.uk/?p=2690
+date: '2013-01-11 12:17:21 -0800'
+date_gmt: '2013-01-11 12:17:21 -0800'
+categories:
+- Upcoming Concerts
+- EUMS in the Community
+- Society
+- Chorus
+- Sinfonia
+- Symphony Orchestra
+- Rehearsals
+tags: []
+comments: []
+---
+<p style="text-align: justify;">Welcome to the new year! We hope you had fantastic Christmasses, Yules, Solstices, Monkey Days, Festivuses, Ziemassvētkis,&nbsp;Mummer's Days, Hanukkahs, Yaldās&nbsp;and holidays, and that Hogmanay was equally festive for you...<&#47;p></p>
+<p style="text-align: justify;">This coming semester is a very exciting one for the Edinburgh University Music Society: not only will we be realising the full potential of our <a title="Support Us" href="http:&#47;&#47;eums.eusa.ed.ac.uk&#47;support&#47;">sponsorship<&#47;a>&nbsp;by <a title="Red Dog's website" href="http:&#47;&#47;www.reddogmusic.co.uk&#47;" target="_blank">Red Dog Music<&#47;a>, but there will be an epic performance on the 23rd March by Symphony Orchestra in the Caird Hall as we accompany dance groups from the City of Dundee; Sinfonia and Chorus' joint performance of Mendelssohn's Symphony No. 2 on the 15th March and of course, our <a title="Education Projects" href="http:&#47;&#47;eums.eusa.ed.ac.uk&#47;community&#47;education&#47;springproject&#47;" target="_blank">Spring Education Project<&#47;a>.<&#47;p></p>
+<p style="text-align: justify;">Rehearsal dates for the first week back are as follows:<&#47;p></p>
+<ul>
+<li>Symphony Orchestra: 6.30pm Monday 14th January @ Reid Concert Hall<&#47;li>
+<li>Chorus: 6.50pm Tuesday 15th January @ St. Peters Church Hall<&#47;li>
+<li>Sinfonia: 10.30am Saturday 19th January @ Reid Concert Hall<&#47;li><br />
+<&#47;ul><br />
+Concert details are thus:</p>
+<ul>
+<li>15th March - Chorus &amp; Sinfonia @ St. Marys Cathedral, Palmerston Place<&#47;li>
+<li>22nd March - Symphony Orchestra @ Greyfriars Kirk<&#47;li>
+<li>23rd March - Symphony Orchestra @ Caird Hall, Dundee<&#47;li><br />
+<&#47;ul><br />
+As ever, more details will follow as the year progresses. We look forward to joining you in 2013!</p>

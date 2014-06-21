@@ -1,0 +1,31 @@
+---
+layout: post
+status: publish
+published: true
+title: Tour 2012 Announced!
+author:
+  display_name: Web Manager
+  login: eums_website
+  email: web@eums.org.uk
+  url: http://www.eums.org.uk
+author_login: eums_website
+author_email: web@eums.org.uk
+author_url: http://www.eums.org.uk
+excerpt: The details for Tour 2012 have been announced!
+wordpress_id: 1426
+wordpress_url: http://eums.eusa.ed.ac.uk/?p=1426
+date: '2011-11-25 11:57:55 -0800'
+date_gmt: '2011-11-25 11:57:55 -0800'
+categories:
+- News
+- Tour News
+tags: []
+comments: []
+---
+<p style="text-align: justify;">Next summer the Edinburgh University Music Society are venturing forth once more for our tour, and for 2012 we will be going into the heart of North Wales!<&#47;p></p>
+<p style="text-align: justify;">The tour will feature two performances, and a first for Music Society Tours in the form of a day dedicated to appreciating the magnificent surroundings in which we will be staying. There will be loads of time to soak in&#47;drink up the culture, and enough time in the coach for everyone to memorise every bus song in existence.<&#47;p></p>
+<p style="text-align: justify;">We will be travelling from the 1st to the 5th of June and are looking at costs of around &pound;160 as an upper limit. I am sure you will agree is very reasonable for a four day tour but of course depends on attendance and knowing numbers early on. We will be looking for the first payments to be coming in at the start of January.<&#47;p></p>
+<p style="text-align: justify;">Let us know if you are interested by returning the tear-off slip (<a title="Attendance Letter" href="http:&#47;&#47;eums.eusa.ed.ac.uk&#47;wp-content&#47;uploads&#47;files&#47;tour&#47;2012_attendanceform.pdf" target="_blank">download here<&#47;a>) to us. Tour is a great way to get to know everyone and to present a front for the University outside Edinburgh. If you want any further information speak to one of the Tour Team (we will make ourselves known) or contact Ben, our Tour Manager, at tour@eums.org.uk.<&#47;p></p>
+<p style="text-align: justify;"><strong>Bring on Tour 2012!<&#47;strong><&#47;p></p>
+<p style="text-align: justify;"><strong>Love,<br />
+<&#47;strong><strong>The Tour Team<&#47;strong><&#47;p></p>

@@ -1,0 +1,58 @@
+---
+layout: page
+status: publish
+published: true
+title: Tours
+author:
+  display_name: Web Manager
+  login: eums_website
+  email: web@eums.org.uk
+  url: http://www.eums.org.uk
+author_login: eums_website
+author_email: web@eums.org.uk
+author_url: http://www.eums.org.uk
+wordpress_id: 35
+wordpress_url: http://eums.eusa.ed.ac.uk/?page_id=35
+date: '2011-03-28 14:15:54 -0700'
+date_gmt: '2011-03-28 14:15:54 -0700'
+categories: []
+tags: []
+comments: []
+---
+<div style="float: left; position: relative; left: 0px; top: 0px; width: 640px; height: 250px;">
+<div>
+<div class="featured-entry" style="float: left; position: absolute; left: 5px; top: 170px; width: 200px; height: 85px; z-index: 2;">
+<p><a class="entry-title" style="font-size: 18px; margin: -2px 0 -15px 0; padding-right: 0px;" href="http:&#47;&#47;eums.eusa.ed.ac.uk&#47;category&#47;news&#47;tour&#47;" rel="bookmark">Tour News<&#47;a></p>
+<div class="entry-summary" style="padding-right: 0px;">
+<p>Click here for the latest on our upcoming tour</p>
+<p><&#47;div><br />
+<&#47;div></p>
+<div style="float: left; position: absolute; left: 0px; top: 0px; width: 200px; height: 250px; z-index: 1; border: 5px solid #A1A1A1;"><a href="http:&#47;&#47;eums.eusa.ed.ac.uk&#47;category&#47;news&#47;tour&#47;"><img title="Tour News" src="http:&#47;&#47;eums.eusa.ed.ac.uk&#47;wp-content&#47;uploads&#47;build&#47;pagelinks&#47;tour_posts.png" alt="Tour News" width="200" height="250" &#47;><&#47;a><&#47;div><br />
+<&#47;div></p>
+<div>
+<div class="featured-entry" style="float: left; position: absolute; left: 224px; top: 170px; width: 200px; height: 85px; z-index: 2;">
+<p><a class="entry-title" style="font-size: 18px; margin: -2px 0 -15px 0;" href="http:&#47;&#47;eums.eusa.ed.ac.uk&#47;society&#47;tours&#47;" rel="bookmark">About Tour<&#47;a></p>
+<div class="entry-summary" style="padding-right: 0px;">
+<p>Have a read to see what tour is all about</p>
+<p><&#47;div><br />
+<&#47;div></p>
+<div style="float: left; position: absolute; left: 219px; top: 0px; width: 200px; height: 250px; z-index: 1; border: 5px solid #A1A1A1;"><a href="http:&#47;&#47;eums.eusa.ed.ac.uk&#47;society&#47;tours&#47;"><img title="About Tour" src="http:&#47;&#47;eums.eusa.ed.ac.uk&#47;wp-content&#47;uploads&#47;build&#47;pagelinks&#47;tour_about.png" alt="About Tour" width="200" height="250" &#47;><&#47;a><&#47;div><br />
+<&#47;div></p>
+<div>
+<div class="featured-entry" style="float: left; position: absolute; left: 443px; top: 170px; width: 200px; height: 85px; z-index: 2;">
+<p><a class="entry-title" style="font-size: 18px; margin: -2px 0 -15px 0;" href="http:&#47;&#47;eums.eusa.ed.ac.uk&#47;society&#47;membership&#47;newsletter&#47;" rel="bookmark">Newsletters<&#47;a></p>
+<div class="entry-summary" style="padding-right: 0px;">
+<p>Find past tour newsletters</p>
+<p><&#47;div><br />
+<&#47;div></p>
+<div style="float: left; position: absolute; left: 438px; top: 0px; width: 200px; height: 250px; z-index: 1; border: 5px solid #A1A1A1;"><a href="http:&#47;&#47;eums.eusa.ed.ac.uk&#47;society&#47;membership&#47;newsletter&#47;"><img title="Newsletters" src="http:&#47;&#47;eums.eusa.ed.ac.uk&#47;wp-content&#47;uploads&#47;build&#47;pagelinks&#47;tour_newsletter.png" alt="Newsletters" width="200" height="250" &#47;><&#47;a><&#47;div><br />
+<&#47;div><br />
+<&#47;div></p>
+<div style="float: left; position: relative; left: 0px; top: 0px; width: 640px; height: 25px;"><&#47;div></p>
+<h6 style="text-align: justify;">Tour is considered by many to be the highlight of the Society calendar...<&#47;h6></p>
+<p style="text-align: justify;">Every year we pick up our instruments, warm up our voices and launch ourselves off into the distance, complete with chorus and orchestra. We visit locations across the UK, Europe and the world and perform in some spectacular venues. Our days are filled with culture-soaking activities, and the journeys themselves hold legendary status with members new and old.<&#47;p></p>
+<blockquote>
+<p style="text-align: justify;">"Having not known many people in Musoc before tour I have been able to get to know so many incredible and fun people. I am so glad I chose to go on tour and am looking forward to the next one!"<&#47;p></p>
+<p class="qsource" style="text-align: justify;"><a title="Read Georgie's take on tour" href="http:&#47;&#47;eums.eusa.ed.ac.uk&#47;2011&#47;tour2011_fresher&#47;" target="_blank">Georgie Fraser (2011 Fresher)<&#47;a><&#47;p><br />
+<&#47;blockquote></p>
+<p style="text-align: justify;">Click the links above to find out about this year's travels, or to read more about tour in general.<&#47;p></p>

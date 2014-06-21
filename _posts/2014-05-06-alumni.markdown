@@ -1,0 +1,22 @@
+---
+layout: nav_menu_item
+status: publish
+published: true
+title: Alumni
+author:
+  display_name: Publicity Manager
+  login: eums_publicity
+  email: eums.publicity@gmail.com
+  url: http://www.eums.org.uk
+author_login: eums_publicity
+author_email: eums.publicity@gmail.com
+author_url: http://www.eums.org.uk
+wordpress_id: 3132
+wordpress_url: http://eums.eusa.ed.ac.uk/?p=3132
+date: '2014-05-06 16:15:15 -0700'
+date_gmt: '2014-05-06 16:15:15 -0700'
+categories: []
+tags: []
+comments: []
+---
+

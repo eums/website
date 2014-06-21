@@ -1,0 +1,52 @@
+---
+layout: post
+status: publish
+published: true
+title: The Big Sing 2011
+author:
+  display_name: Web Manager
+  login: eums_website
+  email: web@eums.org.uk
+  url: http://www.eums.org.uk
+author_login: eums_website
+author_email: web@eums.org.uk
+author_url: http://www.eums.org.uk
+excerpt: Big Sing 2011 - Saturday, 22 October 2011 - St Cuthbert's Parish Church
+wordpress_id: 940
+wordpress_url: http://eums.eusa.ed.ac.uk/?p=940
+date: '2011-10-12 08:00:48 -0700'
+date_gmt: '2011-10-12 08:00:48 -0700'
+categories:
+- News
+- Events
+- EUMS in the Community
+- Upcoming Projects
+tags: []
+comments: []
+---
+<h3 style="text-align: center;"><span style="color: #67167f;">Saturday 22nd October 2011<&#47;span><&#47;h3></p>
+<h3 style="text-align: center;"><span style="color: #67167f;">St Cuthbert's Parish Church, Edinburgh<&#47;span><&#47;h3></p>
+<h5 style="text-align: center;"><span style="color: #000000;">The Edinburgh University Music Society and Bethany Christian Trust<br />
+are teaming up to bring you The Big Sing 2011.<&#47;span><&#47;h5></p>
+<h5 style="text-align: center;"><span style="color: #000000;">Come along and sing Handel's <em>Messiah<&#47;em>&nbsp;under the baton of<br />
+award-winning and SPNM short-listed conductor <a title="Find Thomas Butler here..." href="http:&#47;&#47;www.thomas-butler.co.uk&#47;about.html" target="_blank">Thomas Butler<&#47;a> whilst<br />
+supporting&nbsp;Bethany's&nbsp;acclaimed&nbsp;"Stop Homelessness" campaign.<&#47;span><&#47;h5></p>
+<p style="text-align: justify;">Scottish charity Bethany Christian Trust and the EUMS invite you to attend Big Sing 2011, a large come-and-sing event where a chorus and our own orchestra will perform&nbsp;Handel's renowned&nbsp;<em>Messiah&nbsp;<&#47;em>in St Cuthbert's Parish Church on Lothian Road.<&#47;p></p>
+<h3 style="text-align: justify;">THE EVENT<&#47;h3></p>
+<p style="text-align: justify;">The event will involve rehearsals throughout the day (with tea and coffee being provided) and a concert in the evening, where performers and audience members will be able to bid for the chance to conduct the <em>Hallelujah Chorus<&#47;em>&nbsp;in all of its glory. Music will be available to hire.<&#47;p></p>
+<p style="text-align: justify;">Unfortunately, <em>we are now going to be unable to provide t-shirts for performers<&#47;em>, and as a result the prices to perform have been reduced. Those of you who have paid the original amount will be entitled to a refund of the difference, but remember that this is a charity event, so any donations will be more than welcome. All proceeds will be given to Bethany Christian Trust to support their Stop Homelessness campaign.<&#47;p></p>
+<p style="text-align: justify;">Concert dress for the day will be <strong>brightly coloured tops<&#47;strong>!<&#47;p></p>
+<h5 style="text-align: justify;"><a title="Big Sing 2011" href="http:&#47;&#47;eums.eusa.ed.ac.uk&#47;wp-content&#47;uploads&#47;files&#47;bigsing2011_webleaflet.pdf" target="_blank"><span style="color: #67167f;">Download the event flyer here<&#47;span><&#47;a><span style="color: #67167f;">.<&#47;span><&#47;h5></p>
+<h3 style="text-align: justify;">ON THE DAY<&#47;h3><br />
+Rehearsals start at 9.45 am, and will continue with frequent breaks until 6.00 pm. The concert will take place at 7.30 with doors opening at 7.00 pm. There will be a bake sale during the day and at the interval in the evening. If you wish to buy tickets to watch the performance in the evening then go the <a title="Bethany Christian Trust &amp; EUMS: Big Sing 2011" href="http:&#47;&#47;eums.eusa.ed.ac.uk&#47;2011&#47;bigsingconcert2011&#47;">concert page here<&#47;a>.</p>
+<h3>SIGN UP<&#47;h3></p>
+<p style="text-align: justify;">To sign up, follow the link below to be taken to our Ticketsource mini-site. Here you will be able to purchase your tickets. If you wish to sign up a large group then please contact our Community Relations Manager at <a title="Email us" href="mailto:community@eums.org.uk" target="_blank">community@eums.org.uk<&#47;a>.<&#47;p></p>
+<p style="text-align: center;"><a title="Sign up here..." href="http:&#47;&#47;www.ticketsource.co.uk&#47;date&#47;28485"><img src="http:&#47;&#47;eums.eusa.ed.ac.uk&#47;wp-content&#47;uploads&#47;build&#47;bigsing_signup.png" alt="" width="500" height="92" &#47;><&#47;a><&#47;p></p>
+<p style="text-align: justify;">The event is nearing, so check back to our website or follow our&nbsp;<a title="EUMS on Twitter" href="http:&#47;&#47;twitter.com&#47;eums_updates" target="_blank">twitter feed<&#47;a>&nbsp;(hashtag&nbsp;<a title="#bigsing2011" href="http:&#47;&#47;twitter.com&#47;#!&#47;search&#47;%23bigsing2011" target="_blank">#bigsing2011<&#47;a>) to get the latest information.<&#47;p></p>
+<p style="text-align: justify;"><em>Bethany&rsquo;s mission is to relieve the suffering and meet the long term needs of homeless and vulnerable people. Every year Bethany helps over 4,000 people to find, equip and maintain a home, overcome addictions and tackle other social and educational barriers which prevent them from living a full and healthy life.<&#47;em><&#47;p></p>
+<p style="text-align: justify;"><em>Bethany offers shelter and so much more besides, working with people to address the root causes of homelessness so they can move on into independent living. Bethany gives homeless and vulnerable people hope and a future. Watch the video to find out more and get a feel for the campaign.<&#47;em><&#47;p></p>
+<h5 style="text-align: justify;"><a title="Stop Homelessness Facebook Page" href="http:&#47;&#47;www.facebook.com&#47;StopHomelessness" target="_blank"><span style="color: #67167f;">To go to the campaign's Facebook page, follow this link<&#47;span><&#47;a><span style="color: #67167f;">.<&#47;span><&#47;h5><br />
+&nbsp;</p>
+<p>http:&#47;&#47;youtu.be&#47;WbLDUHq24Ek</p>
+<p align="center"><a title="Stop Homelessness - Campaign Poster 2011" href="http:&#47;&#47;eums.eusa.ed.ac.uk&#47;wp-content&#47;uploads&#47;images&#47;w620&#47;posters&#47;stophomelessness2011_poster.jpg"><img src="http:&#47;&#47;eums.eusa.ed.ac.uk&#47;wp-content&#47;uploads&#47;images&#47;w620&#47;posters&#47;stophomelessness2011_poster.jpg" alt="Stop Homelessness" width="310" height="438" &#47;><&#47;a><&#47;p><br />
+<img class="size-full wp-image-620" src="http:&#47;&#47;eums.eusa.ed.ac.uk&#47;wp-content&#47;uploads&#47;images&#47;w620&#47;bigsing_footer.png" alt="" width="620" height="202" &#47;></p>

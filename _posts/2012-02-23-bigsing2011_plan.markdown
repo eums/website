@@ -1,0 +1,30 @@
+---
+layout: post
+status: publish
+published: true
+title: Big Sing Final Report
+author:
+  display_name: Web Manager
+  login: eums_website
+  email: web@eums.org.uk
+  url: http://www.eums.org.uk
+author_login: eums_website
+author_email: web@eums.org.uk
+author_url: http://www.eums.org.uk
+excerpt: Big Sing raises over £1300 for Bethany Christian Trust's Stop Homelessness
+  campaign
+wordpress_id: 1640
+wordpress_url: http://eums.eusa.ed.ac.uk/?p=1640
+date: '2012-02-23 10:00:00 -0800'
+date_gmt: '2012-02-23 10:00:00 -0800'
+categories:
+- Events
+- EUMS in the Community
+tags: []
+comments: []
+---
+<p>Many of you may remember that the Edinburgh University Music Society partnered with Bethany Christian Trust in October to raise money and awareness for their <em>Stop Homelessness<&#47;em> campaign. The event was a great success, and we received a lot of positive feedback from attendees and audience members. Around 100 singers joined&nbsp;our orchestra and award-winning conductor Tom Butler to sing Handel's <em>Messiah<&#47;em>.</p>
+<p>[caption id="attachment_1645" align="aligncenter" width="558"]<a href="http:&#47;&#47;eums.eusa.ed.ac.uk&#47;wp-content&#47;uploads&#47;2012&#47;02&#47;projects_041.jpg"><img class=" wp-image-1645 " title="The Big Sing" src="http:&#47;&#47;eums.eusa.ed.ac.uk&#47;wp-content&#47;uploads&#47;2012&#47;02&#47;projects_041.jpg" alt="The Big Sing" width="558" height="225" &#47;><&#47;a> Tom Butler guides the colourful chorus and our orchestra...[&#47;caption]</p>
+<p>Through entry fees and generous donations we managed to raise a fantastic <strong>&pound;1317.06<&#47;strong>! This money will go towards supporting homeless people and will directly pay for their&nbsp;accommodation and for the framework to ensure that they are able to raise themselves up onto their own feet.</p>
+<p>[caption id="attachment_1944" align="aligncenter" width="246"]<a href="http:&#47;&#47;eums.eusa.ed.ac.uk&#47;wp-content&#47;uploads&#47;2012&#47;02&#47;bigsing2011_cheque.jpg"><img class=" wp-image-1944  " title="The cheque gets handed over..." src="http:&#47;&#47;eums.eusa.ed.ac.uk&#47;wp-content&#47;uploads&#47;2012&#47;02&#47;bigsing2011_cheque.jpg" alt="The cheque gets handed over..." width="246" height="245" &#47;><&#47;a> Georgine hands over the big cheque...[&#47;caption]</p>
+<p>To find out more go to the Bethany Christian Trust website <a title="Bethany Christian Trust" href="http:&#47;&#47;www.bethanychristiantrust.com&#47;">here<&#47;a>.</p>

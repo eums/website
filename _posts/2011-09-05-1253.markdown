@@ -1,0 +1,21 @@
+---
+layout: nav_menu_item
+status: publish
+published: true
+author:
+  display_name: Web Manager
+  login: eums_website
+  email: web@eums.org.uk
+  url: http://www.eums.org.uk
+author_login: eums_website
+author_email: web@eums.org.uk
+author_url: http://www.eums.org.uk
+wordpress_id: 1253
+wordpress_url: http://eums.eusa.ed.ac.uk/?p=1253
+date: '2011-09-05 00:10:39 -0700'
+date_gmt: '2011-09-05 00:10:39 -0700'
+categories: []
+tags: []
+comments: []
+---
+<p>The EUMS Symphony Orchestra is the largest orchestra at the University of Edinburgh. It is the society&rsquo;s only fully auditioned ensemble rehearsing every week in term-time on a Monday evening in the Reid Concert Hall in Bristo Square. The orchestra aims to provide students with the opportunity to play large-scale orchestral works to a very high standard. Concerts are given at the end of each semester in various locations around Edinburgh, including Greyfriars Kirk and St Mary&rsquo;s Cathedral. Recent works have included&nbsp;Tchaikovsky&rsquo;s&nbsp;Fifth Symphony,&nbsp;Rimsky Korzakov&rsquo;s Scheherazade&nbsp;and&nbsp;Respighi&rsquo;s Pines of Rome. Feel free to have a listen to&nbsp;an&nbsp;excerpt&nbsp;from a concert recording of Shostakovich&rsquo;s Tenth Symphony: [audio:http:&#47;&#47;eums.eusa.ed.ac.uk&#47;wp-content&#47;uploads&#47;audio&#47;snippets&#47;symphony_shostakovich_60s.mp3] Every two years the orchestra teams up with the EUMS Chorus to perform large scale orchestral and choral works in one of its concerts. Last performed was&nbsp;Carl Orff&rsquo;s Carmina Burana&nbsp;with soloists from within the music society as well as professional singers. This year Symphony Orchestra team up with the Chorus to perform&nbsp;The Dream of Gerontius by Elgar. Auditions for all instruments take place during Fresher&rsquo;s Week and can be signed up for during the Fresher&rsquo;s Fair. The audition involves playing a piece of music selected by yourself and also a short bit of sight-reading. For further details&hellip;</p>

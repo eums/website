@@ -1,0 +1,22 @@
+---
+layout: nav_menu_item
+status: publish
+published: true
+title: Email Signup
+author:
+  display_name: Web Manager
+  login: eums_website
+  email: web@eums.org.uk
+  url: http://www.eums.org.uk
+author_login: eums_website
+author_email: web@eums.org.uk
+author_url: http://www.eums.org.uk
+wordpress_id: 2450
+wordpress_url: http://eums.eusa.ed.ac.uk/?p=2450
+date: '2012-09-17 13:26:22 -0700'
+date_gmt: '2012-09-17 13:26:22 -0700'
+categories: []
+tags: []
+comments: []
+---
+
