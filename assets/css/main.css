@@ -115,12 +115,42 @@ header img {
 
 header h1 {
     margin: 0;
+    padding-top: 1em;
 }
 
 header .tagline {
     font-style: italic;
     text-align: right;
     margin-right: 5em;
+    margin-bottom: 0;
+    padding-bottom: 1em;
+}
+
+nav ul {
+    list-style: none;
+    background: #ccc;
+    margin: 0;
+    padding: 0;
+}
+
+nav a {
+    display: block;
+    width: 6em;
+    height: 1.5em;
+    padding: 0;
+    margin-left: 2em;
+    background: #dde;
+    text-align: center;
+    text-decoration: none;
+}
+
+nav li {
+    float: left;
+}
+
+nav a:hover {
+    background: #222;
+    color: #dde;
 }
 
 /* ==========================================================================
