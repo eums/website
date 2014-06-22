@@ -107,7 +107,8 @@ body {
     margin-right: auto;
 }
 
-header[role="banner"]{
+header[role="banner"],
+header img {
     background: #D40000;
     color: white;
 }
