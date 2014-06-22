@@ -142,10 +142,11 @@ nav ul {
     list-style: none;
     margin: 0;
     padding: 0;
+    background: #dde;
 }
 
 nav li {
-    display: inline-blockp;
+    display: inline-block;
     padding: 0;
     background: #dde;
     text-align: center;
@@ -157,13 +158,18 @@ nav li:not(:first-child) {
 }
 
 nav li a {
+    color: #222;
     display: inline-block;
     width: 6em;
     height: 1.5em;
+    text-decoration: none;
 }
 
 nav li:hover {
     background: #222;
+}
+
+nav li a:hover {
     color: #dde;
 }
 
