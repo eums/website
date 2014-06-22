@@ -96,6 +96,18 @@ body {
     font: 14px "Trebuchet MS", Arial, Helvetica, sans-serif;
 }
 
+.publication-date {
+    font-style: italic;
+    margin-top: 0.5em;
+    margin-bottom: 2em;
+    margin-left: 1em;
+    color: #556;
+}
+
+h2 {
+    margin-bottom: 0.25em;
+}
+
 /* layout */
 body {
     overflow-y: scroll;

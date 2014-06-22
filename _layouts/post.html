@@ -5,7 +5,9 @@ layout: default
 <article>
   <header>
     <h2>{{ page.title }}</h2>
-    <p>Published: <time pubdate="pubdate">{{ page.date }}</time></p>
+    <p class="publication-date">
+      <time pubdate="pubdate">{{ page.date | date: "%-d %B %Y" }}</time>
+    </p>
   </header>
 
   {{ content }}
