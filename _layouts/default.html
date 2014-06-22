@@ -17,7 +17,9 @@
   </head>
   <body>
 	{% include header.html %}
-	{% include navigation.html %}
-    {{ content }}
+	<div class="container">
+	  {% include navigation.html %}
+	  {{ content }}
+	</div>
   </body>
 </html>

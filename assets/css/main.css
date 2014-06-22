@@ -93,20 +93,30 @@ textarea {
 
 /* base */
 body {
-    font: 12px "Trebuchet MS", Arial, Helvetica, sans-serif;
+    font: 14px "Trebuchet MS", Arial, Helvetica, sans-serif;
 }
 
 /* layout */
-#header {
+body {
+    overflow-y: scroll;
+}
+
+.container {
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+header {
     background: #D40000;
     color: white;
 }
 
-#header h1 {
+header h1 {
     margin: 0;
 }
 
-#header-tagline {
+header .tagline {
     font-style: italic;
 }
 
