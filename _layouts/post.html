@@ -2,4 +2,12 @@
 layout: default
 ---
 
-{{ content }}
+<article>
+  <header>
+    <h2>{{ page.title }}</h2>
+    <p>Published: <time pubdate="pubdate">{{ page.date }}</time></p>
+  </header>
+
+  {{ content }}
+
+</article>

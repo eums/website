@@ -107,7 +107,7 @@ body {
     margin-right: auto;
 }
 
-header {
+header[role="banner"]{
     background: #D40000;
     color: white;
 }
@@ -118,6 +118,8 @@ header h1 {
 
 header .tagline {
     font-style: italic;
+    text-align: right;
+    margin-right: 5em;
 }
 
 /* ==========================================================================
