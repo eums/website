@@ -8,15 +8,15 @@ categories:
 - Events
 ---
 
-[![QUSO Concerts](http://quso.webs.com/concerts.html)](http://eums.eusa.ed.ac.uk/wp-content/uploads/images/w620/posters/quso_poster01.jpg)
+[![Visit the QUSO website](http://eums.eusa.ed.ac.uk/wp-content/uploads/images/w620/posters/quso_poster01.jpg)](http://quso.webs.com/concerts.html)
 
 ### Wednesday 22nd June 2011 12.10pm
 
 ### St Giles' Cathedral, Royal Mile
 
 **Kamen** Band of Brothers<br>
-**Vaughan Williams **English Folk Song Suite<br>
-**Tchaikovsky **Symphony No. 6 (Third Movement)<br>
+**Vaughan Williams** English Folk Song Suite<br>
+**Tchaikovsky** Symphony No. 6 (Third Movement)<br>
 **Hardiman** Lord of the Dance
 
 **Free Admission**
