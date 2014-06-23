@@ -148,28 +148,22 @@ nav ul {
 nav li {
     display: inline-block;
     padding: 0;
-    background: #dde;
+    margin: 0;
     text-align: center;
     text-decoration: none;
-}
-
-nav li:not(:first-child) {
-    margin-left: 2em;
 }
 
 nav li a {
     color: #222;
     display: inline-block;
-    width: 6em;
-    height: 1.5em;
+    width: 7.7em;
+    height: 2em;
+    line-height: 2em;
     text-decoration: none;
 }
 
-nav li:hover {
-    background: #222;
-}
-
 nav li a:hover {
+    background: #222;
     color: #dde;
 }
 
