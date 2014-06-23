@@ -108,6 +108,10 @@ h2 {
     margin-bottom: 0.25em;
 }
 
+h3 {
+    font-size: 130%;
+}
+
 a, a:visited {
     color: #d43737;
     text-decoration: none;
