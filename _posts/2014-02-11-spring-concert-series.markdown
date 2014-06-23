@@ -1,28 +1,16 @@
 ---
 layout: post
-status: publish
 published: true
 title: Spring Concert Series
-author:
-  display_name: Publicity Manager
-  login: eums_publicity
-  email: eums.publicity@gmail.com
-  url: http://www.eums.org.uk
-author_login: eums_publicity
-author_email: eums.publicity@gmail.com
-author_url: http://www.eums.org.uk
 wordpress_id: 3074
-wordpress_url: http://eums.eusa.ed.ac.uk/?p=3074
-date: '2014-02-11 13:31:20 -0800'
-date_gmt: '2014-02-11 13:31:20 -0800'
-categories:
-- Uncategorised
-tags: []
-comments: []
 ---
-<p>So after our massively successful performances before Christmas, we have new exciting repertoire for all three ensembles! More information on all concerts will be posted soon so watch this space...</p>
-<p>Symphony orchestra are playing Tchaikovsky's 4th Symphony, Wagner: Prelude and Liebestod from Tristan and Isolde and&nbsp;Canteloube's Chants d'Auvergne with soprano Louise Adler, all on the 14th of March in Greyfriar's Kirk.</p>
-<p>Sinfonia are performing on the 15th of March in the Reid concert hall, with a programme including Beethoven's 1st piano concerto (soloist Lewis Kelly) and Wagner's&nbsp;Overture to Die Meistersinger Von N&uuml;rnberg.</p>
-<p>And our Chorus have a range of pieces including Chichester Psalms by Bernstein and Leighton Magnificat as well as works by Tavener and Britten. This fabulous concert will be on the 22nd of March in St Cuthbert's Church.</p>
-<p>You can get tickets for all three concerts here:&nbsp;<a href="http:&#47;&#47;www.ticketsource.co.uk&#47;eums" target="_blank" rel="nofollow">http:&#47;&#47;www.ticketsource.co.uk&#47;eums<&#47;a></p>
-<p>&nbsp;</p>
+So after our massively successful performances before Christmas, we have new exciting repertoire for all three ensembles! More information on all concerts will be posted soon so watch this space...
+
+Symphony Orchestra are playing Tchaikovsky's 4th Symphony, Wagner's Prelude and Liebestod from Tristan and Isolde and&nbsp;Canteloube's Chants d'Auvergne with soprano Louise Adler, all on the 14th of March in Greyfriar's Kirk.
+
+Sinfonia are performing on the 15th of March in the Reid Concert Hall, with a programme including Beethoven's 1st Piano Concerto (soloist Lewis Kelly) and Wagner's&nbsp;Overture to Die Meistersinger Von N&uuml;rnberg.
+
+And our Chorus have a range of pieces including Chichester Psalms by Bernstein and Leighton's Magnificat as well as works by Tavener and Britten. This fabulous concert will be on the 22nd of March in St Cuthbert's Church.
+
+You can get tickets for all three concerts here: [http://www.ticketsource.co.uk/eums]("http://www.ticketsource.co.uk/eums")
+
