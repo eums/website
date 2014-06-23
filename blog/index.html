@@ -18,9 +18,7 @@
     <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Newer posts</a>
   {% endif %}
 
-  {% if paginator.previous_page and paginator.next_page %}
-  |
-  {% endif %}
+  {% if paginator.previous_page and paginator.next_page %} | {% endif %}
 
   {% if paginator.next_page %}
     <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older posts &raquo;</a>
