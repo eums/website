@@ -26,9 +26,9 @@ tags: []
 comments: []
 ---
 <p><a title="buy tickets online" href="http:&#47;&#47;www.ticketsource.co.uk&#47;event&#47;18148"> <img src="http:&#47;&#47;eums.eusa.ed.ac.uk&#47;wp-content&#47;uploads&#47;images&#47;w620&#47;posters&#47;20111119_chorussymph.jpg" alt="" width="620" height="872" &#47;><&#47;a></p>
-<p>This November it is the turn of the Symphony Orchestra to join forces with our Chorus and we are bringing you an incredible performance: Elgar's epic&nbsp;<em>Dream of Gerontius<&#47;em>.<&#47;p></p>
+<p>This November it is the turn of the Symphony Orchestra to join forces with our Chorus and we are bringing you an incredible performance: Elgar's epic <em>Dream of Gerontius<&#47;em>.<&#47;p></p>
 <p>With a chorus of 180 alongside the grandeur of Symphony Orchestra this will be a concert not to miss. Doors open at 7pm, and it is recommended that you arrive early to ensure that you are not disappointed!<&#47;p><br />
 To buy tickets, click the link below:</p>
 <p align="middle"><a title="buy tickets online" href="http:&#47;&#47;www.ticketsource.co.uk&#47;event&#47;18148"> <img src="http:&#47;&#47;www.ticketsource.co.uk&#47;images&#47;buyTickets&#47;buyTickets-medium.png" alt="" width="118" height="88" border="0" &#47;><&#47;a><&#47;p><br />
-&nbsp;</p>
-<p>&nbsp;</p>
+ </p>
+<p> </p>

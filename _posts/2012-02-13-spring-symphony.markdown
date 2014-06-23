@@ -30,5 +30,5 @@ comments: []
 <p>This concert sold out in our Winter Concert Series, so book early to avoid disappointment!</p>
 <p>To buy tickets, click the link below:</p>
 <p align="middle"><a title="buy tickets online" href="http:&#47;&#47;xtspro.com&#47;-&#47;eums20120310&#47;"> <img src="http:&#47;&#47;eums.eusa.ed.ac.uk&#47;wp-content&#47;uploads&#47;build&#47;xtspro_largebutton.png" alt="" width="620" height="220" border="0" &#47;><&#47;a><&#47;p><br />
-&nbsp;</p>
-<p>&nbsp;</p>
+ </p>
+<p> </p>

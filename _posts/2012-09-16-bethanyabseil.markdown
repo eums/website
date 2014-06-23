@@ -25,7 +25,7 @@ comments: []
 ---
 <h3 style="text-align: center; color: #672088;"><big>Dare to Abseil for Homelessness<&#47;big><&#47;h3></p>
 <h3 style="text-align: center; color: #672088;">Saturday 29 September, Barns Ness Lighthouse<&#47;h3><br />
-&nbsp;</p>
+ </p>
 <p>Bethany Christian Trust, a charity that the Edinburgh University Music Society has been working with increasingly in recent years, is running a fantastic event later on this month: an abseil down Barns Ness Lighthouse near Dunbar. The event will raise money for Bethany's <em>Stop Homelessness<&#47;em> campaign and is ideal for students wanting a big thrill in aid of charity!<&#47;p></p>
 <p>[caption id="" align="aligncenter" width="300"]<a href="http:&#47;&#47;www.bethanychristiantrust.com&#47;wp&#47;wp-content&#47;uploads&#47;Lighthouse.jpg"><img class=" " title="Abseiling off Barns Ness Lighthouse..." src="http:&#47;&#47;www.bethanychristiantrust.com&#47;wp&#47;wp-content&#47;uploads&#47;Lighthouse.jpg" alt="Abseiling off Barns Ness Lighthouse..." width="300" height="400" &#47;><&#47;a> Abseiling off Barns Ness Lighthouse...[&#47;caption]</p>
 <p>Participants must fulfil a few criteria regarding age and fitness, but otherwise the event is open to everyone!<&#47;p></p>

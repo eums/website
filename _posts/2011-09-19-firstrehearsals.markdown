@@ -34,4 +34,4 @@ comments: []
 <h3>CHORUS<&#47;h3></p>
 <p>The first rehearsal is at 7 pm on Tuesday 20th at St. Peter's Church Hall. Please arrive ten or fifteen minutes early to ensure that we can have music and be ready to start the rehearsal on time.<&#47;p></p>
 <h3>SINFONIA<&#47;h3></p>
-<p>The first rehearsal is at 10.30 am on Saturday 24th at Alison House (this is to be confirmed: if you are on the mailing list you will have been emailed the latest details).&nbsp;Again, arrive early to get sorted out before the rehearsal starts. Please note that Sinfonia usually hold rehearsals at the Reid Concert Hall.<&#47;p></p>
+<p>The first rehearsal is at 10.30 am on Saturday 24th at Alison House (this is to be confirmed: if you are on the mailing list you will have been emailed the latest details). Again, arrive early to get sorted out before the rehearsal starts. Please note that Sinfonia usually hold rehearsals at the Reid Concert Hall.<&#47;p></p>

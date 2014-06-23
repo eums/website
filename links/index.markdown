@@ -25,8 +25,8 @@ comments: []
 <table border="0">
 <tbody>
 <tr>
-<td style="text-align: right;">&nbsp;<strong>REID CONCERT HALL<&#47;strong><&#47;td></p>
-<td style="text-align: right;">&nbsp;<a title="Reid Concert Hall" href="http:&#47;&#47;www.edinburghfirst.co.uk&#47;venues&#47;reid-hall" target="_blank"><img title="Reid Concert Hall" src="http:&#47;&#47;eums.eusa.ed.ac.uk&#47;wp-content&#47;uploads&#47;build&#47;useful_reid.png" alt="Reid Concert Hall" width="200" height="100" &#47;><&#47;a><&#47;td><br />
+<td style="text-align: right;"> <strong>REID CONCERT HALL<&#47;strong><&#47;td></p>
+<td style="text-align: right;"> <a title="Reid Concert Hall" href="http:&#47;&#47;www.edinburghfirst.co.uk&#47;venues&#47;reid-hall" target="_blank"><img title="Reid Concert Hall" src="http:&#47;&#47;eums.eusa.ed.ac.uk&#47;wp-content&#47;uploads&#47;build&#47;useful_reid.png" alt="Reid Concert Hall" width="200" height="100" &#47;><&#47;a><&#47;td><br />
 <&#47;tr></p>
 <tr>
 <td style="text-align: right;"><strong>GREYFRIARS KIRK<&#47;strong><&#47;td></p>
@@ -34,21 +34,21 @@ comments: []
 <&#47;tr></p>
 <tr>
 <td style="text-align: right;"><strong>ST MARY'S CATHEDRAL<&#47;strong><&#47;td></p>
-<td style="text-align: right;">&nbsp;<a title="St Mary's Cathedral" href="http:&#47;&#47;www.cathedral.net&#47;" target="_blank"><img title="St Mary's Cathedral" src="http:&#47;&#47;eums.eusa.ed.ac.uk&#47;wp-content&#47;uploads&#47;build&#47;useful_stmarys.png" alt="St Mary's Cathedral" width="200" height="100" &#47;><&#47;a><&#47;td><br />
+<td style="text-align: right;"> <a title="St Mary's Cathedral" href="http:&#47;&#47;www.cathedral.net&#47;" target="_blank"><img title="St Mary's Cathedral" src="http:&#47;&#47;eums.eusa.ed.ac.uk&#47;wp-content&#47;uploads&#47;build&#47;useful_stmarys.png" alt="St Mary's Cathedral" width="200" height="100" &#47;><&#47;a><&#47;td><br />
 <&#47;tr></p>
 <tr>
-<td style="text-align: right;">&nbsp;<strong>ST CUTHBERT'S PARISH CHURCH<&#47;strong><&#47;td></p>
+<td style="text-align: right;"> <strong>ST CUTHBERT'S PARISH CHURCH<&#47;strong><&#47;td></p>
 <td>
-<p style="text-align: right;">&nbsp;<a title="St Cuthbert's Parish Church" href="http:&#47;&#47;www.st-cuthberts.net&#47;" target="_blank"><img title="St Cuthbert's Parish Church" src="http:&#47;&#47;eums.eusa.ed.ac.uk&#47;wp-content&#47;uploads&#47;build&#47;useful_stcuthberts.png" alt="St Cuthbert's Parish Church" width="200" height="100" &#47;><&#47;a><&#47;p><br />
+<p style="text-align: right;"> <a title="St Cuthbert's Parish Church" href="http:&#47;&#47;www.st-cuthberts.net&#47;" target="_blank"><img title="St Cuthbert's Parish Church" src="http:&#47;&#47;eums.eusa.ed.ac.uk&#47;wp-content&#47;uploads&#47;build&#47;useful_stcuthberts.png" alt="St Cuthbert's Parish Church" width="200" height="100" &#47;><&#47;a><&#47;p><br />
 <&#47;td><br />
 <&#47;tr><br />
 <&#47;tbody><br />
 <&#47;table><br />
-&nbsp;</p>
+ </p>
 <h2><strong>RELATED ORGANISATIONS<&#47;strong><&#47;h2><br />
 <a title="Edinburgh University Students' Association" href="http:&#47;&#47;www.eusa.ed.ac.uk&#47;" target="_blank">Edinburgh University Students' Association<&#47;a></p>
 <p><a title="The University of Edinburgh" href="http:&#47;&#47;www.ed.ac.uk&#47;home" target="_blank">The University of Edinburgh<&#47;a></p>
-<p><a title="Reid School of Music" href="http:&#47;&#47;www.ed.ac.uk&#47;schools-departments&#47;edinburgh-college-art&#47;music" target="_blank">The&nbsp;Reid School of Music<&#47;a></p>
+<p><a title="Reid School of Music" href="http:&#47;&#47;www.ed.ac.uk&#47;schools-departments&#47;edinburgh-college-art&#47;music" target="_blank">The Reid School of Music<&#47;a></p>
 <h2>RELATED SOCIETIES<&#47;h2></p>
 <table width="262" border="0" cellspacing="0" cellpadding="0">
 <colgroup>

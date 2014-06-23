@@ -30,5 +30,5 @@ comments: []
 <p>To top off this mighty programme Sinfonia will be joined by cellist Daniel Kraemer for Saint-Sa&euml;ns' stunning <em>Cello Concerto No. 1<&#47;em>, rounding off a concert that is not to be missed!<&#47;p><br />
 To buy tickets, click the link below:</p>
 <p align="middle"><a title="buy tickets online" href="http:&#47;&#47;www.ticketsource.co.uk&#47;event&#47;21011"> <img src="http:&#47;&#47;www.ticketsource.co.uk&#47;images&#47;buyTickets&#47;buyTickets-medium.png" alt="" width="118" height="88" border="0" &#47;><&#47;a><&#47;p><br />
-&nbsp;</p>
-<p>&nbsp;</p>
+ </p>
+<p> </p>

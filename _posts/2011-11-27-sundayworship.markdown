@@ -22,5 +22,5 @@ categories:
 tags: []
 comments: []
 ---
-<p>This morning EUMS Chorus featured on BBC Radio 4's Sunday Worship programme, adding a bit of musical spark to the morning's hymns. <a title="Past Conductors" href="http:&#47;&#47;eums.eusa.ed.ac.uk&#47;society&#47;conductors&#47;past-conductors&#47;">Iain McLarty<&#47;a> conducted the select group of singers through a number of songs of worship at&nbsp;Mayfield Salisbury Parish Church.</p>
+<p>This morning EUMS Chorus featured on BBC Radio 4's Sunday Worship programme, adding a bit of musical spark to the morning's hymns. <a title="Past Conductors" href="http:&#47;&#47;eums.eusa.ed.ac.uk&#47;society&#47;conductors&#47;past-conductors&#47;">Iain McLarty<&#47;a> conducted the select group of singers through a number of songs of worship at Mayfield Salisbury Parish Church.</p>
 <p><a title="BBC Radio 4 Programmes" href="http:&#47;&#47;www.bbc.co.uk&#47;programmes&#47;b017lbd5#synopsis" target="_blank">The link to the programme website can be found here<&#47;a>.</p>

@@ -22,6 +22,6 @@ tags: []
 comments: []
 ---
 <p>April 2013's Members' Newsletter is out at last! Many apologies for the long delay... Our Social Secretaries had a computer-based disaster. Not to worry though: this one is a cracking round-up from last semester!</p>
-<p><a title="Members' Newsletter" href="http:&#47;&#47;eums.eusa.ed.ac.uk&#47;society&#47;membership&#47;newsletter&#47;">Click here to go to the Members' Newsletter page<&#47;a>&nbsp;and download and read it.</p>
+<p><a title="Members' Newsletter" href="http:&#47;&#47;eums.eusa.ed.ac.uk&#47;society&#47;membership&#47;newsletter&#47;">Click here to go to the Members' Newsletter page<&#47;a> and download and read it.</p>
 <h5>In this issue:<&#47;h5></p>
 <h4>Concert Rundown - A Matter of Pronunciation - Big Sing - Sectional Meals - Carolling - Hockey - Ball - Tour<&#47;h4></p>

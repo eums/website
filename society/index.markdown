@@ -28,7 +28,7 @@ The Edinburgh University Music Society is widely regarded as one of Scotland&rsq
 
 The music society of the University of Edinburgh was founded in 1867 by Sir Herbert Oakeley. Following the ancient University&rsquo;s long musical tradition, which began formally in 1839 when the origins of today&rsquo;s music department were founded as a result of a bequest from General John Reid, the Music Society tied together many casual musical groups that had existed previously.
 
-Throughout the twentieth century the Society took part in larger and more extravagant performances, and this tradition has certainly not waned. Recent performances include Elgar&rsquo;s <em>Dream of Gerontius</em> and Orff&rsquo;s <em>Carmina Burana</em>, and with six major concerts a year the society's&nbsp;repertoire&nbsp;is extensive.
+Throughout the twentieth century the Society took part in larger and more extravagant performances, and this tradition has certainly not waned. Recent performances include Elgar&rsquo;s <em>Dream of Gerontius</em> and Orff&rsquo;s <em>Carmina Burana</em>, and with six major concerts a year the society's repertoire is extensive.
 
 <a title="Link to EUMS' biography" href="http:eums.eusa.ed.ac.uksocietybiography">Click here to read the Society's full biography<a>.
 

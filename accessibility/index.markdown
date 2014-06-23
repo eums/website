@@ -20,12 +20,12 @@ tags: []
 comments: []
 ---
 <h1>Accessibility<&#47;h1></p>
-<p>Welcome to the Edinburgh University Music Society website. It allows you to access all Edinburgh University Music Society&nbsp;website services from a single point on the Internet and aims to deliver information in plain English. The site has been designed to be as easy to use as possible. If you have any feedback, you are welcome to contact us&nbsp;<a title="Contact us" href="http:&#47;&#47;eums.eusa.ed.ac.uk&#47;contact&#47;">here<&#47;a>.<&#47;p></p>
+<p>Welcome to the Edinburgh University Music Society website. It allows you to access all Edinburgh University Music Society website services from a single point on the Internet and aims to deliver information in plain English. The site has been designed to be as easy to use as possible. If you have any feedback, you are welcome to contact us <a title="Contact us" href="http:&#47;&#47;eums.eusa.ed.ac.uk&#47;contact&#47;">here<&#47;a>.<&#47;p></p>
 <h2>VENUE ACCESS<&#47;h2></p>
-<p>The Edinburgh University Music Society aims to ensure that all of the venues we perform and rehearse in are accessible to all.&nbsp;All of our venues are wheelchair accessible, and we also welcome guide dogs at our concerts.<&#47;p></p>
+<p>The Edinburgh University Music Society aims to ensure that all of the venues we perform and rehearse in are accessible to all. All of our venues are wheelchair accessible, and we also welcome guide dogs at our concerts.<&#47;p></p>
 <p>If you feel you may be prevented from rehearsing with <a title="The Society" href="http:&#47;&#47;eums.eusa.ed.ac.uk&#47;society&#47;biography&#47;">one of our ensembles<&#47;a> as a result of any additional accessibility needs then please get in touch with <a title="Find the appropriate email address you are looking for here" href="http:&#47;&#47;eums.eusa.ed.ac.uk&#47;society&#47;organisation&#47;">the appropriate Ensemble Manager<&#47;a> and we will be happy to ensure that any issue is resolved to the best of our ability.<&#47;p></p>
-<p>For our concerts, to ensure that we can accommodate you please let us know&nbsp;of your specific requirements when booking your tickets in order to make best use of our facilities.&nbsp;Stewards and trained first aid personnel are on duty during any performance to assist you if required. Please <a title="Contact us" href="http:&#47;&#47;eums.eusa.ed.ac.uk&#47;contact&#47;">contact us<&#47;a>&nbsp;for further information about disabled facilities.<&#47;p></p>
-<p>The University of Edinburgh's Disability Office has created maps detailing&nbsp;access features, gradients and transport links, and these are provided below:<&#47;p></p>
+<p>For our concerts, to ensure that we can accommodate you please let us know of your specific requirements when booking your tickets in order to make best use of our facilities. Stewards and trained first aid personnel are on duty during any performance to assist you if required. Please <a title="Contact us" href="http:&#47;&#47;eums.eusa.ed.ac.uk&#47;contact&#47;">contact us<&#47;a> for further information about disabled facilities.<&#47;p></p>
+<p>The University of Edinburgh's Disability Office has created maps detailing access features, gradients and transport links, and these are provided below:<&#47;p></p>
 <ul>
 <ul>
 <li><a title="Map of the City" href="http:&#47;&#47;eums.eusa.ed.ac.uk&#47;wp-content&#47;uploads&#47;files&#47;city-wide_access.pdf" target="_blank">Click here to view the access map for the south of the city, from Waverley Station in the north to King's Buildings in the south<&#47;a>.<&#47;li>
@@ -33,7 +33,7 @@ comments: []
 <&#47;ul><br />
 <&#47;ul></p>
 <h2>ONLINE ACCESS<&#47;h2></p>
-<p>The Edinburgh University Music Society&nbsp;is committed to making its services accessible to everyone, including those with additional support needs. If you use a screen reader, or some other device to help you view the Internet this site should be accessible to you. Most of the site conforms to Level AA of the Web Content Accessibility Guidelines (WCAG).<&#47;p></p>
+<p>The Edinburgh University Music Society is committed to making its services accessible to everyone, including those with additional support needs. If you use a screen reader, or some other device to help you view the Internet this site should be accessible to you. Most of the site conforms to Level AA of the Web Content Accessibility Guidelines (WCAG).<&#47;p></p>
 <p>The key issues we have addressed to ensure accessibility are as follows:<&#47;p></p>
 <ul>
 <ul>

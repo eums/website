@@ -28,5 +28,5 @@ comments: []
 <h4>News Releases<&#47;h4></p>
 <p>If you wish to be kept updated please subscribe to our twice-monthly newsletter <em>ad.lib<&#47;em>. <a title="Sign up to our newsletter..." href="#">Sign up here<&#47;a>.<&#47;p></p>
 <p><strong>For all recent news items please go to <a title="EUMS News Archive" href="http:&#47;&#47;eums.eusa.ed.ac.uk&#47;category&#47;news&#47;">our News page<&#47;a>.<&#47;strong><&#47;p><br />
-&nbsp;</p>
+ </p>
 <p><a href="http:&#47;&#47;www.facebook.com&#47;ed.music.society"><img title="Facebook" alt="Link to Facebook" src="http:&#47;&#47;eums.eusa.ed.ac.uk&#47;wp-content&#47;uploads&#47;build&#47;socialfinder_fb.png" width="300" height="150" &#47;><&#47;a><a href="http:&#47;&#47;twitter.com&#47;edmusicsociety"><img title="Twitter" alt="Link to Twitter" src="http:&#47;&#47;eums.eusa.ed.ac.uk&#47;wp-content&#47;uploads&#47;build&#47;socialfinder_tw.png" width="300" height="150" &#47;><&#47;a></p>

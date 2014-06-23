@@ -38,5 +38,5 @@ comments: []
 Doors open at 7pm, and it is recommended that you arrive early to ensure that you are not disappointed!</p>
 <p>To buy tickets, click the link below:</p>
 <p align="middle"><a title="buy tickets online" href="http:&#47;&#47;www.ticketsource.co.uk&#47;date&#47;24382"> <img src="http:&#47;&#47;www.ticketsource.co.uk&#47;images&#47;buyTickets&#47;buyTickets-medium.png" alt="" width="118" height="88" border="0" &#47;><&#47;a><&#47;p><br />
-&nbsp;</p>
-<p>&nbsp;</p>
+ </p>
+<p> </p>

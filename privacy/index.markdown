@@ -27,7 +27,7 @@ comments: []
 <p><strong>Ticket Sales<&#47;strong><br />
 Name, address, phone, e-mail, and debit&#47;credit card information are necessary for purchase. Please note that debit&#47;credit card information is not stored beyond the period of transaction and that such details are handled securely by TicketSource Limited.<&#47;p></p>
 <p><strong>Gold Membership<&#47;strong><br />
-Name, address, and e-mail are held&nbsp;to send your Certificate of Membership and any paper correspondance to you. Your date of birth is required for informational purposes only. No financial details are to be held by us, and should only be handled by your bank or building society.<&#47;p></p>
+Name, address, and e-mail are held to send your Certificate of Membership and any paper correspondance to you. Your date of birth is required for informational purposes only. No financial details are to be held by us, and should only be handled by your bank or building society.<&#47;p></p>
 <p>The Edinburgh University Music Society is committed to protecting the privacy of users of this web-site. We do not provide access to your information to any other organisation.<&#47;p></p>
 <h6><strong>What Are Cookies And Do You Use Them?<&#47;strong><&#47;h6></p>
 <p>Cookies are small tags, stored in your browser, which allow us to identify you as you move through the site. The site will record and retain visitors&rsquo; IP addresses, and visitor behaviour will analysed through Google Analytics.<&#47;p></p>

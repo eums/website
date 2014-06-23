@@ -25,7 +25,7 @@ comments: []
 <h5>Front Page<&#47;h5></p>
 <div><a href="&#47;">Front page of <em>Edinburgh University Music Society<&#47;em><&#47;a><&#47;div><br />
 <&#47;div><br />
-&nbsp;</p>
+ </p>
 <div>
 <h5>Ensemble Menu<&#47;h5></p>
 <div>
