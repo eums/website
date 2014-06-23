@@ -10,7 +10,7 @@ wordpress_id: 3069
 **Name:** Patrick Allen <br>
 **Age:** 18 <br>
 **Hometown:** &ldquo;the &lsquo;Burgh&rdquo;, Romford <br>
-**Degree:** English Language<be>
+**Degree:** English Language<br>
 **Instrument:** &lsquo;cello<br>
 **Post Symphony Drink:** Jager<br>
 **Favourite Symphony:** Mozart's 40th
