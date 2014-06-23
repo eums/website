@@ -29,7 +29,11 @@ piano for a long time before trombone though too!
 **What has been your most memorable moment of your EUMS membership so
 far?**
 
-That&rsquo;s a tough one but it will have to be sectional meals with Das Mute, when I had to drink a whole trombone mute of beer in one. So what we all want to know is, did you succeed? Almost, almost! I will succeed next year, I promise you all. **[EUMS is going to hold him to that one]**
+That&rsquo;s a tough one but it will have to be sectional meals with Das Mute, when I had to drink a whole trombone mute of beer in one.
+
+**So what we all want to know is, did you succeed?**
+
+Almost, almost! I will succeed next year, I promise you all. **[EUMS is going to hold him to that one]**
 
 **You are president Vicky&rsquo;s chosen fresher. How does this feel?**
 
