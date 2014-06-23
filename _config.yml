@@ -3,8 +3,8 @@ paginate: 15
 paginate_path:  /blog/page/:num
 
 defaults:
-    -
-        scope:
-            path: "" # for all files
-        values:
-            layout: "default"
+  -
+    scope:
+      path: "" # for all files
+    values:
+      layout: "default"
