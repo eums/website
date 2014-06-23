@@ -5,9 +5,9 @@ title: Innovative Learning Week Workshops
 wordpress_id: 3060
 
 ---
-This year, EUMS are hosting a number of Innovative Learning Week events &nbsp;that are open to members of the society, staff and students at UoE and the wider community of Edinburgh. Sign-up for these events is via email to myself at: [community@eums.org.uk]("mailto:community@eums.org.uk") - spaces are limited and are given on a first come first served basis!
+This year, EUMS are hosting a number of Innovative Learning Week events that are open to members of the society, staff and students at UoE and the wider community of Edinburgh. Sign-up for these events is via email to myself at: [community@eums.org.uk]("mailto:community@eums.org.uk") - spaces are limited and are given on a first come first served basis!
 
-Details of events and dates&#47;times are listed below. The workshops are all free of charge and are a great way to experience something new and fun! 
+Details of events and dates/times are listed below. The workshops are all free of charge and are a great way to experience something new and fun! 
 
 **_Wednesday 19th February_** - Reid Concert Hall
 
@@ -28,4 +28,4 @@ Details of events and dates&#47;times are listed below. The workshops are all fr
 
 Follow the link below to find the full calendar of Innovative Learning Week events.
 
-[Innovative Learning Week Calendar]("http:&#47;&#47;ilwcalendar.co.uk&#47;?page_id=6")
+[Innovative Learning Week Calendar]("http://ilwcalendar.co.uk/page_id=6")

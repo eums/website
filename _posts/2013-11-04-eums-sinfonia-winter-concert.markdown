@@ -18,6 +18,6 @@ The concert will be taking place on **Saturday 23rd November** at **7.30pm** in 
 
 An evening not to be missed!
 
-Tickets are &pound;10&#47;5 and can be bought on the door, in rehearsals for any of our 3 ensembles, and also online using the link below:
+Tickets are £10/5 and can be bought on the door, in rehearsals for any of our 3 ensembles, and also online using the link below:
 
 [http://www.ticketsource.co.uk/eums]("http://www.ticketsource.co.uk/eums")

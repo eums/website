@@ -5,15 +5,15 @@ title: Meet the Fresher! Patrick Allen
 wordpress_id: 3069
 ---
 
-![One smiling Patrick Allen]({{ asset_base_uri }}/img/meet-the-fresher/patrick-allen-pic.jpg)
+![One smiling Patrick Allen]({{ site.assets }}/img/meet-the-fresher/patrick-allen.jpg)
 
 **Name:** Patrick Allen <br>
 **Age:** 18 <br>
 **Hometown:** &ldquo;the &lsquo;Burgh&rdquo;, Romford <br>
-**Degree:** English Language</p>
+**Degree:** English Language<be>
 **Instrument:** &lsquo;cello<br>
-**Post Symphony Drink:** Jager</p>
-**Favourite Symphony:** Mozart&rsquo;s 40th
+**Post Symphony Drink:** Jager<br>
+**Favourite Symphony:** Mozart's 40th
 
 **Hey Patrick, so you&rsquo;ve just finished a rehearsal with Symphony and it was&nbsp;sounding pretty epic. Can you tell us a bit about yourself and your background&nbsp;as a &lsquo;cellist before you came to Edinburgh?**
 
