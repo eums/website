@@ -108,6 +108,16 @@ h2 {
     margin-bottom: 0.25em;
 }
 
+a, a:visited {
+    color: #d43737;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
 /* layout */
 body {
     overflow-y: scroll;
@@ -153,7 +163,8 @@ nav li {
     text-decoration: none;
 }
 
-nav li a {
+nav li a,
+nav li a:visited {
     color: #222;
     display: inline-block;
     width: 7.7em;
