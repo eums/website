@@ -5,7 +5,7 @@ title: Meet the Fresher! Jamie McDonald
 wordpress_id: 3100
 ---
 
-![Jamie looking rather fab in black tie concert gear]({{ asset_base_uri }}/img/meet-the-fresher/jamie-mcdonald.jpg)
+<img alt="Jamie looking rather fab in black tie concert gear" src="{{ site.assets }}/img/meet-the-fresher/jamie-mcdonald.jpg" class="aside">
 
 **Name:** Jamie McDonald<br>
 **Age:** 18<br>
