@@ -3,7 +3,6 @@ layout: post
 published: true
 title: Innovative Learning Week Workshops
 wordpress_id: 3060
-wordpress_url: http://eums.eusa.ed.ac.uk/?p=3060
 
 ---
 This year, EUMS are hosting a number of Innovative Learning Week events &nbsp;that are open to members of the society, staff and students at UoE and the wider community of Edinburgh. Sign-up for these events is via email to myself at: [community@eums.org.uk]("mailto:community@eums.org.uk") - spaces are limited and are given on a first come first served basis!
