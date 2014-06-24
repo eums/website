@@ -5,7 +5,8 @@ title: Meet the Fresher! Patrick Allen
 wordpress_id: 3069
 ---
 
-![One smiling Patrick Allen]({{ site.assets }}/img/meet-the-fresher/patrick-allen.jpg)
+
+<img alt="One smiling Patrick Allen" src="{{ site.assets }}/img/meet-the-fresher/patrick-allen.jpg" class="aside">
 
 **Name:** Patrick Allen <br>
 **Age:** 18 <br>
