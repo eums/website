@@ -1,0 +1,11 @@
+/contact    /contact-us
+/society/alumni /alumni
+
+/2011/helloworld   /blog/2011/helloworld
+/2011/quos-01	/blog/2011/quso-concert
+/2011/tour2011_news01	/blog/2011/tour-latest-news
+/2014/meet-the-fresher-jamie-mcdonald   /blog/2014/meet-the-fresher-jamie-mcdonald
+/2014/membersnewsletter_april14 /blog/2014/members-newsletter-april
+
+/wp-content/uploads/build/EUMS_header.png   $A/img/eums-logo.png
+/wp-content/uploads/2014/03/meetthefresherjamie.jpg $A/img/meet-the-fresher/jamie-mcdonald.jpg
