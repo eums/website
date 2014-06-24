@@ -107,7 +107,7 @@ Redesign
     * CSS image replacement https://github.com/h5bp/html5-boilerplate/blob/v4.3.0/css/main.css
     * dmoz.org
 * Migrate from last.fm?
-* Keep eums.eusa.ed.ac.uk running on PHP:
+* Keep eums.eusa.ed.ac.uk running with just .htaccess files in order to:
     * redirect everything to eums.org.uk
     * Also redirect bad URLs to good ones
 * Robots.txt
@@ -119,8 +119,8 @@ Redesign
 * Post excerpts??
 * Good markup http://gsnedders.html5.org/outliner/
 * Accessibility:
-    http://www.w3.org/TR/wai-aria/states_and_properties
-    http://wave.webaim.org/
+    * http://www.w3.org/TR/wai-aria/states_and_properties
+    * http://wave.webaim.org/
 * SPDY if self-hosting
 * RSS feed
 * Sitemap.xml (automated, preferably)
