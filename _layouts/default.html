@@ -3,11 +3,12 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>{% if page.title %}{{ page.title }}{% else %}EUMS{% endif %} • The Edinburgh University Music Society</title>
+    <title>{% if page.title %}{{ page.title }}{% else %}EUMS{% endif %} • {{ site.name }}</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Scotland's foremost student music body since 1867. Society profile with details of concerts, community projects and membership.">
+    <meta name="description" content="{{ site.description }}">
     <meta name="keywords" content="EUMS Edinburgh University Music Society Scotland Chorus Sinfonia Symphony Orchestra">
     <link rel="shortcut icon" href="/favicon.ico">
+    <link rel="alternate" href="/feed.xml" type="application/rss+xml" title="EUMS feed">
 
     <link rel="stylesheet" href="/assets/css/normalize.css">
     <link rel="stylesheet" href="/assets/css/main.css">
