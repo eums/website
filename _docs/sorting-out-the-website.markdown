@@ -22,11 +22,6 @@ Getting it down to manageable size
 solution: move to google docs. base uri:
 https://googledrive.com/host/0BxsJMhlYrb4QRTFGSHJTMTRuOEU/
 
-Reorganise directory structure
-------------------------------
-
-todo
-
 Away from WordPress
 -------------------
 
@@ -34,10 +29,8 @@ Storing posts in a database is not a good idea. Switching to jekyll-style posts 
 
 * Make them easier to edit
 * Make it easy to find which assets are used where (in order to remove unused ones)
-* Mitigate the (massive) security risk of PHP
+* Mitigate the huge security risk of PHP
 * Reduce risk of losing them (they'd be on GitHub)
-
-Do I rewrite poor English?
 
 Redesign
 --------
@@ -83,27 +76,26 @@ Redesign
     * find out about the society
     * get in touch with committee
 
-### things that are just a bit shitty and need looking at
+### things that need looking at
 
 * Accessibility
 * T&C
 * Privacy
-* fucking carousels! http://conversionxl.com/dont-use-automatic-image-sliders-or-carousels-ignore-the-fad
+* carousels! http://conversionxl.com/dont-use-automatic-image-sliders-or-carousels-ignore-the-fad
 * facebook / twitter at the end of every page
-* sounds like a fucking megacorp
-    * related: do we really need a link to linkedin?
+* EUMS sounds like a large coporation, not a student society, in places
+    * related: do we really need to advertise our linkedin group?
 * community / education is spread over 3 pages
 * drake: out of date
 * concerts: posts tagged incorrectly
-* eums gold / support/individuals overlap
+* eums gold / support/individuals have overlapping content
 * all the css (http://zmoazeni.github.io/csscss/)
 
 ### pages that seem unnecessary
 
 * Press
 * Useful Links
-* RSS feed
-* Sitemap needs to be automated (also, xml?)
+* Sitemap (the human one)
 
 ### things that I need to implement during migration
 
@@ -130,18 +122,20 @@ Redesign
     http://www.w3.org/TR/wai-aria/states_and_properties
     http://wave.webaim.org/
 * SPDY if self-hosting
+* RSS feed
+* Sitemap.xml (automated, preferably)
 
 ### Posts
 
-* Useless categories:
+* Categories that aren't really pulling their weight:
     * EUMS Online
     * EUMS In Depth
     * Uncategorised
-    * Upcoming concerts (should be Concerts)
     * Society
+* Upcoming concerts should be Concerts
 * Delete all non-Jekyll front matter apart from wordpress ID and excerpt
 
-### Bragging
+### Benefits
 
 #### Admin
 
@@ -172,3 +166,9 @@ Redesign
 * Improve HTML wrt SEO
 * Google ranks based on page speed
 
+### Things that are no longer possible
+
+* Password protected files. Google Drive is better for this anyway - as a user
+  without the password, it's very annoying to follow a link to find that it
+  needs a password you don't have. Better to use the mailing list or Facebook
+  for distribution and not advertise its existence anywhere else.
