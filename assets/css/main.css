@@ -84,7 +84,7 @@ textarea {
 
 /* base */
 body {
-    font: 14px "Trebuchet MS", Arial, Helvetica, sans-serif;
+    font: normal 100% "Trebuchet MS", Arial, Helvetica, sans-serif;
 }
 
 .publication-date {
@@ -124,9 +124,17 @@ body {
 }
 
 .container {
-    max-width: 800px;
+    /* needs to change - bad for resizing text / non-maximised windows */
+    max-width: 56em;
     margin-left: auto;
     margin-right: auto;
+    padding: 0 4em 0 4em;
+}
+
+@media only screen and (min-width: 64em) {
+    .container {
+        padding: 0;
+    }
 }
 
 header[role="banner"],
@@ -137,11 +145,11 @@ header img {
 
 header h1 {
     margin: 0;
-    padding-top: 1em;
+    padding-top: 0.6em;
 }
 
 header .logo {
-    margin-left: 1em;
+    margin-left: 0;
 }
 
 header .tagline {
