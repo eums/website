@@ -1,4 +1,6 @@
 ---
+# Adding front matter because we want Liquid processing
+layout: none
 ---
 /*! HTML5 Boilerplate v4.3.0 | MIT License | http://h5bp.com/ */
 
