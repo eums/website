@@ -124,15 +124,27 @@ body {
 }
 
 .container {
-    /* needs to change - bad for resizing text / non-maximised windows */
     max-width: 56em;
     margin-left: auto;
     margin-right: auto;
-    padding: 0 4em 0 4em;
+    padding: 0 2em 0 2em;
+}
+
+ul.container {
+    padding: 0;
+}
+
+@media only screen and (min-width: 33em) {
+    .container {
+        padding: 0 4em 0 4em;
+    }
+    ul.container {
+        padding: 0 2em 0 2em;
+    }
 }
 
 @media only screen and (min-width: 64em) {
-    .container {
+    .container, ul.container {
         padding: 0;
     }
 }
@@ -193,8 +205,8 @@ nav ul {
 
 nav li {
     display: inline-block;
-    padding: 0;
     margin: 0;
+    padding: 0;
     text-align: center;
     text-decoration: none;
 }

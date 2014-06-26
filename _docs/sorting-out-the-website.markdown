@@ -150,7 +150,8 @@ Redesign
 * Mobile-friendly
 * Use the nice domain name eums.org.uk rather than eums.eusa.ed.ac.uk
 * Nicer URLs as well
-* Improve accessibility for dyslexic or partially-sighted users
+* Improve accessibility for dyslexic or partially-sighted users - for example,
+  compare zooming in on old/new websites
 * Speed boosts from:
     * Using a static site instead of WordPress
     * Moving to high-quality GitHub hosting from unreliable, slow EUSA hosting
