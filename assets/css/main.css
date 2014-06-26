@@ -1,3 +1,5 @@
+---
+---
 /*! HTML5 Boilerplate v4.3.0 | MIT License | http://h5bp.com/ */
 
 /*
@@ -138,13 +140,37 @@ header h1 {
     padding-top: 1em;
 }
 
+header .logo {
+    margin-left: 1em;
+}
+
 header .tagline {
     font-style: italic;
     text-align: right;
-    margin-right: 5em;
-    margin-bottom: 0;
+    margin: 0 2em 0 2em;
     padding-bottom: 1em;
 }
+
+@media only screen and (min-width: 42em) {
+    header .logo {
+        float: left;
+        margin-left: 0;
+    }
+
+    header .logo-text {
+        background-image: url({{ site.assets }}/img/eums-logo-text.png);
+        background-repeat: no-repeat;
+        /* copy dimensions from the image; for some reason it disappears unless
+         * these are present */
+        width: 354px;
+        height: 83px;
+    }
+
+    header .tagline {
+        margin-right: 4em;
+    }
+}
+
 
 nav {
     background: #dde;
