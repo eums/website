@@ -134,21 +134,6 @@ ul.container {
     padding: 0;
 }
 
-@media only screen and (min-width: 33em) {
-    .container {
-        padding: 0 4em 0 4em;
-    }
-    ul.container {
-        padding: 0 2em 0 2em;
-    }
-}
-
-@media only screen and (min-width: 64em) {
-    .container, ul.container {
-        padding: 0;
-    }
-}
-
 header[role="banner"],
 header img {
     background: #D40000;
@@ -167,29 +152,10 @@ header .logo {
 header .tagline {
     font-style: italic;
     text-align: right;
-    margin: 0 2em 0 2em;
-    padding-bottom: 1em;
+    margin: 0;
+    padding: 1.5em 2em 0.5em 2em;
 }
 
-@media only screen and (min-width: 42em) {
-    header .logo {
-        float: left;
-        margin-left: 0;
-    }
-
-    header .logo-text {
-        background-image: url({{ site.assets }}/img/eums-logo-text.png);
-        background-repeat: no-repeat;
-        /* copy dimensions from the image; for some reason it disappears unless
-         * these are present */
-        width: 354px;
-        height: 83px;
-    }
-
-    header .tagline {
-        margin-right: 4em;
-    }
-}
 
 
 nav {
@@ -310,13 +276,47 @@ nav li a:hover {
 }
 
 /* ==========================================================================
-   EXAMPLE Media Queries for Responsive Design.
+   Media Queries for Responsive Design.
    These examples override the primary ('mobile first') styles.
-   Modify as content requires.
    ========================================================================== */
 
-@media only screen and (min-width: 35em) {
-    /* Style adjustments for viewports that meet the condition */
+@media only screen and (min-width: 33em) {
+    .container {
+        padding: 0 4em 0 4em;
+    }
+    ul.container {
+        padding: 0 2em 0 2em;
+    }
+}
+
+@media only screen and (min-width: 42em) {
+    header .tagline {
+        padding-top: 1em;
+    }
+
+    header .logo {
+        float: left;
+        margin-left: 0;
+    }
+
+    header .logo-text {
+        background-image: url({{ site.assets }}/img/eums-logo-text.png);
+        background-repeat: no-repeat;
+        /* copy dimensions from the image; for some reason it disappears unless
+         * these are present */
+        width: 354px;
+        height: 83px;
+    }
+
+    header .tagline {
+        padding-right: 4em;
+    }
+}
+
+@media only screen and (min-width: 64em) {
+    .container, ul.container {
+        padding: 0;
+    }
 }
 
 @media print,
