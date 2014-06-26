@@ -121,6 +121,7 @@ Redesign
 * Accessibility:
     * http://www.w3.org/TR/wai-aria/states_and_properties
     * http://wave.webaim.org/
+    * http://nibbler.silktide.com/
 * SPDY if self-hosting
 * RSS feed
 * Sitemap.xml (automated, preferably)
