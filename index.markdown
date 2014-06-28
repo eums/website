@@ -18,10 +18,11 @@ Learning Week events, and an annual tour.
 
 <aside>
 <blockquote>
-I had forgotten how much I adore Schubert’s Unfinished Symphony– the
-clarinet, oboe, bassoon, French horn and flute principals are very
-accomplished – it is such an emotional work and they carried it off well, the
-conductor once again bringing out the best from everyone &mdash; The Very
-Reverend John Mann, St Anne's Cathedral
+<strong>
+"I had forgotten how much I adore Schubert’s Unfinished Symphony &hellip; it is
+such an emotional work and they carried it off well, the conductor once again
+bringing out the best from everyone"
+</strong>
+&mdash; The Very Reverend John Mann, St Anne's Cathedral
 </blockquote>
 </aside>
