@@ -155,10 +155,8 @@ header .tagline {
     font-style: italic;
     text-align: right;
     margin: 0;
-    padding: 1.5em 2em 0.5em 2em;
+    padding: 1em 0 0.5em 1em;
 }
-
-
 
 nav {
     background: #dde;
@@ -292,10 +290,6 @@ nav li a:hover {
 }
 
 @media only screen and (min-width: 42em) {
-    header .tagline {
-        padding-top: 1em;
-    }
-
     header .logo {
         float: left;
         margin-left: 0;
@@ -308,10 +302,6 @@ nav li a:hover {
          * these are present */
         width: 354px;
         height: 83px;
-    }
-
-    header .tagline {
-        padding-right: 4em;
     }
 }
 
