@@ -1,5 +1,6 @@
 /contact    /contact-us
 /society/alumni /alumni
+/concerts   /whats-on/
 
 /2011/helloworld   /blog/2011/helloworld
 /2011/quos-01	/blog/2011/quso-concert
