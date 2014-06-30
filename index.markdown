@@ -1,7 +1,7 @@
 ---
 ---
 
-![Chorus and Symphony Orchestra following the performance of Verdi's Requiem in
+![Chorus and Symphony Orchestra at the performance of Verdi's Requiem in
 2013]({{ site.assets }}/img/symphony-chorus-verdi-2013.jpg)
 
 ## Who are we?
@@ -17,7 +17,7 @@ concerts per year, an annual tour
 In addition to this, there are a number of community projects, Innovative
 Learning Week events, and an annual tour.
 
-<aside>
+<div class="quotes">
 <blockquote>
 <strong>
 &ldquo;I had forgotten how much I adore Schubert’s Unfinished Symphony &hellip;
@@ -41,4 +41,4 @@ Richard Whittle
 </a>
 </cite>
 </blockquote>
-</aside>
+</div>
