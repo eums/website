@@ -326,9 +326,13 @@ blockquote p {
         padding: 0;
     }
 
+    .col {
+        float: left;
+        margin-right; 2em;
+    }
+
     .col-one {
         max-width: 620px;
-        float: left;
     }
 }
 
