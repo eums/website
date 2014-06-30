@@ -325,6 +325,11 @@ blockquote p {
     .container, ul.container {
         padding: 0;
     }
+
+    .col-one {
+        max-width: 620px;
+        float: left;
+    }
 }
 
 @media print,

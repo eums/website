@@ -17,7 +17,12 @@
 	{% include header.html %}
 	{% include navigation.html %}
     <main role="main" class="container">
-      {{ content }}
+      <div class="col-one">
+        {{ content }}
+      </div>
+      <div class="col-two">
+        {% include sidebar.html %}
+      </div>
     </main>
   </body>
 </html>
