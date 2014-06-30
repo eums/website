@@ -5,7 +5,7 @@ title: Community Engagement
 wordpress_id: 44
 ---
 
-![smiling children, obviously]({{ site.assets }}/img/uploads/2013/02/education4.jpg)
+![enthralled children]({{ site.assets }}/img/enthralled-children.jpg)
 
 ## Community Engagement
 

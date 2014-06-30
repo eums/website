@@ -210,12 +210,11 @@ main img {
     margin: 0 3em 3em 3em;
 }
 
+
 blockquote {
     margin: 1.5em 0 1.5em 0;
-}
-
-blockquote p {
-    margin-bottom: 0.25em;
+    padding: 1.5%;
+    background: #dde;
 }
 
 /* ==========================================================================
@@ -319,6 +318,14 @@ blockquote p {
         width: 354px;
         height: 83px;
     }
+
+    .quotes blockquote {
+        float: left;
+        /* don't ask me where the extra 6% goes */
+        margin: 1.5%;
+        padding: 1.5%;
+        width: 43%;
+    }
 }
 
 @media only screen and (min-width: 64em) {
@@ -328,7 +335,7 @@ blockquote p {
 
     .col {
         float: left;
-        margin-right; 2em;
+        padding-right; 2em;
     }
 
     .col-one {

@@ -17,7 +17,7 @@ concerts per year, an annual tour
 In addition to this, there are a number of community projects, Innovative
 Learning Week events, and an annual tour.
 
-<div class="quotes">
+<div class="clearfix quotes">
 <blockquote>
 <strong>
 &ldquo;I had forgotten how much I adore Schubert’s Unfinished Symphony &hellip;
