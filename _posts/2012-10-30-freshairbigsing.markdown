@@ -26,9 +26,9 @@ categories:
 tags: []
 comments: []
 ---
-<p>Yesterday Helen (Community Relations Manager) and Andy (President), had a chat with the guys at <a title="go to FreshAir.org.uk" href="http:&#47;&#47;www.freshair.org.uk&#47;" target="_blank">FreshAir.org.uk<&#47;a> (Edinburgh's Student Radio).<&#47;p></p>
-<p>They had a good natter about the Big Sing and also made an exclusive announcement about a big project we have coming up next semester... More details will follow!<&#47;p></p>
-<p>Have a listen here:<&#47;p><br />
-http:&#47;&#47;www.youtube.com&#47;watch?v=L5hAt5bLIY0</p>
-<p>To sign up for the Big Sing and for more information about the event, <a title="The Big Sing 2012" href="http:&#47;&#47;eums.eusa.ed.ac.uk&#47;2012&#47;bigsing2012&#47;">go to the info page here<&#47;a>.<&#47;p><br />
-<img src="http:&#47;&#47;eums.eusa.ed.ac.uk&#47;wp-content&#47;uploads&#47;images&#47;w620&#47;bigsing_footer.png" alt="" width="620" height="202" &#47;></p>
+<p>Yesterday Helen (Community Relations Manager) and Andy (President), had a chat with the guys at <a title="go to FreshAir.org.uk" href="http://www.freshair.org.uk/" target="_blank">FreshAir.org.uk</a> (Edinburgh's Student Radio).</p></p>
+<p>They had a good natter about the Big Sing and also made an exclusive announcement about a big project we have coming up next semester... More details will follow!</p></p>
+<p>Have a listen here:</p><br />
+http://www.youtube.com/watch?v=L5hAt5bLIY0</p>
+<p>To sign up for the Big Sing and for more information about the event, <a title="The Big Sing 2012" href="http://eums.eusa.ed.ac.uk/2012/bigsing2012/">go to the info page here</a>.</p><br />
+<img src="http://eums.eusa.ed.ac.uk/wp-content/uploads/images/w620/bigsing_footer.png" alt="" width="620" height="202" /></p>

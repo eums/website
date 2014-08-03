@@ -24,11 +24,11 @@ categories:
 tags: []
 comments: []
 ---
-<p><a title="buy tickets online" href="http:&#47;&#47;xtspro.com&#47;-&#47;eums20120310&#47;"> <img src="http:&#47;&#47;eums.eusa.ed.ac.uk&#47;wp-content&#47;uploads&#47;images&#47;w620&#47;posters&#47;20120310_symph.jpg" alt="" width="620" height="441" &#47;><&#47;a></p>
+<p><a title="buy tickets online" href="http://xtspro.com/-/eums20120310/"> <img src="http://eums.eusa.ed.ac.uk/wp-content/uploads/images/w620/posters/20120310_symph.jpg" alt="" width="620" height="441" /></a></p>
 <p>Edinburgh University Music Society's Symphony Orchestra present a varied programme for their Spring Concert this year.</p>
-<p>The orchestra will be performing three great works: Wagner's musically brilliant <em>Prelude to Parsifal<&#47;em>, Rodrigo's <em>Adagio Para Orquesta de Instrumentos de Viento (Adagio for Wind Instruments)<&#47;em> and finally Tchaikovsky's mighty <em>Symphony No. 6 in B minor: "Path&eacute;tique"<&#47;em>.</p>
+<p>The orchestra will be performing three great works: Wagner's musically brilliant <em>Prelude to Parsifal</em>, Rodrigo's <em>Adagio Para Orquesta de Instrumentos de Viento (Adagio for Wind Instruments)</em> and finally Tchaikovsky's mighty <em>Symphony No. 6 in B minor: "Path&eacute;tique"</em>.</p>
 <p>This concert sold out in our Winter Concert Series, so book early to avoid disappointment!</p>
 <p>To buy tickets, click the link below:</p>
-<p align="middle"><a title="buy tickets online" href="http:&#47;&#47;xtspro.com&#47;-&#47;eums20120310&#47;"> <img src="http:&#47;&#47;eums.eusa.ed.ac.uk&#47;wp-content&#47;uploads&#47;build&#47;xtspro_largebutton.png" alt="" width="620" height="220" border="0" &#47;><&#47;a><&#47;p><br />
+<p align="middle"><a title="buy tickets online" href="http://xtspro.com/-/eums20120310/"> <img src="http://eums.eusa.ed.ac.uk/wp-content/uploads/build/xtspro_largebutton.png" alt="" width="620" height="220" border="0" /></a></p><br />
  </p>
 <p> </p>

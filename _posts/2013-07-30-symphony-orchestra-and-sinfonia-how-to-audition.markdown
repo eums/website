@@ -33,7 +33,7 @@ comments: []
 <p>Further audition slots of new members will be available Friday and Saturday 9am - 5pm.</p>
 <p>You will hear back from the committee about the result of your audition on the Sunday of Freshers Week, with rehearsals starting the following week with Symphony Orchestra 6.30-9.30pm on Monday 16th September at the Reid Concert Hall, Chorus 7-9pm on Tuesday 17th September at Patterson's Land, and Sinfonia 10.30am-1.30pm on Saturday 21st September at the Reid Concert Hall.</p>
 <p>FOR YOUR AUDITION;</p>
-<p>Please prepare a short excerpt&#47;solo piece of music, not to exceed 5 minutes. There will be an accompanist available for you on the day should you require one.</p>
+<p>Please prepare a short excerpt/solo piece of music, not to exceed 5 minutes. There will be an accompanist available for you on the day should you require one.</p>
 <p>You will then be required to sight read a couple of excerpts from this semester's repertoire.</p>
 <p>You will also be asked a few questions about your previous musical experience and current musical activities.</p>
 <p>And that's it! Best of luck, please get in touch to arrange an audition!</p>

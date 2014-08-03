@@ -25,14 +25,14 @@ categories:
 tags: []
 comments: []
 ---
-<p><a title="buy tickets online" href="http:&#47;&#47;www.ticketsource.co.uk&#47;event&#47;33055"> <img alt="Concert poster" src="http:&#47;&#47;eums.eusa.ed.ac.uk&#47;wp-content&#47;uploads&#47;images&#47;w620&#47;posters&#47;20130315_chorussinfonia.jpg" width="620" height="872" &#47;><&#47;a></p>
-<p>The Edinburgh University Music Society's Chorus and Sinfonia are joining forces to perform a stunning selection of music. The fantastic Michael Graham and Neil Metcalfe will be conducting an incredible evening of Mendelssohn...<&#47;p></p>
-<p>The programme is as follows:<&#47;p></p>
-<p><strong>Bach<&#47;strong> Fanfare (arr. Michael Graham)<br />
-<strong>Mendelssohn <&#47;strong>Extracts from Elijah<br />
-<strong>Mendelssohn <&#47;strong>Symphony No. 2: Hymn of Praise<&#47;p></p>
-<p>Doors open at 7pm, and it is recommended that you arrive early to ensure that you are not disappointed!<&#47;p></p>
-<p>To buy tickets, click the link below:<&#47;p></p>
-<p align="middle"><a title="buy tickets online" href="http:&#47;&#47;www.ticketsource.co.uk&#47;event&#47;33055"> <img alt="" src="http:&#47;&#47;www.ticketsource.co.uk&#47;images&#47;buyTickets&#47;buyTickets-medium.png" width="118" height="88" border="0" &#47;><&#47;a><&#47;p><br />
+<p><a title="buy tickets online" href="http://www.ticketsource.co.uk/event/33055"> <img alt="Concert poster" src="http://eums.eusa.ed.ac.uk/wp-content/uploads/images/w620/posters/20130315_chorussinfonia.jpg" width="620" height="872" /></a></p>
+<p>The Edinburgh University Music Society's Chorus and Sinfonia are joining forces to perform a stunning selection of music. The fantastic Michael Graham and Neil Metcalfe will be conducting an incredible evening of Mendelssohn...</p></p>
+<p>The programme is as follows:</p></p>
+<p><strong>Bach</strong> Fanfare (arr. Michael Graham)<br />
+<strong>Mendelssohn </strong>Extracts from Elijah<br />
+<strong>Mendelssohn </strong>Symphony No. 2: Hymn of Praise</p></p>
+<p>Doors open at 7pm, and it is recommended that you arrive early to ensure that you are not disappointed!</p></p>
+<p>To buy tickets, click the link below:</p></p>
+<p align="middle"><a title="buy tickets online" href="http://www.ticketsource.co.uk/event/33055"> <img alt="" src="http://www.ticketsource.co.uk/images/buyTickets/buyTickets-medium.png" width="118" height="88" border="0" /></a></p><br />
  </p>
 <p> </p>

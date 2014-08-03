@@ -24,4 +24,4 @@ tags: []
 comments: []
 ---
 <p>Today we submitted a video to a certain company who were asking for video applications for their sponsorship... Here is the full video:</p>
-<p>http:&#47;&#47;www.youtube.com&#47;watch?v=ZtHgFJlpFPc</p>
+<p>http://www.youtube.com/watch?v=ZtHgFJlpFPc</p>

@@ -24,15 +24,15 @@ categories:
 tags: []
 comments: []
 ---
-<p><a title="buy tickets online" href="http:&#47;&#47;www.ticketsource.co.uk&#47;event&#47;28648"> <img src="http:&#47;&#47;eums.eusa.ed.ac.uk&#47;wp-content&#47;uploads&#47;images&#47;w620&#47;posters&#47;20121130_chorus.jpg" alt="Concert poster" width="620" height="872" &#47;><&#47;a></p>
-<h6>Our first concert of the academic year falls on the 30th of November; St. Andrew's Day in Scotland. So what better way to celebrate our national Saint than to come along to St. Cuthbert's Parish Church to hear music from the Auld Alliance?<&#47;h6></p>
-<p>Our repertoire for the evening includes one of Poulenc's most celebrated works. His <em>Gloria <&#47;em>is a setting of the Roman Catholic Gloria in Excelsis Deo and includes a fine soprano solo by Amy Strachan, a third year music student at the University of Edinburgh. Joining our French line-up will be Faure's <em>Cantique de Jean Racine <&#47;em>which was written when the composer was only nineteen years old.<&#47;p></p>
-<p>Returning to home soil, we sing John Gardner's <em>A Burns Sequence<&#47;em> which was first performed by the British Federation of Youth Choirs and the Scottish Chamber Orchestra in Glasgow in 1995, conducted by ex-EUMS member and conductor Christopher Bell.<&#47;p></p>
-<p>This sequence sets out some of the varied activities of Burns' life. His religious convictions, his love of setting new words to traditional melodies, his delight in romantic love (and philandering), and his use of English as well as the Lallans are all included, showing Burns - the highly cultured man who did not forget his lowly origin.<&#47;p></p>
-<p>We will also sing Ken Johnston's <em>Now is the Time of Peace. <&#47;em>This moving work was written as a commemorative for Scotland's Holocaust Memorial Day. The text is a plea for hope and peace, and that all fear be past.<&#47;p></p>
-<p>What better way to end the long month of November than by coming along to the EUMS Chorus' Winter Concert? We hope to see you all there...<&#47;p></p>
-<p>Doors open at 7pm, and it is recommended that you arrive early to ensure that you are not disappointed!<&#47;p></p>
-<p>To buy tickets, click the link below:<&#47;p></p>
-<p align="middle"><a title="buy tickets online" href="http:&#47;&#47;www.ticketsource.co.uk&#47;event&#47;28648"> <img src="http:&#47;&#47;www.ticketsource.co.uk&#47;images&#47;buyTickets&#47;buyTickets-medium.png" alt="" width="118" height="88" border="0" &#47;><&#47;a><&#47;p><br />
+<p><a title="buy tickets online" href="http://www.ticketsource.co.uk/event/28648"> <img src="http://eums.eusa.ed.ac.uk/wp-content/uploads/images/w620/posters/20121130_chorus.jpg" alt="Concert poster" width="620" height="872" /></a></p>
+<h6>Our first concert of the academic year falls on the 30th of November; St. Andrew's Day in Scotland. So what better way to celebrate our national Saint than to come along to St. Cuthbert's Parish Church to hear music from the Auld Alliance?</h6></p>
+<p>Our repertoire for the evening includes one of Poulenc's most celebrated works. His <em>Gloria </em>is a setting of the Roman Catholic Gloria in Excelsis Deo and includes a fine soprano solo by Amy Strachan, a third year music student at the University of Edinburgh. Joining our French line-up will be Faure's <em>Cantique de Jean Racine </em>which was written when the composer was only nineteen years old.</p></p>
+<p>Returning to home soil, we sing John Gardner's <em>A Burns Sequence</em> which was first performed by the British Federation of Youth Choirs and the Scottish Chamber Orchestra in Glasgow in 1995, conducted by ex-EUMS member and conductor Christopher Bell.</p></p>
+<p>This sequence sets out some of the varied activities of Burns' life. His religious convictions, his love of setting new words to traditional melodies, his delight in romantic love (and philandering), and his use of English as well as the Lallans are all included, showing Burns - the highly cultured man who did not forget his lowly origin.</p></p>
+<p>We will also sing Ken Johnston's <em>Now is the Time of Peace. </em>This moving work was written as a commemorative for Scotland's Holocaust Memorial Day. The text is a plea for hope and peace, and that all fear be past.</p></p>
+<p>What better way to end the long month of November than by coming along to the EUMS Chorus' Winter Concert? We hope to see you all there...</p></p>
+<p>Doors open at 7pm, and it is recommended that you arrive early to ensure that you are not disappointed!</p></p>
+<p>To buy tickets, click the link below:</p></p>
+<p align="middle"><a title="buy tickets online" href="http://www.ticketsource.co.uk/event/28648"> <img src="http://www.ticketsource.co.uk/images/buyTickets/buyTickets-medium.png" alt="" width="118" height="88" border="0" /></a></p><br />
  </p>
 <p> </p>

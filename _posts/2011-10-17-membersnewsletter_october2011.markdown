@@ -21,6 +21,6 @@ categories:
 tags: []
 comments: []
 ---
-<p>The latest EUMS Members' Newsletter is out! <a title="Members' Newsletter" href="http:&#47;&#47;eums.eusa.ed.ac.uk&#47;society&#47;membership&#47;newsletter&#47;">Click here to go to the Members' Newsletter page<&#47;a> and download and read it...</p>
-<h5><strong><em>In this issue:<&#47;em><&#47;strong><&#47;h5></p>
-<h4><em>Big Sing 2011 - Meet The Committee - In Pictures - Quiz Time - EUMS in the Fringe - Freshers&rsquo; Scratch &amp; Ceilidh - The Pub Quiz - Sectionals - Hockey Report<&#47;em><&#47;h4></p>
+<p>The latest EUMS Members' Newsletter is out! <a title="Members' Newsletter" href="http://eums.eusa.ed.ac.uk/society/membership/newsletter/">Click here to go to the Members' Newsletter page</a> and download and read it...</p>
+<h5><strong><em>In this issue:</em></strong></h5></p>
+<h4><em>Big Sing 2011 - Meet The Committee - In Pictures - Quiz Time - EUMS in the Fringe - Freshers&rsquo; Scratch &amp; Ceilidh - The Pub Quiz - Sectionals - Hockey Report</em></h4></p>

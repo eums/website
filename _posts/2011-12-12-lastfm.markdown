@@ -23,8 +23,8 @@ categories:
 tags: []
 comments: []
 ---
-<p>For those who did not know, the Edinburgh University Music Society has an ever expanding library of recordings on Last FM, which can be found by following the link to our <em>last.fm<&#47;em> homepage below.<&#47;p></p>
-<p style="text-align: center;"><a href="http:&#47;&#47;www.last.fm&#47;music&#47;Edinburgh+University+Music+Society" target="_blank"><img class="size-full wp-image-280" title="Find us on last.fm here" src="http:&#47;&#47;eums.eusa.ed.ac.uk&#47;wp-content&#47;uploads&#47;build&#47;quicklinks&#47;lastfm.png" alt="" width="280" height="80" &#47;><&#47;a><&#47;p></p>
-<p>Not only are all new recordings from concerts being put up on the site in an easily accessible album format, but we are also collecting old recordings from concerts gone by to add to the site as well.<&#47;p></p>
-<p>You can listen to our "Artist's Radio" to hear a mixture of our tracks and those of the artists that have been related to us, or to listen to individual tracks in full first click on an album then on your desired track (on the text), then click the "Play direct from Edinburgh University Music Society" link.<&#47;p></p>
-<p>If you have an old recording of us performing from any time since 1867 (yes, really... we did perform concerts back then!) then please get in touch with us in the normal manner.<&#47;p></p>
+<p>For those who did not know, the Edinburgh University Music Society has an ever expanding library of recordings on Last FM, which can be found by following the link to our <em>last.fm</em> homepage below.</p></p>
+<p style="text-align: center;"><a href="http://www.last.fm/music/Edinburgh+University+Music+Society" target="_blank"><img class="size-full wp-image-280" title="Find us on last.fm here" src="http://eums.eusa.ed.ac.uk/wp-content/uploads/build/quicklinks/lastfm.png" alt="" width="280" height="80" /></a></p></p>
+<p>Not only are all new recordings from concerts being put up on the site in an easily accessible album format, but we are also collecting old recordings from concerts gone by to add to the site as well.</p></p>
+<p>You can listen to our "Artist's Radio" to hear a mixture of our tracks and those of the artists that have been related to us, or to listen to individual tracks in full first click on an album then on your desired track (on the text), then click the "Play direct from Edinburgh University Music Society" link.</p></p>
+<p>If you have an old recording of us performing from any time since 1867 (yes, really... we did perform concerts back then!) then please get in touch with us in the normal manner.</p></p>

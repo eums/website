@@ -4,7 +4,7 @@ published: true
 title: EUMS Sinfonia Winter Concert
 wordpress_id: 3042
 ---
-<p><a href="http:&#47;&#47;eums.eusa.ed.ac.uk&#47;wp-content&#47;uploads&#47;2013&#47;11&#47;sinfonia-cover.jpg"><img class="alignleft size-full wp-image-3045" alt="sinfonia cover" src="http:&#47;&#47;eums.eusa.ed.ac.uk&#47;wp-content&#47;uploads&#47;2013&#47;11&#47;sinfonia-cover.jpg" width="899" height="254" &#47;><&#47;a></p>
+<p><a href="http://eums.eusa.ed.ac.uk/wp-content/uploads/2013/11/sinfonia-cover.jpg"><img class="alignleft size-full wp-image-3045" alt="sinfonia cover" src="http://eums.eusa.ed.ac.uk/wp-content/uploads/2013/11/sinfonia-cover.jpg" width="899" height="254" /></a></p>
 
 Come along to a wonderful night of music from Edinburgh University Music Society's Sinfonia. You'll also get to see our wonderful new conductor in action, Peter Keenan, in his very first concert with us!
 

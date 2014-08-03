@@ -24,14 +24,14 @@ categories:
 tags: []
 comments: []
 ---
-<p><a title="buy tickets online" href="http:&#47;&#47;www.ticketsource.co.uk&#47;event&#47;33082"> <img alt="Concert poster" src="http:&#47;&#47;eums.eusa.ed.ac.uk&#47;wp-content&#47;uploads&#47;images&#47;w620&#47;posters&#47;20130322_symphony.jpg" width="620" height="872" &#47;><&#47;a></p>
-<p>The Edinburgh University Music Society's Symphony Orchestra will be performing no less than THREE incredible pieces of music at this term's concert under the trusty baton of Russell Cowieson.<&#47;p></p>
-<p>The programme is as follows:<&#47;p><br />
-<strong>Brahms<&#47;strong> Variations on a Theme by Haydn<br />
-<strong>MacMillan<&#47;strong> The Confession of Isobel Gowdie<br />
-<strong>Brahms<&#47;strong> Symphony No. 4</p>
-<p>Doors open at 7pm, and it is recommended that you arrive early to ensure that you are not disappointed!<&#47;p></p>
-<p>To buy tickets, click the link below:<&#47;p></p>
-<p align="middle"><a title="buy tickets online" href="http:&#47;&#47;www.ticketsource.co.uk&#47;event&#47;33082"> <img alt="" src="http:&#47;&#47;www.ticketsource.co.uk&#47;images&#47;buyTickets&#47;buyTickets-medium.png" width="118" height="88" border="0" &#47;><&#47;a><&#47;p><br />
+<p><a title="buy tickets online" href="http://www.ticketsource.co.uk/event/33082"> <img alt="Concert poster" src="http://eums.eusa.ed.ac.uk/wp-content/uploads/images/w620/posters/20130322_symphony.jpg" width="620" height="872" /></a></p>
+<p>The Edinburgh University Music Society's Symphony Orchestra will be performing no less than THREE incredible pieces of music at this term's concert under the trusty baton of Russell Cowieson.</p></p>
+<p>The programme is as follows:</p><br />
+<strong>Brahms</strong> Variations on a Theme by Haydn<br />
+<strong>MacMillan</strong> The Confession of Isobel Gowdie<br />
+<strong>Brahms</strong> Symphony No. 4</p>
+<p>Doors open at 7pm, and it is recommended that you arrive early to ensure that you are not disappointed!</p></p>
+<p>To buy tickets, click the link below:</p></p>
+<p align="middle"><a title="buy tickets online" href="http://www.ticketsource.co.uk/event/33082"> <img alt="" src="http://www.ticketsource.co.uk/images/buyTickets/buyTickets-medium.png" width="118" height="88" border="0" /></a></p><br />
  </p>
 <p> </p>

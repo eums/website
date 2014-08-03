@@ -24,9 +24,9 @@ categories:
 tags: []
 comments: []
 ---
-<h2><strong>Singing Together<&#47;strong><br />
-<strong>Friday 21st June 7pm<&#47;strong><br />
-<strong>at the Talbot Rice Gallery<&#47;strong><&#47;h2><br />
+<h2><strong>Singing Together</strong><br />
+<strong>Friday 21st June 7pm</strong><br />
+<strong>at the Talbot Rice Gallery</strong></h2><br />
  </p>
 <p>The Royal Edinburgh Hospital singing group the Heart and Soul<br />
 Singsters join forces with the Edinburgh University Music Society<br />
@@ -40,4 +40,4 @@ songs with song leader Penny Stone, which anyone is welcome to join.</p>
 <p>People are encouraged to wear something red to make a visual impact.<br />
 If you can't make the rehearsal everyone attending the public<br />
 performance will be welcome to sing or hum along.</p>
-<p>Contact <a href="mailto:glasshouses@artlinkedinburgh.co.uk" target="_blank">glasshouses@artlinkedinburgh.<wbr &#47;>co.uk<&#47;a> for more information.</p>
+<p>Contact <a href="mailto:glasshouses@artlinkedinburgh.co.uk" target="_blank">glasshouses@artlinkedinburgh.<wbr />co.uk</a> for more information.</p>
