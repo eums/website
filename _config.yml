@@ -10,8 +10,8 @@ description: "Scotland's foremost student music body since 1867. Society profile
 url: "http://eums.dev.garrood.me"
 
 defaults:
-  -
-    scope:
-      path: "" # for all files
+  # All pages should use default layout
+  - scope:
+      path: ""
     values:
       layout: "default"
