@@ -120,6 +120,18 @@ a:hover {
     text-decoration: underline;
 }
 
+/* blog archive */
+ul.blog-archive {
+    padding-left: 1em;
+    margin-bottom: 2em;
+}
+
+ul.blog-archive li {
+    font-size: 110%;
+    margin-bottom: 0.5em;
+    list-style-type: none;
+}
+
 /* layout */
 body {
     overflow-y: scroll;

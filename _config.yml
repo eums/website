@@ -1,5 +1,5 @@
 permalink: /blog/:year/:title/
-paginate: 15
+paginate: 20
 paginate_path:  /blog/page/:num
 
 # Hosts assets externally
