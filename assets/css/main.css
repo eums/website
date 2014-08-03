@@ -364,7 +364,7 @@ blockquote {
 
     .col {
         float: left;
-        padding-right; 2em;
+        padding-right: 2em;
     }
 
     .col-one {
@@ -373,11 +373,14 @@ blockquote {
     }
 
     .col-two {
-        max-width: 22%;
-        margin-left: 0.5em;
+        max-width: 24%;
+        margin: 1em 0 1em 0;
         padding: 0.5em;
-        margin-top: 1em;
         background-color: #dde;
+    }
+
+    .col-two h3:first-child {
+        margin-top: 0.2em;
     }
 }
 
