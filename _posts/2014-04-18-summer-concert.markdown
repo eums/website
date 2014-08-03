@@ -2,7 +2,6 @@
 layout: post
 published: true
 title: EUMS Summer Concert 2014
-excerpt: 19:30, Friday, 16 May 2013 - Greyfriars Kirk - Tickets £10 (£5)
 wordpress_id: 3118
 categories:
 - Concerts
