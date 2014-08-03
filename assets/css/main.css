@@ -120,6 +120,13 @@ a:hover {
     text-decoration: underline;
 }
 
+kbd {
+    background: #eee;
+    border-radius: 3px;
+    border: 1px solid #aaa;
+    padding: 1px;
+}
+
 /* blog archive */
 ul.blog-archive {
     padding-left: 1em;
