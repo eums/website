@@ -11,11 +11,15 @@ Scotland&rsquo;s leading student music organisations&mdash;not only in its
 standard of performance, but also in its involvement with the wider community
 through education projects and fundraising concerts.
 
-We have three outstanding conductors, two orchestras, a choir, at least six
-concerts per year, an annual tour
+The Society consists of three ensembles, altogether numbering around 300
+people. We perform at least six times per year, in addition to running
+community projects and Innovative Learning week events, and going on an annual
+tour.
 
-In addition to this, there are a number of community projects, Innovative
-Learning Week events, and an annual tour.
+<ul>
+<li><a href="/get-involved">Get involved</a></li>
+<li><a href="/whats-on">What's on</a></li>
+</ul>
 
 <div class="clearfix quotes">
 <blockquote>
@@ -42,3 +46,15 @@ Richard Whittle
 </cite>
 </blockquote>
 </div>
+
+<hr>
+
+<h2>From the <a href="/blog">blog</a></h2>
+
+{% for post in site.posts offset:0 limit:3 %}
+
+<h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+
+<p>{{ post.excerpt }}</p>
+
+{% endfor %}

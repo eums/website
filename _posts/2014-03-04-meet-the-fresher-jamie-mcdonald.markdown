@@ -2,6 +2,7 @@
 layout: post
 published: true
 title: Meet the Fresher! Jamie McDonald
+excerpt: We interview one of this year's freshers.
 wordpress_id: 3100
 ---
 

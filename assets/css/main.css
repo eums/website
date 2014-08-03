@@ -218,9 +218,13 @@ nav li a {
 nav li a:hover,
 nav li a:focus {
     text-decoration: none;
-    background-color: #b3d4fc;
+    background-color: #bbc;
     outline: 0;
     color: #222;
+}
+
+nav li a:focus {
+    background-color: #b3d4fc;
 }
 
 main img {
@@ -365,11 +369,12 @@ blockquote {
     }
 
     .col-one {
-        width: 40em;
-        max-width: 620px;
+        width: 620px;
+        max-width: 80%;
     }
 
     .col-two {
+        max-width: 22%;
         padding-left: 1em;
     }
 }
