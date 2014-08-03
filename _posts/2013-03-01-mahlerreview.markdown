@@ -9,11 +9,65 @@ categories:
 
 > "The orchestra were very aware of the soloist&rsquo;s intimate singing style..."
 
-</blockquote></p>
-<p><strong><big>Last year EUMS Symphony Orchestra brought us <a title="EUMS Symphony Orchestra: Winter Concert 2012" href="http://eums.eusa.ed.ac.uk/2012/symphwinter/">a stunning evening of Mahler</a>. Far be it from us to harp on about how much we loved performing it, <a title="Go to The Student's website" href="http://www.studentnewspaper.org/" target="_blank"><em>The Student</em>'s</a><a title="Find Rebecca on Twitter" href="https://twitter.com/odohertyrebecca" target="_blank"> Rebecca O'Doherty</a> gave us a shining review following the concert. Read it in full below:</big></strong></p></p>
-<p><em>"Friday 23rd November 2012 saw the <a title="Symphony Orchestra" href="http://eums.eusa.ed.ac.uk/society/biography/symphony/">Edinburgh University Music Society&rsquo;s Symphony Orchestra</a> bring the music of Gustav Mahler to Greyfriars&rsquo; Kirk, Edinburgh. Following the major success of their programmes last year including performances of <a title="EUMS Symphony Orchestra: Spring Concert 2012" href="http://eums.eusa.ed.ac.uk/2012/spring-symphony/">Tchaikovsky&rsquo;s </a></em><a title="EUMS Symphony Orchestra: Spring Concert 2012" href="http://eums.eusa.ed.ac.uk/2012/spring-symphony/">Sixth Symphony</a><em>, </em><a title="EUMS Summer Concert 2012" href="http://eums.eusa.ed.ac.uk/2012/summerconcert2012/">Symphony No. 5</a><em><a title="EUMS Summer Concert 2012" href="http://eums.eusa.ed.ac.uk/2012/summerconcert2012/"> by Sibelius</a> and <a title="EUMS Chorus &amp; Symphony Orchestra: Winter Concert 2011" href="http://eums.eusa.ed.ac.uk/2011/gerontius/">Elgar&rsquo;s </a></em><a title="EUMS Chorus &amp; Symphony Orchestra: Winter Concert 2011" href="http://eums.eusa.ed.ac.uk/2011/gerontius/">Dream of Gerontius</a><em><a title="EUMS Chorus &amp; Symphony Orchestra: Winter Concert 2011" href="http://eums.eusa.ed.ac.uk/2011/gerontius/"> (with EUMS Chorus)</a>, the orchestra produced an even more ambitious programme of Mahler&rsquo;s </em>Songs of a Wayfarer<em> featuring solo baritone Douglas Nairne, which were simply stunning, and the incredible </em>Symphony No. 1<em> under the baton of conductor, <a title="2012: A Great Vintage?" href="http://eums.eusa.ed.ac.uk/2012/2012-a-great-vintage/">Russell Cowieson</a>.</em></p></p>
-<p><em>"The thought of an entire concert of Mahler may have caused some apprehension but Gustav himself had originally intended the two works to be performed side by side and at the concert this proved to be a success.</em></p></p>
-<p>"Lieder eines fahrenden Gesellen<em> (Songs of a Wayfarer) was executed beautifully by both the orchestra and soloist. The orchestra were very aware of the soloist&rsquo;s intimate singing style and their respectful playing added to this element of intimacy which made the experience of this work emotive and haunting with particular praise to the string section and soloists. Highlights were the third and final song.</em></p></p>
-<p>[caption id="" align="aligncenter" width="466"]<a href="http://eums.eusa.ed.ac.uk/wp-content/uploads/images/h500/concerts/greyfriars_winter12_30.jpg"><img class="  " alt="Symphony Orchestra getting stuck in..." src="http://eums.eusa.ed.ac.uk/wp-content/uploads/images/h500/concerts/greyfriars_winter12_30.jpg" width="466" height="240" /></a> Symphony Orchestra getting stuck in...[/caption]</p>
-<p><em>The concert&rsquo;s second half was Mahler&rsquo;s </em>Symphony No. 1<em>. Despite being an ambitious choice for a university orchestra, they handled the difficulties well. The third movement was a particular highlight with the fantastic woodwind soloists getting into character and providing an impressive display of their talents. The energetic finale showed that EUMS Symphony Orchestra have an exciting year ahead of them with a group of dedicated players, great management and an inspirational conductor."</em></p></p>
-<p><strong><big>With <a title="EUMS Symphony Orchestra: Spring Concert 2013" href="http://eums.eusa.ed.ac.uk/2013/symphonyspring/">an inspiring programme of Brahms and Macmillan</a>, Symphony Orchestra are performing in EUMS's Spring Concert Series on the 22nd March. Before then, Chorus and Sinfonia are putting on <a title="EUMS Chorus &amp; Sinfonia: Spring Concert 2013" href="http://eums.eusa.ed.ac.uk/2013/chorussinfoniaspring/">an epic Mendelssohn extravaganza</a> on the 15th of March. For full details and to buy tickets for both of these concerts <a title="Go to our Concerts page" href="http://eums.eusa.ed.ac.uk/events/concerts/">go to the Concerts page</a> of our website.</big></strong></p></p>
+Last year EUMS Symphony Orchestra brought us [a stunning evening of
+Mahler](http://eums.eusa.ed.ac.uk/2012/symphwinter/). Far be it from us to harp
+on about how much we loved performing it, [The
+Student](http://www.studentnewspaper.org/)'s [Rebecca
+O'Doherty](https://twitter.com/odohertyrebecca) gave us a shining review
+following the concert. Read it in full below:
+
+<em>"Friday 23rd November 2012 saw the <a title="Symphony Orchestra"
+href="http://eums.eusa.ed.ac.uk/society/biography/symphony/">Edinburgh
+University Music Society&rsquo;s Symphony Orchestra</a> bring the music of
+Gustav Mahler to Greyfriars&rsquo; Kirk, Edinburgh. Following the major success
+of their programmes last year including performances of <a title="EUMS Symphony
+Orchestra: Spring Concert 2012"
+href="http://eums.eusa.ed.ac.uk/2012/spring-symphony/">Tchaikovsky&rsquo;s
+</a></em><a title="EUMS Symphony Orchestra: Spring Concert 2012"
+href="http://eums.eusa.ed.ac.uk/2012/spring-symphony/">Sixth Symphony</a><em>,
+</em><a title="EUMS Summer Concert 2012"
+href="http://eums.eusa.ed.ac.uk/2012/summerconcert2012/">Symphony No.
+5</a><em><a title="EUMS Summer Concert 2012"
+href="http://eums.eusa.ed.ac.uk/2012/summerconcert2012/"> by Sibelius</a> and
+<a title="EUMS Chorus &amp; Symphony Orchestra: Winter Concert 2011"
+href="http://eums.eusa.ed.ac.uk/2011/gerontius/">Elgar&rsquo;s </a></em><a
+title="EUMS Chorus &amp; Symphony Orchestra: Winter Concert 2011"
+href="http://eums.eusa.ed.ac.uk/2011/gerontius/">Dream of Gerontius</a><em><a
+title="EUMS Chorus &amp; Symphony Orchestra: Winter Concert 2011"
+href="http://eums.eusa.ed.ac.uk/2011/gerontius/"> (with EUMS Chorus)</a>, the
+orchestra produced an even more ambitious programme of Mahler&rsquo;s
+</em>Songs of a Wayfarer<em> featuring solo baritone Douglas Nairne, which were
+simply stunning, and the incredible </em>Symphony No. 1<em> under the baton of
+conductor, <a title="2012: A Great Vintage?"
+href="http://eums.eusa.ed.ac.uk/2012/2012-a-great-vintage/">Russell
+Cowieson</a>.</em></p></p> <p><em>"The thought of an entire concert of Mahler
+may have caused some apprehension but Gustav himself had originally intended
+the two works to be performed side by side and at the concert this proved to be
+a success.</em></p></p> <p>"Lieder eines fahrenden Gesellen<em> (Songs of a
+Wayfarer) was executed beautifully by both the orchestra and soloist. The
+orchestra were very aware of the soloist&rsquo;s intimate singing style and
+their respectful playing added to this element of intimacy which made the
+experience of this work emotive and haunting with particular praise to the
+string section and soloists. Highlights were the third and final
+song.</em></p></p> <p>[caption id="" align="aligncenter" width="466"]<a
+href="http://eums.eusa.ed.ac.uk/wp-content/uploads/images/h500/concerts/greyfriars_winter12_30.jpg"><img
+class="  " alt="Symphony Orchestra getting stuck in..."
+src="http://eums.eusa.ed.ac.uk/wp-content/uploads/images/h500/concerts/greyfriars_winter12_30.jpg"/></a> Symphony Orchestra getting stuck
+in...[/caption]</p> <p><em>The concert&rsquo;s second half was Mahler&rsquo;s
+</em>Symphony No. 1<em>. Despite being an ambitious choice for a university
+orchestra, they handled the difficulties well. The third movement was a
+particular highlight with the fantastic woodwind soloists getting into
+character and providing an impressive display of their talents. The energetic
+finale showed that EUMS Symphony Orchestra have an exciting year ahead of them
+with a group of dedicated players, great management and an inspirational
+conductor."</em></p></p> <p><strong><big>With <a title="EUMS Symphony
+Orchestra: Spring Concert 2013"
+href="http://eums.eusa.ed.ac.uk/2013/symphonyspring/">an inspiring programme of
+Brahms and Macmillan</a>, Symphony Orchestra are performing in EUMS's Spring
+Concert Series on the 22nd March. Before then, Chorus and Sinfonia are putting
+on <a title="EUMS Chorus &amp; Sinfonia: Spring Concert 2013"
+href="http://eums.eusa.ed.ac.uk/2013/chorussinfoniaspring/">an epic Mendelssohn
+extravaganza</a> on the 15th of March. For full details and to buy tickets for
+both of these concerts <a title="Go to our Concerts page"
+href="http://eums.eusa.ed.ac.uk/events/concerts/">go to the Concerts page</a>
+of our website.</big></strong></p></p>
