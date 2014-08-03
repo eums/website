@@ -339,7 +339,12 @@ blockquote {
     }
 
     .col-one {
+        width: 40em;
         max-width: 620px;
+    }
+
+    .col-two {
+        padding-left: 1em;
     }
 }
 
