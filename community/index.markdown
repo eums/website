@@ -5,7 +5,7 @@ title: Community Engagement
 wordpress_id: 44
 ---
 
-![enthralled children]({{ site.assets }}/img/enthralled-children.jpg)
+<img class="full" alt="Children at one of EUMS' community events" src="{{ site.assets }}/img/enthralled-children.jpg">
 
 ## Community Engagement
 

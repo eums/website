@@ -1,8 +1,7 @@
 ---
 ---
 
-![Chorus and Symphony Orchestra at the performance of Verdi's Requiem in
-2013]({{ site.assets }}/img/symphony-chorus-verdi-2013.jpg)
+<img class="full" alt="Chorus and Symphony Orchestra at the performance of Verdi's Requiem in 2013" src="{{ site.assets }}/img/symphony-chorus-verdi-2013.jpg">
 
 ## Who are we?
 
@@ -40,9 +39,7 @@ The Very Reverend John Mann, St Anne's Cathedral
 I’m not sure that I have ever heard a choir cut and start as if the power had
 gone off and then on again&rdquo;
 </strong>
-<cite>&mdash; <a href="http://playpitspark.wordpress.com/2010/11/20/the-armed-man/">
-Richard Whittle
-</a>
+<cite>&mdash; <a href="http://playpitspark.wordpress.com/2010/11/20/the-armed-man/">Richard Whittle</a>
 </cite>
 </blockquote>
 </div>
