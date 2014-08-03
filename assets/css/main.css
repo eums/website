@@ -373,10 +373,11 @@ blockquote {
     }
 
     .col-two {
-        max-width: 24%;
+        width: 25%;
         margin: 1em 0 1em 0;
         padding: 0.5em;
         background-color: #dde;
+        float: right;
     }
 
     .col-two h3:first-child {
