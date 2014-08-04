@@ -16,11 +16,14 @@ Orchestra are proud to present their Summer Concert, on Friday 16 May, at
 
 The programme is as follows:
 
-**Sibelius**: Symphony No. 7,<br />
-**Rutter**: The Sprig of Thyme,<br />
-**Brahms**: Tragic Overture,<br />
-**Mozart**: Magic Flute Overture.
+<dl class="clearfix">
+<dt>Sibelius</dt> <dd>Symphony No. 7</dd>
+<dt>Rutter</dt> <dd>The Sprig of Thyme</dd>
+<dt>Brahms</dt> <dd>Tragic Overture</dd>
+<dt>Mozart</dt> <dd>Magic Flute Overture</dd>
+</dl>
 
 Doors open at 7pm, and it is recommended that you arrive early to ensure that you are not disappointed!
 
-Tickets [are available online](http://www.ticketsource.co.uk/event/56813).
+Tickets [are available online](http://www.ticketsource.co.uk/event/56813) or
+on the door.
