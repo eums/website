@@ -2,7 +2,6 @@
 layout: post
 published: true
 title: "Tour 2011: The Latest News"
-excerpt: "Tour 2011 is drawing ever nearer&hellip;"
 wordpress_id: 289
 categories:
 - News

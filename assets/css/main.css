@@ -144,6 +144,21 @@ ul.blog-archive li {
     list-style-type: none;
 }
 
+/* dl's (for concert programmes) */
+dt {
+    float: left;
+    clear: left;
+    width: 9em;
+    font-weight: bold;
+    text-align: right;
+}
+
+dd {
+    float: left;
+    margin-left: 1.25em;
+    padding-bottom: 0.25em;
+}
+
 /* layout */
 body {
     overflow-y: scroll;

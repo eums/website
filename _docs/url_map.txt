@@ -7,6 +7,7 @@
 /society/biography/symphony /symphony-orchestra/
 
 /2011/quos-01	/blog/2011/quso-concert
+/2011/summerconcert /blog/2011/summer-concert
 /2011/tour2011_news01	/blog/2011/tour-latest-news
 /2014/membersnewsletter_april14 /blog/2014/members-newsletter-april/
 /2014/summerconcert2014 /blog/2014/summer-concert
