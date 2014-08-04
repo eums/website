@@ -118,47 +118,40 @@ header .tagline {
 
 nav {
     background: $bg-lgrey;
-}
 
-nav ul {
-    list-style: none;
-    margin: 0;
-    padding: 0;
-    background: $bg-lgrey;
-}
+    ul {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+        background: $bg-lgrey;
+    }
 
-nav li {
-    display: inline-block;
-    margin: 0;
-    padding: 0;
-    text-align: center;
-    text-decoration: none;
-}
+    li {
+        display: inline-block;
+        margin: 0;
+        padding: 0;
+        text-align: center;
 
-nav li a,
-nav li a:visited {
-    color: $fg;
-    display: inline-block;
-    height: 2em;
-    line-height: 2em;
-    text-decoration: none;
-}
+        a, a:visited {
+            color: $fg;
+            display: inline-block;
+            height: 2em;
+            line-height: 2em;
+            text-decoration: none;
+            padding-left: 1em;
+            padding-right: 1em;
+        }
 
-nav li a {
-    padding-left: 1em;
-    padding-right: 1em;
-}
+        a:hover {
+            text-decoration: none;
+            background-color: #bbc;
+            outline: 0;
+        }
 
-nav li a:hover,
-nav li a:focus {
-    text-decoration: none;
-    background-color: #bbc;
-    outline: 0;
-    color: $fg;
-}
-
-nav li a:focus {
-    background-color: $selection;
+        a:focus {
+            background-color: $selection;
+        }
+    }
 }
 
 main img {
