@@ -181,6 +181,11 @@ header img {
     color: white;
 }
 
+footer {
+    padding: 1em;
+    background: #dde;
+}
+
 header h1 {
     margin: 0;
     padding-top: 0.6em;
