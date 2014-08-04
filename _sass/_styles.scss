@@ -89,31 +89,35 @@ ul.container {
     padding: 0;
 }
 
-header[role="banner"],
-header img {
+header[role="banner"] {
     background: $bg-red;
     color: white;
+
+    img {
+        background: $bg-red;
+        color: white;
+    }
+
+    h1 {
+        margin: 0;
+        padding-top: 0.6em;
+    }
+
+    .logo {
+        margin-left: 0;
+    }
+
+    .tagline {
+        font-style: italic;
+        text-align: right;
+        margin: 0;
+        padding: 1em 0 0.5em 1em;
+    }
 }
 
 footer {
     padding: 1em;
     background: $bg-lgrey;
-}
-
-header h1 {
-    margin: 0;
-    padding-top: 0.6em;
-}
-
-header .logo {
-    margin-left: 0;
-}
-
-header .tagline {
-    font-style: italic;
-    text-align: right;
-    margin: 0;
-    padding: 1em 0 0.5em 1em;
 }
 
 nav {

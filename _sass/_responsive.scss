@@ -19,7 +19,7 @@
     }
 
     header .logo-text {
-        background-image: url("$assets/img/eums-logo-text.png");
+        background-image: url($logo);
         background-repeat: no-repeat;
         /* copy dimensions from the image; for some reason it disappears unless
          * these are present */
