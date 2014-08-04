@@ -381,6 +381,7 @@ blockquote {
         padding: 0.5em;
         background-color: #dde;
         float: right;
+        border-top: 5px solid #d40000;
     }
 
     .col-two h3:first-child {
