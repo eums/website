@@ -1,13 +1,12 @@
 ---
 layout: page
-published: true
-title: Community Engagement
+title: Community engagement
 wordpress_id: 44
 ---
 
 <img class="full" alt="Children at one of EUMS' community events" src="{{ site.assets }}/img/enthralled-children.jpg">
 
-## Community Engagement
+## Community engagement
 
 The Edinburgh University Music Society has a great time making music, and we
 would love for this energy to reach members of the community who might not
