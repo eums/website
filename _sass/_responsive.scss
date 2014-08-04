@@ -1,0 +1,74 @@
+/* ==========================================================================
+   Media Queries for Responsive Design.
+   These examples override the primary ('mobile first') styles.
+   ========================================================================== */
+
+@media only screen and (min-width: 33em) {
+    .container {
+        padding: 0 4em 0 4em;
+    }
+    ul.container {
+        padding: 0 2em 0 2em;
+    }
+}
+
+@media only screen and (min-width: 42em) {
+    header .logo {
+        float: left;
+        margin-left: 0;
+    }
+
+    header .logo-text {
+        background-image: url("$assets/img/eums-logo-text.png");
+        background-repeat: no-repeat;
+        /* copy dimensions from the image; for some reason it disappears unless
+         * these are present */
+        width: 354px;
+        height: 83px;
+    }
+
+    .quotes blockquote {
+        float: left;
+        /* don't ask me where the extra 6% goes */
+        margin: 1.5%;
+        padding: 1.5%;
+        width: 43%;
+    }
+}
+
+@media only screen and (min-width: 64em) {
+    .container, ul.container {
+        padding: 0;
+    }
+
+    .col {
+        float: left;
+        padding-right: 2em;
+    }
+
+    .col-one {
+        width: 620px;
+        max-width: 80%;
+    }
+
+    .col-two {
+        width: 25%;
+        margin: 1em 0 1em 0;
+        padding: 0.5em;
+        background-color: #dde;
+        float: right;
+        border-top: 5px solid $bg-red;
+    }
+
+    .col-two h3:first-child {
+        margin-top: 0.2em;
+    }
+}
+
+@media print,
+       (-o-min-device-pixel-ratio: 5/4),
+       (-webkit-min-device-pixel-ratio: 1.25),
+       (min-resolution: 120dpi) {
+    /* Style adjustments for high resolution devices */
+}
+

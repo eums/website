@@ -1,0 +1,185 @@
+/* base */
+body {
+    font: normal 100% "Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+
+.publication-date {
+    font-style: italic;
+    margin-top: 0.5em;
+    margin-bottom: 2em;
+    margin-left: 1em;
+    color: $fg-lighter;
+}
+
+h2 {
+    margin-bottom: 0.25em;
+}
+
+h3 {
+    font-size: 130%;
+}
+
+.newsletter-summary {
+    font-size: 115%;
+    font-weight: bold;
+}
+
+a, a:visited {
+    color: $fg-red;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:focus {
+    background-color: $selection;
+    outline: 3px solid $selection;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+kbd {
+    background: $bg-lgrey;
+    border-radius: 3px;
+    border: 1px solid $bg-dgrey;
+    padding: 1px;
+}
+
+/* blog archive */
+ul.blog-archive {
+    padding-left: 1em;
+    margin-bottom: 2em;
+}
+
+ul.blog-archive li {
+    font-size: 110%;
+    margin-bottom: 0.5em;
+    list-style-type: none;
+}
+
+/* dl's (for concert programmes) */
+dt {
+    float: left;
+    clear: left;
+    width: 9em;
+    font-weight: bold;
+    text-align: right;
+}
+
+dd {
+    float: left;
+    margin-left: 1.25em;
+    padding-bottom: 0.25em;
+}
+
+/* layout */
+body {
+    overflow-y: scroll;
+}
+
+.container {
+    max-width: 56em;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0 2em 0 2em;
+}
+
+ul.container {
+    padding: 0;
+}
+
+header[role="banner"],
+header img {
+    background: $bg-red;
+    color: white;
+}
+
+footer {
+    padding: 1em;
+    background: $bg-lgrey;
+}
+
+header h1 {
+    margin: 0;
+    padding-top: 0.6em;
+}
+
+header .logo {
+    margin-left: 0;
+}
+
+header .tagline {
+    font-style: italic;
+    text-align: right;
+    margin: 0;
+    padding: 1em 0 0.5em 1em;
+}
+
+nav {
+    background: $bg-lgrey;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    background: $bg-lgrey;
+}
+
+nav li {
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    text-decoration: none;
+}
+
+nav li a,
+nav li a:visited {
+    color: $fg;
+    display: inline-block;
+    height: 2em;
+    line-height: 2em;
+    text-decoration: none;
+}
+
+nav li a {
+    padding-left: 1em;
+    padding-right: 1em;
+}
+
+nav li a:hover,
+nav li a:focus {
+    text-decoration: none;
+    background-color: #bbc;
+    outline: 0;
+    color: $fg;
+}
+
+nav li a:focus {
+    background-color: $selection;
+}
+
+main img {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+main img.full {
+    width: 100%;
+    max-width: 620px;
+}
+
+.aside {
+    float: right;
+    margin: 0 3em 3em 3em;
+}
+
+blockquote {
+    margin: 1.5em 0 1.5em 0;
+    padding: 1.5%;
+    background: $bg-lgrey;
+}
+
