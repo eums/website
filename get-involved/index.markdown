@@ -31,25 +31,3 @@ href="http://eums.eusa.ed.ac.uk/society/biography/sinfonia">Find out more about
 Sinfonia here</a>.</p></p>
 <p>The <strong>Symphony Orchestra</strong>, a large auditioning orchestra of a very high standard, conducted by Russell Cowieson, rehearse on a Monday evening in the Reid Hall. <a title="EUMS Symphony Orchestra" href="http://eums.eusa.ed.ac.uk/society/biography/symphony">Find out more about the Symphony Orchestra here</a>.</p></p>
 
-### Our vision
-
-The society is a great way to meet all sorts of people. No matter what your
-musical background, there is always a place for you within one of the
-ensembles, allowing you to broaden your musical horizons as well as having a
-great time along the way.
-
-Whether you are an undergraduate, postgraduate or just someone who has heard
-about what we do, all you have to do is come along and speak to one of our
-dedicated committee members.
-
-The society also gets involved with the community, and plays an active role in
-bringing music to the schools in and around Edinburgh. In recent years
-interaction between the society and the community has increased a great deal,
-and there are several annual events that take place involving local primary and
-secondary schools and a number of our members, guiding them to create music and
-learn new skills whilst also, of course, having fun.
-
-The Edinburgh University Music Society strives to bring out the best in
-everyone through the collision of talent and character, and in doing so present
-the ability of the University to perform excellent music with versatility and
-brilliance.

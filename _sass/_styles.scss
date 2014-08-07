@@ -73,6 +73,21 @@ dd {
     padding-bottom: 0.25em;
 }
 
+/* tables */
+table {
+    padding: 0.25em;
+}
+
+tr:nth-child(odd) {
+    background-color: $bg-llgrey;
+    padding: 0.25em;
+
+}
+
+td {
+    padding: 0.2em 0.4em 0.2em 0.4em;
+}
+
 /* layout */
 body {
     overflow-y: scroll;

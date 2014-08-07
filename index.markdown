@@ -6,9 +6,9 @@
 ## Who are we?
 
 The Edinburgh University Music Society is widely regarded as one of
-Scotland&rsquo;s leading student music organisations&mdash;not only in its
-standard of performance, but also in its involvement with the wider community
-through education projects and fundraising concerts.
+Scotland's leading student music organisations&mdash;not only in its standard
+of performance, but also in its involvement with the wider community through
+education projects and fundraising concerts.
 
 The Society consists of three ensembles, altogether numbering around 300
 people. We perform at least six times per year, in addition to running

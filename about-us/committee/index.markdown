@@ -1,24 +1,9 @@
 ---
 layout: page
-status: publish
-published: true
 title: Committee
-author:
-  display_name: Web Manager
-  login: eums_website
-  email: web@eums.org.uk
-  url: http://www.eums.org.uk
-author_login: eums_website
-author_email: web@eums.org.uk
-author_url: http://www.eums.org.uk
 wordpress_id: 23
-wordpress_url: http://eums.eusa.ed.ac.uk/?page_id=23
-date: '2011-03-28 14:10:53 -0700'
-date_gmt: '2011-03-28 14:10:53 -0700'
-categories: []
-tags: []
-comments: []
 ---
+
 <h1 style="text-align: justify;">Committee</h1><br />
 <span style="text-align: justify;">The Edinburgh University Music Society is a self-governing student society managed by the conductors and an annually appointed committee of members. Each of the three ensembles is run by their respective Managers and the Society's finances are managed by the Treasurer.</span></p>
 <p><strong><span style="text-align: justify;"><big>The Mission of the Edinburgh University Music Society is <em>the encouragement and promotion of music throughout the University of Edinburgh and the wider community</em>.</big></span></strong></p>
