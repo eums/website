@@ -1,29 +1,29 @@
 ---
 layout: page
-status: publish
-published: true
-title: Music Library
-author:
-  display_name: Web Manager
-  login: eums_website
-  email: web@eums.org.uk
-  url: http://www.eums.org.uk
-author_login: eums_website
-author_email: web@eums.org.uk
-author_url: http://www.eums.org.uk
+title: Music library
 wordpress_id: 1966
-wordpress_url: http://eums.eusa.ed.ac.uk/?page_id=1966
-date: '2012-08-28 01:07:42 -0700'
-date_gmt: '2012-08-28 01:07:42 -0700'
-categories: []
-tags: []
-comments: []
 ---
-<h1 style="text-align: left;">Music Library</h1><br />
-<img alt="" src="http://eums.eusa.ed.ac.uk/wp-content/uploads/images/w620/library.jpg" width="620" height="250" /></p>
-<p style="text-align: left;">Since our founding in 1867, we have collected a wide range of choral and instrumental music, including pieces written specifically for us by various composers. In 2012 EUMS transferred a large quantity of its collection to a number of other musical organisations on long-term loan; however, we still retain a large library of pieces, some unique.</p></p>
-<p style="text-align: left;">Hiring music from our library costs a nominal rate of &pound;10/month per set in addition to postage, with the cost being invoiced at the end of the agreed hire period.</p></p>
-<p style="text-align: left;">As part of our aim to increase the ease of provision to younger musicians, <em>student and youth music groups will not incur these hire costs</em> and would only pay for the postage of music.</p></p>
-<p style="text-align: left;"><strong><big>The full catalogue can be found <a title="Our music catalogue" href="http://eums.eusa.ed.ac.uk/wp-content/uploads/files/catalogue.pdf">by following this link</a>.</big></strong></p></p>
-<p style="text-align: left;">For further details of the music we have on offer, and to make enquiries with regards to the hire of a set of music, please contact our President at <a title="Email us" href="mailto:president@eums.org.uk" target="_blank">president@eums.org.uk</a>.</p></p>
-<p style="text-align: left;"><small>The Edinburgh University Music Society and its committee retains the right to charge appropriate and necessary penalty fees for the damage or loss of any hired music.</small></p></p>
+
+<img alt="" src="http://eums.eusa.ed.ac.uk/wp-content/uploads/images/w620/library.jpg" width="620" height="250" />
+
+## Music library
+
+Since our founding in 1867, we have collected a wide range of choral and instrumental music, including pieces written specifically for us by various composers. In 2012 EUMS transferred a large quantity of its collection to a number of other musical organisations on long-term loan; however, we still retain a large library of pieces, some unique.
+
+Hiring music from our library costs a nominal rate of &pound;10/month per set
+in addition to postage, with the cost being invoiced at the end of the agreed
+hire period.
+
+As part of our aim to increase the ease of provision to younger musicians,
+**student and youth music groups will not incur these hire costs** and would
+only pay for the postage of music.
+
+[View the full catalogue](http://eums.eusa.ed.ac.uk/wp-content/uploads/files/catalogue.pdf).
+
+For further details of the music we have on offer, and to make enquiries with
+regards to the hire of a set of music, please contact our President at
+[president@eums.org.uk](president@eums.org.uk).
+
+<small>The Edinburgh University Music Society and its committee retains the
+right to charge appropriate and necessary penalty fees for the damage or loss
+of any hired music.</small>
