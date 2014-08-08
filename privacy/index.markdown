@@ -47,4 +47,4 @@ Cookies are small files which are stored in your browser. We use cookies to
 collect information about how you used the site. This information is processed
 by Google's Analytics service.
 
-If you have any concerns about your privacy, please [contact us](/contact-us/).
+If you have any concerns about how we handle your data, please [contact us](/contact-us/).
