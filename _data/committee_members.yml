@@ -1,0 +1,65 @@
+- name: Amanda MacLeod
+  position: President
+  email: president@eums.org.uk
+
+- name: Katy Cavanagh
+  position: Secretary
+  email: secretary@eums.org.uk
+
+- name: Katharina Lindmeier
+  position: Treasurer
+  email: treasurer@eums.org.uk
+
+- name: Michael Scanlon
+  position: Chorus Manager
+  email: chorus@eums.org.uk
+
+- name: Sam Williams
+  position: Sinfonia Manager
+  email: sinfonia@eums.org.uk
+
+- name: Derrick Morgan
+  position: Symphony Manager
+  email: symphony@eums.org.uk
+
+- name: James Maroulis
+  position: Chorus Librarian
+  email: chorus.librarian@eums.org.uk
+
+- name: Jamie McDonald
+  position: Sinfonia Librarian
+  email: sinfonia.librarian@eums.org.uk
+
+- name: James Corbin
+  position: Symphony Librarian
+  email: symphony.librarian@eums.org.uk
+
+- name: Tamara Cave Jones
+  position: Social Secretary
+  email: social@eums.org.uk
+
+- name: Sarah Atkinson
+  position: Social Secretary
+  email: social@eums.org.uk
+
+- name: Harry Garrood
+  position: Publicity Manager
+  email: publicity@eums.org.uk
+
+- name: Benjamin Horne
+  position: Publicity Manager
+  email: publicity@eums.org.uk
+
+- name: Shannon Miller
+  position: Tour Manager
+  email: tour@eums.org.uk
+
+- name: Christie Mackie
+  position: Sponsorship & Alumni Manager
+  email:
+    - sponsorship@eums.org.uk
+    - alumni@eums.org.uk
+
+- name: Ben Crabbe
+  position: Community Outreach Manager
+  email: community@eums.org.uk
