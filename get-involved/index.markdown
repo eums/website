@@ -19,15 +19,13 @@ dedicated members are always a great success.
 
 The society consists of three ensembles. The largest is **Chorus**, a choir of
 around 200 people. It is totally non-auditioned&mdash;you don't even need to be
-able to read music.
-<a title="EUMS Chorus"
-href="http://eums.eusa.ed.ac.uk/society/biography/chorus">Find out more</a>.
+able to read music. [Find out more about Chorus](/chorus/).
 
-<strong>Sinfonia</strong>, an orchestra conducted
-by Peter Keenan, consists of auditioned players apart from the string section
-which is non-auditioning. They rehearse at the Reid Hall on a Saturday morning.
-<a title="EUMS Sinfonia"
-href="http://eums.eusa.ed.ac.uk/society/biography/sinfonia">Find out more about
-Sinfonia here</a>.</p></p>
-<p>The <strong>Symphony Orchestra</strong>, a large auditioning orchestra of a very high standard, conducted by Russell Cowieson, rehearse on a Monday evening in the Reid Hall. <a title="EUMS Symphony Orchestra" href="http://eums.eusa.ed.ac.uk/society/biography/symphony">Find out more about the Symphony Orchestra here</a>.</p></p>
+**Sinfonia**, an orchestra conducted by Peter Keenan, consists of auditioned
+players apart from the string section which is non-auditioning. They rehearse
+at the Reid Hall on a Saturday morning. [Find out more about
+Sinfonia](/sinfonia/).
 
+The **Symphony Orchestra**, a large auditioning orchestra of a very high
+standard, conducted by Russell Cowieson, rehearse on a Monday evening in the
+Reid Hall. [Find out more about Symphony Orchestra](/symphony-orchestra/).
