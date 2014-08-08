@@ -11,11 +11,11 @@ We collect some information about you when you use this website.
 This includes:
 
 * your IP address, and details of which web browser you used
-* information on how you use the site, such as how long you spend on each page,
-  or which links you click on
-* if you sign up for Gold membership, your name, address, email address, and
+* information on how you used the site, such as how long you spent on each page,
+  or which links you clicked on
+* if you signed up for Gold membership, your name, address, email address, and
   date of birth.
-* if you buy tickets online, your name, address, phone number and email
+* if you bought tickets online, your name, address, phone number and email
   address.
 
 We do **not** collect or store any of your credit or debit card information,
