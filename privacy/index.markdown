@@ -6,47 +6,35 @@ wordpress_id: 2059
 
 ## Privacy Policy
 
-Privacy refers to information we obtain about you and the use we make of it in
-the course of our business. If you have any concerns, please [contact
-us](/contact-us/).
+We collect some information about you when you use this website.
 
-### Information we gather
+This includes:
 
-One of the basic principles we've followed in designing this website is that we
-ask for only the information we need to provide the service you've requested.
-As a result, the answer to this question depends almost entirely on how you
-choose to make use of our websites and the growing list of website services.
-Currently, some website customers provide information in order to take
-advantage of the following services:
+* your IP address, and details of which web browser you used
+* information on how you use the site, such as how long you spend on each page,
+  or which links you click on
+* if you sign up for Gold membership, your name, address, email address, and
+  date of birth.
+* if you buy tickets online, your name, address, phone number and email
+  address.
 
-### Ticket sales
+We do **not** collect or store any of your credit or debit card information,
+this is handled by TicketSource Limited.
 
-Name, address, phone, e-mail, and debit/credit card information are necessary
-for purchase. Please note that debit/credit card information is not stored
-beyond the period of transaction and that such details are handled securely by
-TicketSource Limited.
+Collecting this information is necessary for us to:
 
-### Gold membership
+* improve the site by monitoring how you use it
+* provide online ticket sales and Gold membership services.
 
-Name, address, and e-mail are held to send your Certificate of Membership and
-any paper correspondance to you. Your date of birth is required for
-informational purposes only. No financial details are to be held by us, and
-should only be handled by your bank or building society.
+### Where your data is stored
 
-The Edinburgh University Music Society is committed to protecting the privacy
-of users of this website. We do not provide access to your information to any
-other organisation.
+Your data is stored on secure servers which may be outside Europe. By
+submitting your data, you consent to this.
 
 ### Cookies
 
-Cookies are small pieces of information, stored in your browser, which allow us
-to identify you as you move through the site. We use this information only to
-help improve the site.
+Cookies are small files which are stored in your browser. We use cookies to
+collect information about how you used the site. This information is processed
+by Google's Analytics service.
 
-<small>
-The Edinburgh University Music Society takes reasonable steps to ensure that
-data transmitted electronically to the Edinburgh University Music Society via
-the site or otherwise and stored by the Edinburgh University Music Society is
-not accessed by unauthorised third parties in accordance with the requirements
-of the Data Protection Act 1998.
-</small>
+If you have any concerns about your privacy, please [contact us](/contact-us/).
