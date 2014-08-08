@@ -18,13 +18,16 @@ This includes:
 * if you bought tickets online, your name, address, phone number and email
   address.
 
-We do **not** collect or store any of your credit or debit card information,
-this is handled by TicketSource Limited.
-
 Collecting this information is necessary for us to:
 
 * improve the site by monitoring how you use it
 * provide online ticket sales and Gold membership services.
+
+### Credit card details
+
+We do **not** collect or store any of your credit or debit card information.
+When you buy tickets online, the payment is processed securely by TicketSource
+Limited.
 
 ### Where your data is stored
 
