@@ -32,7 +32,14 @@ Limited.
 ### Where your data is stored
 
 Your data is stored on secure servers which may be outside Europe. By
-submitting your data, you consent to this.
+submitting your data via our website, by emailing us, or by buying tickets on
+TicketSource, you consent to this.
+
+### Disclosing your information
+
+Edinburgh University Music Society is committed to its users' privacy. We do
+not provide access to your data to any other organisation (except for the cloud
+storage service we use) unless we are legally obliged to do so.
 
 ### Cookies
 
