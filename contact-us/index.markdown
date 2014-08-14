@@ -37,6 +37,6 @@ EH8 9DF
 
 ### By phone
 
-Though it is not possible to provide a universal society phone number, by contacting EUMS as detailed above, an appropriate phone number for one of our committee members can be administered on a need-to-know basis.
-
-<small>The Edinburgh University Music Society takes reasonable steps to ensure that data transmitted electronically to the Edinburgh University Music Society via the site or otherwise and stored by the Edinburgh University Music Society is not accessed by unauthorised third parties in accordance with the requirements of the Data Protection Act 1998.</small>
+Though it is not possible to provide a universal society phone number, by
+contacting EUMS as detailed above, an appropriate phone number for one of our
+committee members can be administered on a need-to-know basis.
