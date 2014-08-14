@@ -139,12 +139,36 @@ header[role="banner"] {
     }
 }
 
-footer {
-    margin-top: 2em;
-    padding: 1em;
-    background: $bg-lgrey;
+/* sticky footer */
+
+html {
+    position: relative;
+    min-height: 100%;
 }
 
+body {
+    margin: 0 0 $footer-height;
+}
+
+main:after {
+    padding-bottom: 2em;
+}
+
+footer {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: $footer-height;
+    width: 100%;
+    clear: both;
+    background: $bg-lgrey;
+
+    .container {
+        padding: 1em;
+    }
+}
+
+/* main nav bar */
 nav {
     background: $bg-lgrey;
 
