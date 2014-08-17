@@ -74,19 +74,21 @@ dd {
     padding-bottom: 0.25em;
 }
 
-/* tables */
-table {
-    padding: 0.25em;
-}
+/* committee */
+.committee-members {
+    .row {
+        padding: 0.25em;
+    }
 
-tr:nth-child(odd) {
-    background-color: $bg-lgrey;
-    padding: 0.25em;
+    .row:nth-child(odd) {
+        background-color: $bg-lgrey;
+    }
 
-}
-
-td {
-    padding: 0.2em 0.4em 0.2em 0.4em;
+    .cell {
+        float: left;
+        padding: 0.2em 0.4em 0.2em 0.4em;
+        width: 25%;
+    }
 }
 
 /* layout */

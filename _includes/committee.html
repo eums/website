@@ -1,13 +1,13 @@
-<table width="100%">
+<div class="committee-members">
 {% for m in site.data.committee_members %}
-<tr>
-    <td>{{ m.name }}</td>
-    <td>{{ m.position }}</td>
-    <td>
+<div class="row clearfix">
+    <div class="cell">{{ m.name }}</div>
+    <div class="cell">{{ m.position }}</div>
+    <div class="cell">
         {% for e in m.email %}
         <a href="mailto:{{ e }}">{{ e }}</a><br>
         {% endfor %}
-    </td>
-</tr>
+    </div>
+</div>
 {% endfor %}
-</table>
+</div>
