@@ -6,7 +6,7 @@ excerpt: We interview one of this year's freshers.
 wordpress_id: 3100
 ---
 
-<img alt="Jamie looking rather fab in black tie concert gear" src="{{ site.assets }}/img/meet-the-fresher/jamie-mcdonald.jpg" class="aside">
+<img alt="Jamie looking rather fab in black tie concert gear" src="/assets/img/meet-the-fresher/jamie-mcdonald.jpg" class="aside">
 
 **Name:** Jamie McDonald<br>
 **Age:** 18<br>

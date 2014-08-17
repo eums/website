@@ -1,8 +1,0 @@
-{% comment %}
-Styles that depend on site configuration or data go here.
-{% endcomment %}
-@media only screen and (min-width: 42em) {
-    header .logo-text {
-        background-image: url({{ site.assets }}/img/eums-logo-text.png);
-    }
-}

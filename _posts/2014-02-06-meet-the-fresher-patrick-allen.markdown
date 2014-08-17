@@ -6,7 +6,7 @@ wordpress_id: 3069
 ---
 
 
-<img alt="One smiling Patrick Allen" src="{{ site.assets }}/img/meet-the-fresher/patrick-allen.jpg" class="aside">
+<img alt="One smiling Patrick Allen" src="/assets/img/meet-the-fresher/patrick-allen.jpg" class="aside">
 
 **Name:** Patrick Allen <br>
 **Age:** 18 <br>

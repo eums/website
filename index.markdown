@@ -1,7 +1,7 @@
 ---
 ---
 
-<img class="full" alt="Chorus and Symphony Orchestra at the performance of Verdi's Requiem in 2013" src="{{ site.assets }}/img/symphony-chorus-verdi-2013.jpg">
+<img class="full" alt="Chorus and Symphony Orchestra at the performance of Verdi's Requiem in 2013" src="/assets/img/symphony-chorus-verdi-2013.jpg">
 
 ## Who are we?
 

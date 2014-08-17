@@ -19,11 +19,7 @@
     }
 
     header .logo-text {
-        /* I really wanted to have this rule here:
-         * background-image: url({{ site.assets }}/img/eums-logo-text.png);
-         * but jekyll refuses to render Liquid tags in assets.
-         * So this rule goes into _includes/liquid_styles.css. :(
-         */
+        background-image: url(/assets/img/eums-logo-text.png);
         background-repeat: no-repeat;
         /* copy dimensions from the image; for some reason it disappears unless
          * these are present */
