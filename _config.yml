@@ -9,6 +9,9 @@ name: "Edinburgh University Music Society"
 description: "Scotland's foremost student music body since 1867. Society profile with details of concerts, community projects and membership."
 url: "http://eums.dev.garrood.me"
 
+sass:
+  style: :compact
+
 defaults:
   # All pages should use default layout
   - scope:
