@@ -34,6 +34,12 @@
         padding: 1.5%;
         width: 43%;
     }
+
+    .committee-members .cell {
+        float: left;
+        padding: 0.2em 0.4em 0.2em 0.4em;
+        width: 25%;
+    }
 }
 
 @media only screen and (min-width: 64em) {
