@@ -1,7 +1,8 @@
 ---
 ---
 
-<img class="full" alt="Chorus and Symphony Orchestra at the performance of Verdi's Requiem in 2013" src="/assets/img/symphony-chorus-verdi-2013.jpg">
+![Chorus and Symphony Orchestra at the performance of Verdi's Requiem in 2013](
+/assets/img/symphony-chorus-verdi-2013.jpg)
 
 ## Who are we?
 
@@ -22,6 +23,7 @@ tour.
 
 <div class="clearfix quotes">
 <blockquote>
+<p>
 <strong>
 &ldquo;I had forgotten how much I adore Schubert’s Unfinished Symphony &hellip;
 it is such an emotional work and they carried it off well, the conductor once
@@ -31,9 +33,11 @@ again bringing out the best from everyone&rdquo;
 The Very Reverend John Mann, St Anne's Cathedral
 </a>
 </cite>
+</p>
 </blockquote>
 
 <blockquote>
+<p>
 <strong>
 &ldquo;Am I allowed to say brilliant? The EUMS was stunningly good &hellip;
 I’m not sure that I have ever heard a choir cut and start as if the power had
@@ -41,6 +45,7 @@ gone off and then on again&rdquo;
 </strong>
 <cite>&mdash; <a href="http://playpitspark.wordpress.com/2010/11/20/the-armed-man/">Richard Whittle</a>
 </cite>
+</p>
 </blockquote>
 </div>
 

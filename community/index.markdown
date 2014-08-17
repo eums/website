@@ -4,7 +4,8 @@ title: Community engagement
 wordpress_id: 44
 ---
 
-<img class="full" alt="Children at one of EUMS' community events" src="/assets/img/enthralled-children.jpg">
+![Children at one of EUMS' community
+events](/assets/img/enthralled-children.jpg)
 
 ## Community engagement
 
@@ -27,10 +28,10 @@ following a year of extensive work with schools and communities in the
 Edinburgh area, EUMS won the coveted *Edinburgh University Students&rsquo;
 Association Community Action Award*. Our projects can be anything from carol
 singing at Christmas to our Symphony Orchestra playing at the Caird Hall with
-200 school children dancing on stage! We&rsquo;re very much looking forward to
-a summer of workshops with the amazing Soweto Choir and performing a series of
+200 school children dancing on stage! We're very much looking forward to a
+summer of workshops with the amazing Soweto Choir and performing a series of
 concerts in collaboration with Artlink to celebrate the bicentenary of the
-Edinburgh Royal Hospital. This year we&rsquo;ll be hosting our annual Education
+Edinburgh Royal Hospital. This year we'll be hosting our annual Education
 project on the 23rd October (so get the date in your diaries), Carol
 singing at Christmas, Music sessions with Artlink and Drake Music, a day of
 master classes with members from the Scottish Chamber Orchestra and our Big

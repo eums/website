@@ -5,7 +5,7 @@ title: Get involved
 wordpress_id: 10
 ---
 
-<img class="full" alt="EUMS members, hard at work in rehearsal" src="http://eums.eusa.ed.ac.uk/wp-content/uploads/images/w620/rehearsal1.jpg"/>
+![EUMS members, hard at work in rehearsal](/assets/img/rehearsal.jpg)
 
 ## Get involved
 
