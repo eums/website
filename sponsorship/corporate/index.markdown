@@ -21,10 +21,10 @@ The society performs ten or more times a year, in locations across Edinburgh,
 the UK and indeed the world. Our brand is seen by thousands of people
 throughout the year, bringing the community into contact with a wide array of
 publicity material. Our Spring, Summer and Winter Concert Series are a
-well-known feature of the Edinburgh musical calendar.  Chorus raising the roof
-of the McEwan Hall.
+well-known feature of the Edinburgh musical calendar.
 
-<!-- image: Chorus raising the roof of the McEwan Hall. -->
+![Chorus raising the roof of the McEwan
+Hall.](/assets/img/sponsorship/chorus.jpg)
 
 ### What can we offer?
 
