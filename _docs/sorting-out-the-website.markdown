@@ -25,10 +25,12 @@ https://googledrive.com/host/0BxsJMhlYrb4QRTFGSHJTMTRuOEU/
 Away from WordPress
 -------------------
 
-Storing posts in a database is not a good idea. Switching to jekyll-style posts would:
+Storing posts in a database is not a good idea. Switching to jekyll-style posts
+would:
 
 * Make them easier to edit
-* Make it easy to find which assets are used where (in order to remove unused ones)
+* Make it easy to find which assets are used where (in order to remove unused
+  ones)
 * Mitigate the huge security risk of PHP
 * Reduce risk of losing them (they'd be on GitHub)
 
