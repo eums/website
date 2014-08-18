@@ -40,6 +40,11 @@
         padding: 0.2em 0.4em 0.2em 0.4em;
         width: 25%;
     }
+
+    footer .links-grid {
+        background: url(/assets/img/eums-logo.png) no-repeat;
+        padding-left: 23%;
+    }
 }
 
 @media only screen and (min-width: 64em) {
