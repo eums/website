@@ -57,8 +57,8 @@ importance for music in the University of Edinburgh
 here](http://www.eca.ed.ac.uk/reid-school-of-music).
 
 ![Photograph taken by the Edinburgh Evening News, December 1961](
-/assets/images/history/1961-editorial-print.jpg "The Society performs in all
-its glory...")
+/assets/img/history/1961-editorial-print.jpg "The Society performs in all its
+glory")
 
 The society, now and for many decades the largest outside the University of
 Edinburgh's Sports Union, has a long history of representing the University of
