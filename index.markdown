@@ -13,7 +13,7 @@ education projects and fundraising concerts.
 
 The Society consists of three ensembles, altogether numbering around 300
 people. We perform at least six times per year, in addition to running
-community projects and Innovative Learning week events, and going on an annual
+community projects and Innovative Learning Week events, and going on an annual
 tour.
 
 <ul>
