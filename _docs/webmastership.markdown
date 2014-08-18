@@ -14,10 +14,10 @@ Webmastership
     * Ruby DevKit https://github.com/oneclick/rubyinstaller/wiki/Development-Kit
     * jekyll (open a cmd window and type "gem install jekyll")
 
-## Large files (audio, images, PDFs)
+## Large files (> 1MB. eg audio, PDFs)
 
 Large files are easier to handle in Google Drive than GitHub. Put them in the
-"website" folder (which I've configured to be accessible to the whole web).
+"public" folder (which I've configured to be accessible to the whole web).
 Each Google Drive folder that is publicly accessible has a unique URL. Ours is:
 
     https://googledrive.com/host/0BxsJMhlYrb4QRTFGSHJTMTRuOEU/
@@ -28,6 +28,6 @@ Each Google Drive folder that is publicly accessible has a unique URL. Ours is:
   is important to get the syntax exactly right, as this is a machine-readable
   format.
 * Create a new post (TODO)
-* **Note that** tour newsletters should go only into Google Drive and not on the
-  website (because crazy things happen on tour, and we don't want to hurt
+* **Note that** tour newsletters should go only into Google Drive and not on
+  the website (because crazy things happen on tour, and we don't want to hurt
   people's reputations or employability, and so on)
