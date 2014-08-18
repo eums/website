@@ -1,10 +1,8 @@
 ---
 layout: post
-published: true
 title: "Tour 2011: The Latest News"
 wordpress_id: 289
 categories:
-- News
 - Tour
 ---
 
