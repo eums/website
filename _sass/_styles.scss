@@ -137,8 +137,7 @@ header[role="banner"] {
     }
 }
 
-/* sticky footer */
-
+/* footer */
 html {
     position: relative;
     min-height: 100%;
@@ -163,6 +162,24 @@ footer {
 
     .container {
         padding: 1em;
+    }
+
+    .links-grid ul {
+        a {
+            color: $fg;
+            font-weight: normal;
+        }
+        margin: 0;
+        padding: 0;
+        float: left;
+        //width: 29%;
+        height: 7em;
+
+        &:not(:first-child) {
+            padding-left: 10%;
+        }
+
+        list-style-type: none;
     }
 }
 
