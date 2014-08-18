@@ -2,6 +2,8 @@
 /society/alumni /alumni/
 /concerts   /whats-on/
 /events     /whats-on/
+/events/socials/  /whats-on/
+/events/tours/  /whats-on/
 /society/biography/chorus /chorus/
 /society/biography/sinfonia /sinfonia/
 /society/biography/symphony /symphony-orchestra/
