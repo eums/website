@@ -23,10 +23,8 @@ newspaper. The piece goes on to describe the society's makeup:
 > concert. The chorus numbered about 85 voices, and the orchestra 60
 > performers&hellip;"
 
-It is very interesting to read about the society in
-its earliest years, and to see how little has changed since the mid-
-to late-1800s... <a title="Excerpt from The Scotsman, 25th March, 1873."
-href="/assets/img/history/1873-article.jpg">Read the full article here.</a>
+It is very interesting to read about the society in its earliest years, and to
+see how little has changed since the mid- to late-1800s. [Read the full article here](/assets/img/history/1873-article.jpg "Excerpt from The Scotsman, 25th March, 1873.").
 
 The Edinburgh University Music Society is the oldest student musical society in
 Scotland, and can be traced back to its origins in a concert in February of
@@ -71,8 +69,7 @@ audience.
 Since those early days in the late-1800s, the society has performed hundreds of
 concerts in Edinburgh, and in recent years the quality of our music has only
 got better, despite an increasing concentration on matters beyond performance.
-[View a selection of posters collected from our concerts](/whats-on/ "See our
-old concert posters").
+[View a selection of posters collected from our concerts](/whats-on/ "See our old concert posters").
 
 Our history has given us great strength as a society, but we also look forward
 to seeing what the years ahead can bring us. We hope you will enjoy following
