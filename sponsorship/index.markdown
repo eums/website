@@ -5,7 +5,7 @@ title: Support us
 
 ## Support us
 
-The EUMS is Scotland’s foremost student music body, giving six concerts a year
+EUMS is Scotland’s foremost student music body, giving six concerts a year
 within Edinburgh alongside an extensive range of additional performing events.
 The society also delivers a pioneering education and community programme, and
 has worked closely with several local charities.
@@ -24,9 +24,9 @@ school pupils. We greatly appreciate support through either [individual
 donations](/sponsorship/individual/) or [corporate
 sponsorship](/sponsorship/corporate/).
 
-By supporting the EUMS you will be helping the society maintain its high
-quality reputation and fulfil its mission to make the finest music available to
-the greatest number of people.
+By supporting EUMS you will be helping the society maintain its high quality
+reputation and fulfil its mission to make the finest music available to the
+greatest number of people.
 
 For more information, please contact
 [sponsorship@eums.org.uk](mailto:sponsorship@eums.org.uk).

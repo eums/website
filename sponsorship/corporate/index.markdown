@@ -13,7 +13,7 @@ innovation. We are proud to have an ever-expanding position within the musical
 culture of Scotland, having become the first Scottish university music society
 in 1867.
 
-Since 2010 the EUMS brand has expanded to incorporate a widely recognisable
+Since 2010, the EUMS brand has expanded to incorporate a widely recognisable
 online presence and has become highly successful in broadcasting our aims and
 events to a far-ranging audience.
 
@@ -99,10 +99,10 @@ Be it on our website or in concert programmes, advertising with the society
 lets you tap into a wide demographic, whilst also allowing you to be confident
 about the people who engage with your brand.
 
-From individual concerts to an entire Season, the EUMS can put together a
-flexible advertising package to suit your needs and your budget. Our programmes
-are printed in high quality and provide another way to engage with a new
-audience, and our website has upwards of 2000 views per month.
+From individual concerts to an entire Season, EUMS can put together a flexible
+advertising package to suit your needs and your budget. Our programmes are
+printed in high quality and provide another way to engage with a new audience,
+and our website has upwards of 2000 views per month.
 
 Programme advert prices start from as little as £25, and web advertising prices
 can be established based on your individual corporate needs.
