@@ -164,22 +164,26 @@ footer {
         padding: 1em;
     }
 
-    .links-grid ul {
-        a {
-            color: $fg;
-            font-weight: normal;
-        }
-        margin: 0;
-        padding: 0;
-        float: left;
-        //width: 29%;
-        height: 7em;
+    .links-grid {
+        margin-bottom: 1em;
 
-        &:not(:first-child) {
-            padding-left: 10%;
-        }
+        ul {
+            a {
+                color: $fg;
+                font-weight: normal;
+            }
+            margin: 0;
+            padding: 0;
+            float: left;
+            width: 23%;
+            height: 7em;
 
-        list-style-type: none;
+            list-style-type: none;
+        }
+    } 
+
+    p {
+        margin: 0.2em;
     }
 }
 
