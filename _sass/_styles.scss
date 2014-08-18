@@ -103,6 +103,10 @@ ul.container {
     padding: 0;
 }
 
+.col-two {
+    border-top: 1px solid $bg-lgrey;
+}
+
 header[role="banner"] {
     background: $bg-red;
     color: white;
