@@ -32,7 +32,7 @@ The [Symphony Orchestra](/symphony-orchestra/) is a large auditioning orchestra
 of a very high standard. It is conducted by Russell Cowieson. Rehearsals are on
 Monday evenings in the Reid Hall.
 
-![Russell Cowieson guides EUMS Symphony Orchestra](/assets/img/get-involved/russell-conducting.jpg)
+![Russell Cowieson guides EUMS Symphony Orchestra](/assets/img/concerts/russell-conducting-at-greyfriars.jpg "Russell Cowieson guides EUMS Symphony Orchestra")
 
 We perform six concerts in three concert series: our Winter concerts showcase
 each ensemble, our Spring concerts join one of our orchestras and Chorus for
@@ -48,7 +48,7 @@ rival societies at hockey to our regular evening pub meetings, we do like to
 let our hair down, and our members will always be delighted by a new face in
 the mix. We have all been new to the society at some point!
 
-![Always a smiling face when a camera appears&hellip;](/assets/img/get-involved/pub-social.jpg)
+![Always a smiling face when a camera appears&hellip;](/assets/img/socials/pub.jpg "Always a smiling face when a camera appears&hellip;")
 
 Major features of the EUMS social calendar include sectional meals, tutti
 weekend, carolling, intramural hockey (we can definitely beat our season’s best
@@ -68,5 +68,27 @@ We also have a long record of helping local charities, and as part of this
 continuing tradition we will be working with [Bethany Christian Trust](http://www.bethanychristiantrust.com/)
 once more as part of [The Big Sing 2012](/blog/2012/big-sing/).
 
-In 2011, the event was well attended and raised over £1300 for the charity’s
+In 2011, the event was well attended and raised over **£1300** for the charity’s
 Stop Homelessness campaign.
+
+![The Big Sing cheque handover](/assets/img/big-sing/2011-cheque.jpg "The Big Sing cheque handover")
+
+### Tours
+
+For most of our members, past and present, the highlight of their years in the
+society is tour. Every year we grab our instruments, vocal chords and a couple
+of pairs of knickers (optional) and head off towards the horizon. Recent tours
+have explored locations as exotic as France, Belgium, the Netherlands, Norway,
+Spain, North Wales, and Northern Ireland! This year we are looking set to
+travel to the continent once more, though where remains a secret… for now!
+
+Tour is the time to really get to know other members, whilst getting the chance
+to perform in some spectacular venues. Amiens Cathedral has to be a highlight
+of recent years, with our performance reducing audience members to tears (as we
+tried not to well up ourselves). Everyone gets to know everyone, and the
+memories will remain with you as highlights of your university career.
+
+![A final gathering outside Amiens Cathedral](/assets/img/tours/amiens-cathedral.jpg "A final gathering outside Amiens Cathedral")
+
+Interested? Contact [secretary@eums.org.uk](mailto:secretary@eums.org.uk) or
+come and find us at one of our rehearsals!
