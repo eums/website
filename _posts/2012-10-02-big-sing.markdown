@@ -1,0 +1,81 @@
+---
+layout: post
+title: The Big Sing 2012
+wordpress_id: 1896
+categories:
+- Events
+- Community
+---
+
+![The Big Sing 2012](/assets/img/big-sing/2012-banner.png)
+
+<p class="hero">
+For the second year running, the Edinburgh University Music Society and Bethany
+Christian Trust are teaming up to bring you The Big Sing 2012.
+</p>
+
+<p class="hero">
+Saturday 3rd November 2012<br>
+St Cuthbert's Parish Church
+</p>
+
+<p class="hero">
+Come along and sing Handel's Messiah under the baton of legendary past EUMS
+conductor Nick Fletcher whilst supporting Bethany's acclaimed 'Stop
+Homelessness' campaign.
+</p>
+
+### The event
+
+The event will involve rehearsals throughout the day (with tea and coffee being
+provided) and a concert in the evening, where performers and audience members
+will be able to bid for the chance to conduct the *Hallelujah Chorus* in all of
+its glory. Music will be available to hire for &pound;2 per copy.
+
+![The Big Sing 2011 in full swing.](/assets/img/big-sing/2011-concert.jpg)
+
+Invite all of your friends and family to come and see the concert in the
+evening... We will also make a collection at the end of the evening, and any
+donations will be more than welcome. All proceeds will be given to Bethany
+Christian Trust to support their Stop Homelessness campaign.
+
+Concert dress for the day will be **brightly coloured shirts and blouses!**
+
+### On the day
+
+Rehearsals will run all day with the concert taking place in the evening. Doors
+will open at 9.30 with Nick starting rehearsals at 10am. There will be a bake
+sale during the day and at the interval in the evening.
+
+[Buy tickets to watch the performance here](/blog/2012/big-sing-concert).
+
+### Sign up
+
+To sign up, follow the link below to be taken to TicketSource, where you will be
+able to purchase your tickets. If you wish to sign up a large group then please
+contact our Community Relations Manager at [community@eums.org.uk](mailto:community@eums.org.uk).
+If you would be happier booking tickets via email then use this email
+address.
+
+Check back to our website or follow our [twitter feed](https://twitter.com/edmusicsociety)
+(hashtag: [#bethanybigsing](https://twitter.com/#!/search/%23bethanybigsing))
+to get the latest information.
+
+*Bethany's mission is to relieve the suffering and meet the long
+term needs of homeless and vulnerable people. Every year Bethany helps over
+4,000 people to find, equip and maintain a home, overcome addictions and tackle
+other social and educational barriers which prevent them from living a full and
+healthy life.*
+
+*Bethany offers shelter and so much more besides, working with people to
+address the root causes of homelessness so they can move on into independent
+living. Bethany gives homeless and vulnerable people hope and a future. Watch
+the video to find out more and get a feel for the campaign.*
+
+<iframe width="620" height="349" src="//www.youtube.com/embed/WbLDUHq24Ek" frameborder="0" allowfullscreen></iframe>
+
+Visit [the campaign website](http://www.stophomelessness.org.uk/).
+
+Find out more about [the work EUMS does in the community](/community/).
+
+![](/assets/img/big-sing/footer.png)
