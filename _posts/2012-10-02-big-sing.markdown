@@ -7,7 +7,7 @@ categories:
 - Community
 ---
 
-![The Big Sing 2012](/assets/img/big-sing/2012-banner.png)
+![The Big Sing 2012](/assets/img/big-sing/header.png)
 
 <p class="hero">
 For the second year running, the Edinburgh University Music Society and Bethany
@@ -32,7 +32,7 @@ provided) and a concert in the evening, where performers and audience members
 will be able to bid for the chance to conduct the *Hallelujah Chorus* in all of
 its glory. Music will be available to hire for &pound;2 per copy.
 
-![The Big Sing 2011 in full swing.](/assets/img/big-sing/2011-concert.jpg)
+![The Big Sing 2011 in full swing.](/assets/img/big-sing/2011-concert.jpg "The Big Sing 2011 in full swing.")
 
 Invite all of your friends and family to come and see the concert in the
 evening... We will also make a collection at the end of the evening, and any
