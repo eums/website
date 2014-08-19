@@ -2,8 +2,11 @@ permalink: /blog/:year/:title/
 paginate: 20
 paginate_path:  /blog/page/:num
 
-# Hosts assets externally
-assets: "https://1ed1fabde45aa32e0f1155aa7d8a86b1b5a88703.googledrive.com/host/0BxsJMhlYrb4QRTFGSHJTMTRuOEU"
+exclude: README.md
+
+# externally hosted assets. For large files
+external_assets: "https://1ed1fabde45aa32e0f1155aa7d8a86b1b5a88703.googledrive.com/host/0BxsJMhlYrb4QRTFGSHJTMTRuOEU"
+
 # Used in <head> and RSS feed
 name: "Edinburgh University Music Society"
 description: "Scotland's foremost student music body since 1867. Society profile with details of concerts, community projects and membership."
