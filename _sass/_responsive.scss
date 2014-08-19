@@ -63,12 +63,20 @@
     }
 
     .col-two {
+        float: right;
         width: 25%;
         margin: 1em 0 1em 0;
+        padding-right: 0;
+        margin: 1em 0 1em 0;
         padding: 0.5em;
-        background-color: $bg-lgrey;
-        float: right;
-        border-top: 5px solid $bg-red;
+        border-top: 0;
+
+        .box {
+            padding: 0.6em;
+            margin-bottom: 1em;
+            background-color: $bg-lgrey;
+            border-top: 5px solid $bg-red;
+        }
 
         h3:first-child {
             margin-top: 0.2em;
