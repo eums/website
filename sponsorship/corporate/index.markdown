@@ -23,8 +23,7 @@ throughout the year, bringing the community into contact with a wide array of
 publicity material. Our Spring, Summer and Winter Concert Series are a
 well-known feature of the Edinburgh musical calendar.
 
-![Chorus raising the roof of the McEwan
-Hall.](/assets/img/sponsorship/chorus.jpg)
+![Chorus raising the roof of the McEwan Hall.](/assets/img/concerts/verdi-mcewan.jpg "Chorus raising the roof of the McEwan Hall.")
 
 ### What can we offer?
 

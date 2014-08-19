@@ -5,7 +5,9 @@ title: So What The Heck Is EUMS All About?
 wordpress_id: 1983
 ---
 
-**So: you have chosen Edinburgh. You have checked out the [EUSA website](http://www.eusa.ed.ac.uk/freshers2012/). You have found your way here. But why? What on earth is the Edinburgh University Music Society?**
+**So: you have chosen Edinburgh. You have checked out the
+[EUSA website](http://www.eusa.ed.ac.uk/freshers2012/). You have found your
+way here. But why? What on earth is the Edinburgh University Music Society?**
 
 Hopefully this page can help to explain who we are and why you should get
 involved with us.
@@ -18,7 +20,7 @@ Edinburgh, Scotland and indeed the world. We are also the largest society in
 the University of Edinburgh, and as a result we are able to put on bigger and
 better events for our members and the community.
 
-![Performing Verdi's Requiem in the McEwan Hall](http://eums.eusa.ed.ac.uk/wp-content/uploads/images/h500/concerts/mcewan_01.jpg)
+![Performing Verdi's Requiem in the McEwan Hall](/assets/img/concerts/verdi-mcewan.jpg "Performing Verdi's Requiem in the McEwan Hall")
 
 Our mission is to bring music to the wider community, and we achieve this
 through regular concerts, working with charities, organising education projects
@@ -26,8 +28,7 @@ and liaising with other musical organisations, ensuring we do our best to make
 classical music easily accessible to all.
 
 The society itself is made up of around 320 members in three classical
-ensembles: [Chorus](/chorus), [Sinfonia](/sinfonia), and [Symphony
-Orchestra](/symphony-orchestra).
+ensembles: [Chorus](/chorus/), [Sinfonia](/sinfonia/), and [Symphony Orchestra](/symphony-orchestra/).
 
 ### Making Music
 
@@ -42,13 +43,12 @@ performances of Elgar's *Dream of Gerontius* and Saint-Sa&euml;ns'
 *Cello Concerto No. 1* have garnered widespread acclaim.
 
 These performances occur as a result of the passion for music of our members,
-most drawn from our influx of freshers year on year. We have <a title="Our
-Conductors" href="http://eums.eusa.ed.ac.uk/society/conductors/">three
-outstanding conductors</a> who have consistently proven themselves capable of
+most drawn from our influx of freshers year on year. We have [three outstanding
+conductors](/conductors/) who have consistently proven themselves capable of
 bringing the best out of our members, and thanks to them each concert takes the
 society to new places and brings new delights.
 
-<a href="http://eums.eusa.ed.ac.uk/wp-content/uploads/images/h500/concerts/greyfriars_04.jpg"><img title="Russell Cowieson guides EUMS Symphony Orchestra." src="http://eums.eusa.ed.ac.uk/wp-content/uploads/images/h500/concerts/greyfriars_04.jpg" alt="Russell Cowieson guides EUMS Symphony Orchestra."/></a>
+![Russell Cowieson guides EUMS Symphony Orchestra](/assets/img/concerts/russell-conducting-at-greyfriars.jpg "Russell Cowieson guides EUMS Symphony Orchestra")
 
 You don't need to be the next Benedetti to play with us either: our Chorus is
 non-auditioned meaning anyone of any ability can join, and Sinfonia do not
@@ -70,7 +70,7 @@ rival societies at hockey to our regular evening pub meetings, we do like to
 let our hair down, and our members will always be delighted by a new face in
 the mix. We have all been new to the society at some point!
 
-<a href="http://eums.eusa.ed.ac.uk/wp-content/uploads/images/h500/socials/concert_04.jpg"><img class=" " title="Always a smiling face when a camera appears..." src="http://eums.eusa.ed.ac.uk/wp-content/uploads/images/h500/socials/concert_04.jpg" alt="Always a smiling face when a camera appears..."/></a>
+![Always a smiling face when a camera appears&hellip;](/assets/img/socials/pub.jpg "Always a smiling face when a camera appears&hellip;")
 
 Major features of the EUMS social calendar include sectional meals, tutti
 weekend, carolling, intramural hockey (we can definitely beat our season's best
@@ -90,12 +90,12 @@ about classical music whilst keeping them grinning.
 
 We also have a long record of helping local charities, and as part of this
 continuing tradition we will be working with [Bethany Christian Trust](http://www.bethanychristiantrust.com/)
-once more as part of [The Big Sing 2012](http://eums.eusa.ed.ac.uk/2012/bigsing2012/).
+once more as part of [The Big Sing 2012](/blog/2012/big-sing/).
 
 Last year the event was well attended and raised over £1300 for the
-charity's [*Stop Homelessness*](http://www.stophomelessness.org.uk/) campaign.
+charity's [Stop Homelessness](http://www.stophomelessness.org.uk/) campaign.
 
-<a href="http://eums.eusa.ed.ac.uk/wp-content/uploads/images/h500/projects/bigsing2011_cheque.jpg"><img class=" " title="The Big Sing cheque handover..." src="http://eums.eusa.ed.ac.uk/wp-content/uploads/images/h500/projects/bigsing2011_cheque.jpg" alt="The Big Sing cheque handover..."></a>
+![The Big Sing cheque handover](/assets/img/big-sing/2011-cheque.jpg "The Big Sing cheque handover")
 
 ### Tour
 
@@ -112,4 +112,4 @@ of recent years, with our performance reducing audience members to tears (as we
 tried not to well up ourselves). Everyone gets to know everyone, and the
 memories will remain with you as highlights of your university career.
 
-<a href="http://eums.eusa.ed.ac.uk/wp-content/uploads/images/h500/tours/society2011_09.jpg"><img title="A final gathering outside Amiens Cathedral." src="http://eums.eusa.ed.ac.uk/wp-content/uploads/images/h500/tours/society2011_09.jpg" alt="A final gathering outside Amiens Cathedral."/></a>
+![A final gathering outside Amiens Cathedral](/assets/img/tours/amiens-cathedral.jpg "A final gathering outside Amiens Cathedral")
