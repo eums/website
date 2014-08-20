@@ -109,7 +109,8 @@ ul.container {
 }
 
 .col-two {
-    border-top: 1px solid $bg-lgrey;
+    // don't display on mobile
+    display: none;
 }
 
 header[role="banner"] {
