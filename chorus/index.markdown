@@ -18,15 +18,14 @@ As with the other ensembles of EUMS, Chorus puts on a concert at the end of
 each semester in various venues including St. Cuthbert’s Church, Greyfriars
 Kirk and St. Mary’s Episcopal Cathedral. Though the Chorus is non-auditioning,
 the quality of our performances is very high, and with the numbers behind us we
-produce a fantastic sound. Don’t take our word for it; [have a listen on
-Last.fm](http://www.last.fm/music/Edinburgh+University+Music+Society).
+produce a fantastic sound. Don’t take our word for it; [listen to a concert recording of us performing Rossini's *Messe Solennelle*](http://www.last.fm/music/Edinburgh+University+Music+Society/EUMS+Chorus:+Spring+Concert+2010/Rossini:+Petite+Messe+Solennelle,+I.+Kyrie+%28Part+One%29).
 
 Our Chorus performs challenging pieces of music from a wide classical
 repertoire, with recent works including Bernstein’s *Chichester Psalms*,
-Jenkins’ *The Armed Man* and Verdi’s *Messa de Requiem*. Chorus also
+Jenkins' *The Armed Man* and Verdi's *Messa de Requiem*. Chorus also
 collaborates with one of our orchestras once a year to perform large choral
 works, which have recently included Mendelssohn’s Symphony No.2 *Hymn of
-Praise* and the 2011 sell-out concert Elgar’s *Dream of Gerontius*.
+Praise* and the 2011 sell-out concert Elgar's *Dream of Gerontius*.
 
 Though there is no requirement to read music, it can certainly help; but
 whether you are a mini-maestro or indeed a hairbrush singer, then there is
