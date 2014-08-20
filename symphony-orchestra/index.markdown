@@ -6,7 +6,7 @@ wordpress_id: 198
 
 ![](/assets/img/concerts/symphony-greyfriars-kirk.jpg)
 
-## Symphony orchestra
+## Symphony Orchestra
 
 The EUMS Symphony Orchestra is one of the largest and oldest orchestras in
 Scotland. It is the society’s only fully auditioned ensemble, rehearsing every
