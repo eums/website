@@ -25,7 +25,8 @@ Like the society's other ensembles, Sinfonia holds a concert towards the end of
 every term in venues such as the Reid Concert Hall, Greyfriars Kirk and St
 Mary’s Cathedral. Recent concerts have included performances of challenging
 works such as Tchaikovsky's *Symphony No. 2* and *Capriccio Italien*, *Pomp and
-Circumstance Marches* by Elgar and Sibelius *Symphony No. 3*.
+Circumstance Marches* by Elgar and Sibelius *Symphony No. 3*. Have a listen to
+[a recording of us performing Wagner's Overture to *Die Meistersinger von Nurnberg*](http://www.last.fm/music/Edinburgh+University+Music+Society/EUMS+Sinfonia:+Spring+Concert+2014/Wagner:+Overture+to+Die+Meistersinger+von+Nurnberg).
 
 Every other year, the orchestra joins forces with the society’s Chorus to
 perform a large scale orchestral and choral piece. Last year such a
