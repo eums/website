@@ -4,6 +4,10 @@ title: Symphony Orchestra
 wordpress_id: 198
 ---
 
+![](/assets/img/concerts/symphony-greyfriars-kirk.jpg)
+
+## Symphony orchestra
+
 The EUMS Symphony Orchestra is one of the largest and oldest orchestras in
 Scotland. It is the society’s only fully auditioned ensemble, rehearsing every
 week in term-time from 6.30 to 9.30pm on a Monday evening in the Reid Concert
