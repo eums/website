@@ -9,9 +9,11 @@ categories:
 - Events
 - Upcoming Concerts
 ---
-<p><a title="buy tickets online" href="http://www.thequeenshall.net/elsewhere/shows/edinburgh-charity-orchestra-2"> <img src="http://eums.eusa.ed.ac.uk/wp-content/uploads/images/w620/posters/edcharityorch_poster01.jpg" alt="" width="620" height="877" /></a></p>
+[![Buy tickets online](http://eums.eusa.ed.ac.uk/wp-content/uploads/images/w620/posters/edcharityorch_poster01.jpg)](http://www.thequeenshall.net/elsewhere/shows/edinburgh-charity-orchestra-2)
+
 ### Saturday 28th May 2011, 7.30pm
-####St Mary's Episcopal Cathedral Palmerston Place
+###St Mary's Episcopal Cathedral, Palmerston Place
+
 <dl class="clearfix">
 <dt>Mahler</dt> <dd>Symphony No.1</dd>
 <dt>Rachmaninov</dt> <dd> Piano Concerto No.2</dd>
@@ -19,6 +21,7 @@ categories:
 </dl>
 Conductor: **Iain McLarty** <br>
 Accompanist: **Andrew Johnston** <br>
+
 Tickets: **&pound;10 / &pound;7** <br>
 
 Tickets are available from members of the orchestra or from the Queen's Hall box office [here](http://www.thequeenshall.net/elsewhere/shows/edinburgh-charity-orchestra-2).
