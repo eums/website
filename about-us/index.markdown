@@ -72,4 +72,4 @@ the Annual General Meeting held on the 25th March 2014:
 {% include committee.html %}
 
 The society is run according to laws defined by the [EUMS
-Constitution](/files/constitution.pdf).
+Constitution]({{ site.external_assets }}/docs/eums-constitution.pdf).
