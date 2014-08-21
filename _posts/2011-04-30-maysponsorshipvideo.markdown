@@ -8,5 +8,6 @@ categories:
 - News
 - EUMS in the Community
 ---
-<p>Today we submitted a video to a certain company who were asking for video applications for their sponsorship... Here is the full video:</p>
-<p>http://www.youtube.com/watch?v=ZtHgFJlpFPc</p>
+Today we submitted a video to a certain company who were asking for video applications for their sponsorship... Here is the full video:
+
+http://www.youtube.com/watch?v=ZtHgFJlpFPc
