@@ -116,7 +116,6 @@ ul.container {
 header[role="banner"] {
     background: $bg-red;
     color: white;
-    min-height: 2.6em;
 
     img {
         background: $bg-red;
@@ -126,6 +125,7 @@ header[role="banner"] {
     h1 {
         margin: 0;
         padding-top: 0.6em;
+        width: 100%;
 
         a:focus {
             outline: none;
