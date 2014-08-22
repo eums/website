@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Edinburgh Charity Orchestra: Inaugural Concert
+title: "Edinburgh Charity Orchestra: Inaugural Concert"
 categories:
 - Concerts
 ---
