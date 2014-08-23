@@ -8,12 +8,6 @@ wordpress_id: 10
 
 ## Get involved
 
-We have been making music since 1867, and as the first (and best) student music
-society in Scotland we have had a proud position within the musical heritage of
-Edinburgh and indeed Scotland. We are also the largest society in the
-University of Edinburgh, and as such, we are able to put on bigger and better
-events.
-
 Whether you're a seasoned musician or have no musical training, whether you're
 a student or not, we'd love for you to get involved with us!
 
