@@ -45,5 +45,6 @@ hosting options:
 
 * Dreamhost (waiting on response)
   * Unlimited storage
-  * SSL
-  * $6/mo = 43/yr
+  * SSL $15/yr
+  * Hosting $5.95/mo
+  * total: $86.4/yr = 52/yr
