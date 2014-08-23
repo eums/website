@@ -46,7 +46,7 @@ Sponsorship of the Edinburgh University Music Society guarantees your company:
   on our highly-popular website.
 * Inclusion in EUMS’s **extensive publicity campaigns**.
 * **Brand merchandising opportunities** in the context of the society’s regular
-  concerts and tours. 
+  concerts and tours.
 * The opportunity to **affiliate your company** with the oldest student music
   society in Scotland, the quality and dedication in our performance and our
   extensive programme of work in the community.
