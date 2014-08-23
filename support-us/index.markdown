@@ -19,10 +19,9 @@ In our 2011/12 season the society spent just under **£40,000** on our events
 and projects, and this figure builds year on year.
 
 As we gain more support we are able to expand our horizons further, putting on
-bigger and better concerts and reaching more and more primary and secondary
-school pupils. We greatly appreciate support through either [individual
-donations](/sponsorship/individual/) or [corporate
-sponsorship](/sponsorship/corporate/).
+bigger and better concerts and reaching further and further into the wider
+community. We greatly appreciate support through either [individual donations](/support-us/individual/)
+or [corporate sponsorship](/support-us/corporate/).
 
 By supporting EUMS you will be helping the society maintain its high quality
 reputation and fulfil its mission to make the finest music available to the
