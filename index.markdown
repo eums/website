@@ -60,3 +60,5 @@ gone off and then on again&rdquo;
 <p>{{ post.content | strip_html | truncatewords: 50 }}</p>
 
 {% endfor %}
+
+<a href="/blog/">Older posts &raquo;</a>
