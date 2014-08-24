@@ -43,8 +43,9 @@ hosting options:
   periods of inactivity. WordPress on heroku could be a good bet though. Would
   need S3 and wp-readonly for static files
 
-* Dreamhost (waiting on response)
+* Dreamhost
   * Unlimited storage
   * SSL $15/yr
   * Hosting $5.95/mo
-  * total: $86.4/yr = 52/yr
+  * Unique IP $59.95/yr
+  * total: $146.4/yr = 88/yr
