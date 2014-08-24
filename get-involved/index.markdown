@@ -14,12 +14,11 @@ a student or not, we'd love for you to get involved with us!
 ### Making music
 
 The society consists of three ensembles. The largest is [Chorus](/chorus/), a
-choir of around 200 people, which rehearses on Tuesday evenings in Paterson's
-Land. It is totally non-auditioned&mdash;you don't even need to be able to read
-music.
+non-auditioned choir of more than 100 people, which rehearses on Tuesday
+evenings in Paterson's Land.
 
 [Sinfonia](/sinfonia/) is an auditioned orchestra (apart from the string
-section, which is non-auditioning). They rehearse at the Reid Hall on Saturday
+section, which is non-auditioning). Rehearsals are at the Reid Hall on Saturday
 mornings.
 
 The [Symphony Orchestra](/symphony-orchestra/) is a large auditioning orchestra
@@ -28,11 +27,11 @@ Monday evenings in the Reid Hall.
 
 ![Russell Cowieson guides EUMS Symphony Orchestra](/assets/img/concerts/russell-conducting-at-greyfriars.jpg "Russell Cowieson guides EUMS Symphony Orchestra")
 
-We perform six concerts in three concert series: our Winter concerts showcase
-each ensemble, our Spring concerts join one of our orchestras and Chorus for
-what is always a breathtakingly epic performance alongside another concert from
-the remaining orchestra, and our Summer concert features all three ensembles
-performing together under the one roof.
+Each ensemble performs 3 times each year, in a total of 6 concerts. In
+particular, we join Chorus and one of our orchestras for what is always a
+breathtakingly epic performance in either the Winter or Spring concert series.
+The Summer concert features all three ensembles performing together under one
+roof.
 
 ### Socials
 
@@ -72,9 +71,9 @@ Stop Homelessness campaign.
 For most of our members, past and present, the highlight of their years in the
 society is tour. Every year we grab our instruments, vocal chords and a couple
 of pairs of knickers (optional) and head off towards the horizon. Recent tours
-have explored locations as exotic as France, Belgium, the Netherlands, Norway,
-Spain, North Wales, and Northern Ireland! This year we are looking set to
-travel to the continent once more, though where remains a secret… for now!
+have explored locations as exotic as Norway, Spain, North Wales, Germany, and
+Northern Ireland! This year we are looking set to travel to the continent once
+more, though where remains a secret… for now!
 
 Tour is the time to really get to know other members, whilst getting the chance
 to perform in some spectacular venues. Amiens Cathedral has to be a highlight
