@@ -145,6 +145,11 @@ header[role="banner"] {
         color: $fg;
         float: right;
         margin-top: 0.75em;
+
+        input {
+            border-radius: 1em;
+            padding: 0 2em 0 1em;
+        }
     }
 
     .tagline {
