@@ -12,6 +12,44 @@
     }
 }
 
+@media only screen and (max-width: 33em) {
+    .menu {
+        display: none;
+        opacity: 0;
+        width: 100%;
+        position: absolute;
+        right: 0;
+
+        text-align: right;
+
+        li {
+            display: block;
+            width: 100%; margin: 0;
+
+            a {
+                display: block;
+                width: 100%;
+                text-decoration: none;
+                -webkit-box-sizing: border-box;
+                -moz-box-sizing: border-box;
+                box-sizing: border-box;
+            }
+        }
+    }
+
+    .toggle {
+        display: block;
+        position: relative;
+        cursor: pointer;
+        -webkit-touch-callout: none;
+        -webkit-user-select: none;
+        user-select: none;
+    }
+
+    .toggle { display: block; }
+    #toggle:checked + nav .menu { display: block; opacity: 1;}
+}
+
 @media only screen and (min-width: 42em) {
     header .logo {
         float: left;

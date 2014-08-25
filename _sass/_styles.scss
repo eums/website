@@ -201,6 +201,9 @@ footer {
 }
 
 /* main nav bar */
+
+#toggle, .toggle { display: none; }
+
 nav {
     background: $bg-lgrey;
 
