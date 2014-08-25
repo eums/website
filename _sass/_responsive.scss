@@ -3,24 +3,19 @@
    These examples override the primary ('mobile first') styles.
    ========================================================================== */
 
-@media only screen and (min-width: 33em) {
-    .container {
-        padding: 0 4em 0 4em;
-    }
-    ul.container {
-        padding: 0 2em 0 2em;
-    }
-}
-
 @media only screen and (max-width: 33em) {
+    nav label {
+        text-align: right;
+        padding: 0.5em 2em 0.5em 2em;
+        font-weight: bold;
+    }
+
     .menu {
         display: none;
         opacity: 0;
         width: 100%;
         position: absolute;
         right: 0;
-
-        text-align: right;
 
         li {
             display: block;
@@ -48,6 +43,15 @@
 
     .toggle { display: block; }
     #toggle:checked + nav .menu { display: block; opacity: 1;}
+}
+
+@media only screen and (min-width: 33em) {
+    .container {
+        padding: 0 4em 0 4em;
+    }
+    ul.container {
+        padding: 0 2em 0 2em;
+    }
 }
 
 @media only screen and (min-width: 42em) {
