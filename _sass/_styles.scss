@@ -141,7 +141,14 @@ header[role="banner"] {
         margin-left: 0;
     }
 
+    #search-form {
+        color: $fg;
+        float: right;
+        margin-top: 0.75em;
+    }
+
     .tagline {
+        clear: both;
         font-style: italic;
         text-align: right;
         margin: 0;
