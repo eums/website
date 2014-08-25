@@ -48,4 +48,11 @@ hosting options:
   * SSL $15/yr
   * Hosting $5.95/mo
   * Unique IP $59.95/yr
-  * total: $146.4/yr = 88/yr
+  * total: $146.4/yr = £88/yr
+
+* BHost
+  * Used them in the past - reliable.
+  * Cheaps - £5/mo = £60/yr
+  * VPS - no risk of them doing it wrong
+  * No risk of them being sneaky like charging for an IP or subdomains
+  * Total cost: £65/yr
