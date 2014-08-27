@@ -220,11 +220,12 @@ footer {
 }
 
 /* main nav bar */
-
 #toggle, .toggle { display: none; }
 
 nav {
     background: $bg-lgrey;
+    position: relative;
+    z-index: 2;
 
     ul {
         list-style: none;
