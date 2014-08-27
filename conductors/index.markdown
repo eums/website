@@ -16,7 +16,7 @@ dedication of our team of conductors.
 
 <img alt="Neil Metcalfe" class="aside" src="/assets/img/people/neil-square.jpg">
 
-Numbering around 200, the EUMS Chorus requires a conductor with a considerable
+Numbering over 100, the EUMS Chorus requires a conductor with a considerable
 amount of skill and dedication, not to mention a lot of patience. Thankfully,
 our conductor is more than capable of guiding the talents of the Chorus to
 bigger and better things year on year.
