@@ -17,8 +17,8 @@ community projects and Innovative Learning Week events, and going on an annual
 tour.
 
 <ul>
-<li><a href="/get-involved">Get involved</a></li>
-<li><a href="/whats-on">What's on</a></li>
+<li><a href="/get-involved/">Get involved</a></li>
+<li><a href="/whats-on/">What's on</a></li>
 </ul>
 
 <div class="clearfix quotes">
@@ -51,7 +51,7 @@ gone off and then on again&rdquo;
 
 <hr>
 
-<h2>From the <a href="/blog">blog</a></h2>
+<h2>From the <a href="/blog/">blog</a></h2>
 
 {% for post in site.posts offset:0 limit:3 %}
 
