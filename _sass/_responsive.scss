@@ -57,6 +57,10 @@
         float: right;
     }
 
+    nav, nav ul:last-child {
+        border-bottom: none;
+    }
+
     .search-form {
         padding: 1em 0 0 0;
     }

@@ -232,6 +232,10 @@ nav {
         margin: 0;
         padding: 0;
         background: $bg-lgrey;
+
+        &:last-child {
+            border-bottom: 1px solid $bg-dgrey;
+        }
     }
 
     li {
