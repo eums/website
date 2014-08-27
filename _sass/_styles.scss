@@ -114,6 +114,20 @@ ul.container {
     display: none;
 }
 
+#header-search { display: none; }
+#nav-search { display: block; }
+
+.search-form {
+    color: $fg;
+    padding: 0.5em;
+
+    input {
+        border-radius: 0.7em;
+        border: none;
+        padding: 0 2em 0 1em;
+    }
+}
+
 header[role="banner"] {
     background: $bg-red;
     color: white;
@@ -139,17 +153,6 @@ header[role="banner"] {
 
     .logo {
         margin-left: 0;
-    }
-
-    #search-form {
-        color: $fg;
-        float: right;
-        margin-top: 0.75em;
-
-        input {
-            border-radius: 1em;
-            padding: 0 2em 0 1em;
-        }
     }
 
     .tagline {

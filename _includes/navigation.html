@@ -1,9 +1,10 @@
 <input type="checkbox" id="toggle">
 <nav role="navigation">
-    <label for="toggle" class="toggle">menu <i class="fa fa-bars"></i></label>
-    <ul class="container menu">
+  <label for="toggle" class="toggle">menu <i class="fa fa-bars"></i></label>
+  <ul class="container menu">
     {% for item in site.data.nav_items %}
       <li><a href="{{ item.href }}">{{ item.name }}</a></li>
     {% endfor %}
+    <li class="mobile-only">{% include search_form.html id="nav-search" %}</li>
   </ul>
 </nav>

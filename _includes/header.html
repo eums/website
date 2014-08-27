@@ -8,12 +8,7 @@
       <span class="visuallyhidden">Edinburgh University Music Society</span>
     </h1>
 
-    <div id="search-form" class="clearfix">
-      <form id="search-form" action="/search/" method="get">
-        <input type="text" id="search-query" name="q" placeholder="Search"
-        autocomplete="off">
-      </form>
-    </div>
+    {% include search_form.html id="header-search" %}
 
     <p class="tagline">
       Scotland's foremost student music body since 1867

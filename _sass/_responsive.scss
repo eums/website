@@ -4,6 +4,7 @@
    ========================================================================== */
 
 @media only screen and (max-width: 33em) {
+
     nav label {
         text-align: right;
         padding: 0.5em 2em 0.5em 2em;
@@ -50,6 +51,9 @@
 }
 
 @media only screen and (min-width: 33em) {
+    #header-search { display: block; }
+    #nav-search { display: none; }
+
     .container {
         padding: 0 4em 0 4em;
     }
