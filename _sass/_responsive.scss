@@ -44,10 +44,25 @@
         -webkit-touch-callout: none;
         -webkit-user-select: none;
         user-select: none;
+
+        &:after {
+            content: attr(data-close)
+        }
+    }
+
+    .toggle:after{
     }
 
     .toggle { display: block; }
-    #toggle:checked + nav .menu { display: block; opacity: 1;}
+    #toggle:checked + nav .menu {
+        display: block;
+        opacity: 1;
+
+    }
+
+    #toggle:checked + nav .toggle:after {
+        content: attr(data-open)
+    }
 }
 
 @media only screen and (min-width: 33em) {

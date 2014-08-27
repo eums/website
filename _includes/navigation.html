@@ -1,6 +1,7 @@
 <input type="checkbox" id="toggle">
 <nav role="navigation">
-  <label for="toggle" class="toggle">menu <i class="fa fa-bars"></i></label>
+  <label for="toggle" class="toggle" data-open="menu &#x25B2;" data-close="menu
+      &#x25BC;"></label>
   <ul class="container menu">
     {% for item in site.data.nav_items %}
       <li><a href="{{ item.href }}">{{ item.name }}</a></li>
