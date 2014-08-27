@@ -5,32 +5,8 @@ title: Search results
 <section id="search-results">
   <h2>Search results</h2>
   <div id="search-entries">
+    <p>Loading&hellip;</p>
   </div>
 </section>
 
-<script src="/assets/js/search.min.js" type="text/javascript"
-charset="utf-8"></script>
-
-{% raw %}
-<script id="search-results-template" type="text/mustache">
-  {{#entries}}
-    <article>
-      <h3>
-        <a href="{{url}}">{{title}}</a>
-        {{#date}}<small><em><time datetime="{{pubdate}}" pubdate>{{displaydate}}</time></em></small>{{/date}}
-      </h3>
-    </article>
-  {{/entries}}
-</script>
-{% endraw %}
-
-<script type="text/javascript">
-  $(function() {
-    $('#search-query').lunrSearch({
-      indexUrl: '/search.json',
-      results:  '#search-results',
-      entries:  '#search-entries',
-      template: '#search-results-template'
-    });
-  });
-</script>
+<script type="text/javascript">window.searchActive = true;</script>
