@@ -18,7 +18,7 @@ As part of our aim to increase the ease of provision to younger musicians,
 **student and youth music groups will not incur these hire costs** and would
 only pay for the postage of music.
 
-[View the full catalogue](http://eums.eusa.ed.ac.uk/wp-content/uploads/files/catalogue.pdf).
+[View the full catalogue]({{ site.external_assets }}/docs/music-library-catalogue.pdf).
 
 For further details of the music we have on offer, and to make enquiries with
 regards to the hire of a set of music, please contact our President at
