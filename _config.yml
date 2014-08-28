@@ -22,3 +22,6 @@ defaults:
       path: ""
     values:
       layout: "default"
+
+lunr_search:
+  strip_index_html: true
