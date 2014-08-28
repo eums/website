@@ -4,7 +4,7 @@ title: Music library
 wordpress_id: 1966
 ---
 
-<img alt="" src="http://eums.eusa.ed.ac.uk/wp-content/uploads/images/w620/library.jpg" width="620" height="250" />
+![](/assets/img/library.jpg)
 
 ## Music library
 
@@ -23,7 +23,3 @@ only pay for the postage of music.
 For further details of the music we have on offer, and to make enquiries with
 regards to the hire of a set of music, please contact our President at
 [president@eums.org.uk](president@eums.org.uk).
-
-<small>The Edinburgh University Music Society and its committee retains the
-right to charge appropriate and necessary penalty fees for the damage or loss
-of any hired music.</small>
