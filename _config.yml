@@ -28,4 +28,14 @@ lunr_search:
 
 prose:
   siteurl: "http://eums.dev.garrood.me"
-  media: "/assets/img"
+  media: "assets/img"
+  metadata:
+    _posts:
+      - name: "stars"
+        field:
+          element: "number"
+          label: "Stars"
+      - name: "title"
+        field:
+          element: "text"
+          label: "title"
