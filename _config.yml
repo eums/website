@@ -25,3 +25,7 @@ defaults:
 
 lunr_search:
   strip_index_html: true
+
+prose:
+  siteurl: "http://eums.dev.garrood.me"
+  media: "/assets/img"
