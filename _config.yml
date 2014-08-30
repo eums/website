@@ -31,10 +31,6 @@ prose:
   media: "assets/img"
   metadata:
     _posts:
-      - name: "stars"
-        field:
-          element: "number"
-          label: "Stars"
       - name: "title"
         field:
           element: "text"
