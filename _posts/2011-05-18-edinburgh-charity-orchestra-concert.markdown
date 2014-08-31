@@ -12,11 +12,7 @@ Saturday 28th May 2011, 7.30pm<br>
 St Mary's Episcopal Cathedral, Palmerston Place
 </p>
 
-<dl class="clearfix">
-<dt>Mahler</dt> <dd>Symphony No.1</dd>
-<dt>Rachmaninov</dt> <dd> Piano Concerto No.2</dd>
-<dt>Spence</dt> <dd>Three Pieces</dd>
-</dl>
+{% include concert_programme.yml concert="charity-inaugural-2011" %}
 
 Conductor: **Iain McLarty**<br>
 Accompanist: **Andrew Johnston**<br>
