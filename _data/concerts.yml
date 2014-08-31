@@ -55,3 +55,11 @@ charity-2013:
       piece: Piano Concerto in A minor
     - composer: Beethoven
       piece: Coriolan Overture
+chorus-sinfonia-spring-2013:
+  programme:
+    - composer: Bach
+      piece: Fanfare (arr. Michael Graham)
+    - composer: Mendelssohn
+      piece: Extracts from Elijah
+    - composer: Mendelssohn
+      piece: 'Symphony No. 2: Hymn of Praise'
