@@ -24,14 +24,24 @@ categories:
 tags: []
 comments: []
 ---
-<p><a title="buy tickets online" href="http://www.ticketsource.co.uk/event/33082"> <img alt="Concert poster" src="http://eums.eusa.ed.ac.uk/wp-content/uploads/images/w620/posters/20130322_symphony.jpg" width="620" height="872" /></a></p>
-<p>The Edinburgh University Music Society's Symphony Orchestra will be performing no less than THREE incredible pieces of music at this term's concert under the trusty baton of Russell Cowieson.</p></p>
-<p>The programme is as follows:</p><br />
-<strong>Brahms</strong> Variations on a Theme by Haydn<br />
-<strong>MacMillan</strong> The Confession of Isobel Gowdie<br />
-<strong>Brahms</strong> Symphony No. 4</p>
-<p>Doors open at 7pm, and it is recommended that you arrive early to ensure that you are not disappointed!</p></p>
-<p>To buy tickets, click the link below:</p></p>
-<p align="middle"><a title="buy tickets online" href="http://www.ticketsource.co.uk/event/33082"> <img alt="" src="http://www.ticketsource.co.uk/images/buyTickets/buyTickets-medium.png" width="118" height="88" border="0" /></a></p><br />
- </p>
-<p> </p>
+
+<a title="buy tickets online" href="http://www.ticketsource.co.uk/event/33082">
+  <img alt="Concert poster" src="http://eums.eusa.ed.ac.uk/wp-content/uploads/images/w620/posters/20130322_symphony.jpg" width="620" height="872">
+</a>
+
+The Edinburgh University Music Society's Symphony Orchestra will be performing
+no less than THREE incredible pieces of music at this term's concert under the
+trusty baton of Russell Cowieson.
+
+The programme is as follows:
+
+{% include concert_programme.html concert="symphony-spring-2013" %}
+
+Doors open at 7pm, and it is recommended that you arrive early to ensure that
+you are not disappointed!
+
+To buy tickets, click the link below:
+
+<a title="buy tickets online" href="http://www.ticketsource.co.uk/event/33082">
+  <img alt="" src="http://www.ticketsource.co.uk/images/buyTickets/buyTickets-medium.png" width="118" height="88" border="0">
+</a>
