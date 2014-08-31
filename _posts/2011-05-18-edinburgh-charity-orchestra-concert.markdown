@@ -12,7 +12,7 @@ Saturday 28th May 2011, 7.30pm<br>
 St Mary's Episcopal Cathedral, Palmerston Place
 </p>
 
-{% include concert_programme.yml concert="charity-inaugural-2011" %}
+{% include concert_programme.html concert="charity-inaugural-2011" %}
 
 Conductor: **Iain McLarty**<br>
 Accompanist: **Andrew Johnston**<br>
