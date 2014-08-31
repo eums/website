@@ -12,7 +12,7 @@ community of Edinburgh. Sign-up for these events is via email to myself at:
 and are given on a first come first served basis!
 
 Details of events and dates/times are listed below. The workshops are all free
-of charge and are a great way to experience something new and fun! 
+of charge and are a great way to experience something new and fun!
 
 ### Wednesday 19th February &mdash; Reid Concert Hall
 
