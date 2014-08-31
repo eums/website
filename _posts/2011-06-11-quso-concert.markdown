@@ -10,13 +10,13 @@ categories:
 
 [![Visit the QUSO website](http://eums.eusa.ed.ac.uk/wp-content/uploads/images/w620/posters/quso_poster01.jpg)](http://quso.webs.com/concerts.html)
 
-### Wednesday 22nd June 2011 12.10pm
+<p class="hero">
+Wednesday 22nd June 2011 12.10pm<br>
+St Giles' Cathedral, Royal Mile
+</p>
 
-### St Giles' Cathedral, Royal Mile
+The programme will be:
 
-**Kamen** Band of Brothers<br>
-**Vaughan Williams** English Folk Song Suite<br>
-**Tchaikovsky** Symphony No. 6 (Third Movement)<br>
-**Hardiman** Lord of the Dance
+{% include concert_programme.html concert="quso-2011" %}
 
-**Free Admission**
+There is **free admission**.
