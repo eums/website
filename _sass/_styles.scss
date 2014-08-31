@@ -64,20 +64,17 @@ ul.blog-archive li {
     list-style-type: none;
 }
 
-/* dl's (for concert programmes) */
-dt {
-    float: left;
-    clear: left;
-    width: 5em;
-    font-weight: bold;
-    text-align: right;
-    padding-bottom: 0.25em;
-}
+/* concert programmes */
+.concert-programme {
+	margin: 1.2em 0 1.2em 2em;
 
-dd {
-    float: left;
-    margin-left: 1.25em;
-    padding-bottom: 0.25em;
+	.composer {
+		font-weight: bold;
+	}
+
+    .item:not(:last-child) {
+      padding-bottom: 0.8em;
+    }
 }
 
 /* committee */

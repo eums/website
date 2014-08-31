@@ -92,6 +92,22 @@
     ul.container {
         padding: 0 2em 0 2em;
     }
+
+  .concert-programme {
+    .item:not(:last-child) {
+      padding-bottom: 0.4em;
+    }
+
+    .composer, .piece {
+      float: left;
+    }
+
+    .composer {
+      text-align: right;
+      margin-right: 1em;
+      width: 20%;
+    }
+  }
 }
 
 @media only screen and (min-width: 42em) {
