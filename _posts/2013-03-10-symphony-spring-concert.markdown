@@ -11,9 +11,10 @@ categories:
   <img alt="Concert poster" src="http://eums.eusa.ed.ac.uk/wp-content/uploads/images/w620/posters/20130322_symphony.jpg" width="620" height="872">
 </a>
 
-The Edinburgh University Music Society's Symphony Orchestra will be performing
-no less than THREE incredible pieces of music at this term's concert under the
-trusty baton of Russell Cowieson.
+On **Friday, 22 March**, at **Greyfriars Kirk**, the Edinburgh University Music
+Society's Symphony Orchestra will be performing no less than THREE incredible
+pieces of music at this term's concert under the trusty baton of Russell
+Cowieson.
 
 The programme is as follows:
 
