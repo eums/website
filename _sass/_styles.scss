@@ -129,6 +129,11 @@ ul.container {
     color: $fg-lighter;
 }
 
+.search {
+    background: url('/assets/img/search.svg') no-repeat scroll #fff;
+    background-position: top 50% right 3%;
+}
+
 header[role="banner"] {
     background: $bg-red;
     color: white;
