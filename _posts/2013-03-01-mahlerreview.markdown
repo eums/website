@@ -54,7 +54,7 @@ finale showed that EUMS Symphony Orchestra have an exciting year ahead of them
 with a group of dedicated players, great management and an inspirational
 conductor."
 
-**With [an inspiring programme of Brahms and Macmillan](http://eums.eusa.ed.ac.uk/2013/symphonyspring/),
+**With [an inspiring programme of Brahms and Macmillan](/blog/2013/symphony-spring-concert),
 Symphony Orchestra are performing in EUMS's Spring Concert Series on the 22nd March. 
 Before then, Chorus and Sinfonia are putting on [an epic Mendelssohn extravaganza](http://eums.eusa.ed.ac.uk/2013/chorussinfoniaspring) on the 15th of March. For full details and to buy tickets for both of these concerts, please [go to the Concerts page](http://eums.eusa.ed.ac.uk/events/concerts/)
 of our website.**
