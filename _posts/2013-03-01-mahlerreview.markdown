@@ -17,18 +17,17 @@ O'Doherty](https://twitter.com/odohertyrebecca) gave us a shining review
 following the concert. Read it in full below:
 
 > "Friday 23rd November 2012 saw the [Edinburgh University Music Society's
-> Symphony Orchestra](http://eums.eusa.ed.ac.uk/society/biography/symphony/)
-> bring the music of Gustav Mahler to Greyfriars Kirk, Edinburgh. Following the
-> major success of their programmes last year including performances of
-> [Tchaikovsky's *Sixth
-> Symphony*](http://eums.eusa.ed.ac.uk/2012/spring-symphony/), [*Symphony No.
-> 5* by Sibelius](http://eums.eusa.ed.ac.uk/2012/summerconcert2012/) and
+> Symphony Orchestra](/symphony-orchestra/) bring the music of Gustav Mahler to
+> Greyfriars Kirk, Edinburgh. Following the major success of their programmes
+> last year including performances of [Tchaikovsky's *Sixth
+> Symphony*](/blog/2012/spring-symphony/), [*Symphony No.
+> 5* by Sibelius](/blog/2012/summerconcert2012/) and
 > [Elgar's *Dream of Gerontius* (with EUMS
-> Chorus)](http://eums.eusa.ed.ac.uk/2011/gerontius/), the orchestra produced
+> Chorus)](/blog/2011/gerontius/), the orchestra produced
 > an even more ambitious programme of Mahler's *Songs of a Wayfarer* featuring
 > solo baritone Douglas Nairne, which were simply stunning, and the incredible
 > *Symphony No. 1* under the baton of conductor, [Russell
-> Cowieson](http://eums.eusa.ed.ac.uk/2012/2012-a-great-vintage/)."
+> Cowieson](/blog/2012/2012-a-great-vintage/)."
 
 > "The thought of an entire concert of Mahler may have caused some apprehension
 > but Gustav himself had originally intended the two works to be performed side
