@@ -40,11 +40,7 @@ following the concert. Read it in full below:
 > haunting with particular praise to the string section and soloists.
 > Highlights were the third and final song.
 
-[caption id="" align="aligncenter" width="466"]<a
-href="http://eums.eusa.ed.ac.uk/wp-content/uploads/images/h500/concerts/greyfriars_winter12_30.jpg"><img
-class="  " alt="Symphony Orchestra getting stuck in..."
-src="http://eums.eusa.ed.ac.uk/wp-content/uploads/images/h500/concerts/greyfriars_winter12_30.jpg"/></a> Symphony Orchestra getting stuck
-in...[/caption]</p> 
+![Symphony Orchestra getting stuck in&hellip;](http://eums.eusa.ed.ac.uk/wp-content/uploads/images/h500/concerts/greyfriars_winter12_30.jpg)
 
 > "The concert&rsquo;s second half was Mahler's *Symphony No. 1*. Despite being
 > an ambitious choice for a university orchestra, they handled the difficulties
