@@ -5,6 +5,20 @@ title: "What's on"
 
 ## What's on
 
+<ul class="whats-on-events">
+{% for event in site.data.events where event.upcoming %}
+<li>
+  <h3>
+    <a href="{{ event.url }}">{{ event.title }}</a>
+  </h3>
+</li>
+{% endfor %}
+</ul>
+
+<a href="/whats-on/archive">Past events &raquo;</a>
+
+<hr>
+
 We are proud of the quality of our ensembles. Since the society's creation in
 1867, our concerts have been performed to an incredibly high standard and have
 received critical acclaim alongside warm support from our audiences.
@@ -12,7 +26,7 @@ received critical acclaim alongside warm support from our audiences.
 We perform six main concerts a year, with a Winter concert series, a Spring
 concert series and a Summer concert. Each year one of our concerts also
 includes a joint collaboration between the Chorus and one of either Sinfonia or
-Symphony Orchestra. Concerts usually take place in the same venues ([see where
+Symphony Orchestra. Concerts usually take place in the same venues (see [where
 we perform](/venues/)), and are easily accessible from the centre of Edinburgh.
 
 Tickets can be bought on the door, but we sell tickets in advance online and at

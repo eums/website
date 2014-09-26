@@ -1,13 +1,11 @@
 ---
 - title: Summer Concert
-  description: todo
   location: Greyfriars' Kirk
   url: /blog/2014/summer-concert/
   date: 2014-05-16
   time: 7pm
   upcoming: true
 - title: Freshers' Week Bake Sale
-  description: todo
   location: Bristo Square
   url: /blog/2014/freshers-week/
   date: 2014-09-11
