@@ -3,10 +3,23 @@ layout: page
 title: "What's on"
 ---
 
-{% for post in site.posts %}
-{% if post.tags contains 'Concerts' and post.is_upcoming %}
-### {{ post.title }}
+## What's on
 
-{{ post.content }}
-{% endif %}
-{% endfor %}
+We are proud of the quality of our ensembles. Since the society's creation in
+1867, our concerts have been performed to an incredibly high standard and have
+received critical acclaim alongside warm support from our audiences.
+
+We perform six main concerts a year, with a Winter concert series, a Spring
+concert series and a Summer concert. Each year one of our concerts also
+includes a joint collaboration between the Chorus and one of either Sinfonia or
+Symphony Orchestra. Concerts usually take place in the same venues ([see where
+we perform](/venues/)), and are easily accessible from the centre of Edinburgh.
+
+Tickets can be bought on the door, but we sell tickets in advance online and at
+rehearsals. Prices are very reasonable, and we offer further concessions to
+students and under-16s. Further booking options are available for larger
+groups. Our concerts always start at 7.30pm with doors usually opening at 7pm.
+
+We know that sometimes there is a lot to think about when attending a classical
+concert, especially if it is your first, so we have compiled a list of
+[frequently asked questions](/concert-faqs/).

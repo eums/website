@@ -1,4 +1,10 @@
 <div class="box">
-<h3>upcoming concerts</h3>
-<p>todo</p>
+<h3>upcoming events</h3>
+{% for event in site.data.events where event.upcoming %}
+<div class="event">
+<p><a href="{{ event.url }}">{{ event.title }}</a></p>
+<p>{{ event.location }}</p>
+<p>{{ event.date | date: "%a %-d %B" }}, {{ event.time }}</p>
+</div>
+{% endfor %}
 </div>
