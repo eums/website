@@ -7,11 +7,12 @@ categories:
 - Reviews
 ---
 
-> "The orchestra were very aware of the soloist&rsquo;s intimate singing style..."
+> "The orchestra were very aware of the soloist&rsquo;s intimate singing
+> style..."
 
 Last year EUMS Symphony Orchestra brought us [a stunning evening of
-Mahler](http://eums.eusa.ed.ac.uk/2012/symphwinter/). Far be it from us to harp
-on about how much we loved performing it, [The
+Mahler](/blog/2012/symphony-winter-concert/). Far be it from us to harp on
+about how much we loved performing it, [The
 Student](http://www.studentnewspaper.org/)'s [Rebecca
 O'Doherty](https://twitter.com/odohertyrebecca) gave us a shining review
 following the concert. Read it in full below:
