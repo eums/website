@@ -131,9 +131,13 @@ ul.container {
 
     input {
         border-radius: 0.7em;
-        border: 2px solid $bg-red;
+        border: none;
         padding: 0 2em 0 1em;
     }
+}
+
+.not-found-search input {
+    border: 2px solid $bg-red;
 }
 
 #search-entries em {

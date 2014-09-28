@@ -16,4 +16,6 @@ Possible causes:
 
 ### Search this website
 
+<div class="not-found-search">
 {% include search_form.html id="not-found-search" %}
+</div>
