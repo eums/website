@@ -22,7 +22,7 @@ following the concert. Read it in full below:
 > Greyfriars Kirk, Edinburgh. Following the major success of their programmes
 > last year including performances of [Tchaikovsky's *Sixth
 > Symphony*](/blog/2012/spring-symphony/), [*Symphony No.
-> 5* by Sibelius](/blog/2012/summerconcert2012/) and
+> 5* by Sibelius](/blog/2012/summer-concert/) and
 > [Elgar's *Dream of Gerontius* (with EUMS
 > Chorus)](/blog/2011/gerontius/), the orchestra produced
 > an even more ambitious programme of Mahler's *Songs of a Wayfarer* featuring
