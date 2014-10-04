@@ -57,9 +57,9 @@ and with six major concerts a year the society's repertoire is extensive.
 The society is run by an elected group of sixteen members known as the
 committee. These include our office bearers (the President, Secretary and
 Treasurer), Ensemble Managers and Librarians, Publicity Managers, Social
-Secretaries, Community Relations Manager, Tour Manager and our Fundraising and
-Sponsorship Manager. Though the committee lead the organisation of the Society
-and its events, all members are encouraged to get involved, and many of our
+Secretaries, Community Relations Manager, Tour Manager and our Sponsorship and
+Alumni Manager. Though the committee lead the organisation of the Society and
+its events, all members are encouraged to get involved, and many of our
 additional activities are organised by non-committee members.
 
 To keep up to date with society goings-on and to have your say, join [our
