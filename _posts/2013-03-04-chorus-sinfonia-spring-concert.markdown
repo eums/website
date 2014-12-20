@@ -1,29 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: 'EUMS Chorus & Sinfonia: Spring Concert 2013'
-author:
-  display_name: Web Manager
-  login: eums_website
-  email: web@eums.org.uk
-  url: http://www.eums.org.uk
-author_login: eums_website
-author_email: web@eums.org.uk
-author_url: http://www.eums.org.uk
-excerpt: 19:30, Friday, 15 March 2013 - St. Mary's Cathedral - Tickets £8 (£5)
 wordpress_id: 2744
-wordpress_url: http://eums.eusa.ed.ac.uk/?p=2744
-date: '2013-03-04 10:12:24 -0800'
-date_gmt: '2013-03-04 10:12:24 -0800'
-categories:
-- Events
-- Upcoming Concerts
-- Society
-- Chorus
-- Sinfonia
-tags: []
-comments: []
 ---
 
 <a title="buy tickets online" href="http://www.ticketsource.co.uk/event/33055">
