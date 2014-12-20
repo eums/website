@@ -26,5 +26,5 @@ you are not disappointed!
 To buy tickets, click the link below:
 
 <a title="buy tickets online" href="http://www.ticketsource.co.uk/event/33082">
-  <img alt="" src="http://www.ticketsource.co.uk/images/buyTickets/buyTickets-medium.png" width="118" height="88" border="0">
+  <img alt="Buy tickets online" src="http://www.ticketsource.co.uk/images/buyTickets/buyTickets-medium.png" width="118" height="88" border="0">
 </a>
