@@ -1,26 +1,12 @@
 ---
 layout: post
-status: publish
 published: true
-title: 'Members'' Newsletter: Issue 02 - October 2011'
-author:
-  display_name: Web Manager
-  login: eums_website
-  email: web@eums.org.uk
-  url: http://www.eums.org.uk
-author_login: eums_website
-author_email: web@eums.org.uk
-author_url: http://www.eums.org.uk
-excerpt: The latest Members' Newsletter is out!
+title: 'Members'' Newsletter: Issue 2'
 wordpress_id: 1369
-wordpress_url: http://eums.eusa.ed.ac.uk/?p=1369
-date: '2011-10-17 09:54:39 -0700'
-date_gmt: '2011-10-17 09:54:39 -0700'
-categories:
-- Members' Newsletter
-tags: []
-comments: []
 ---
-<p>The latest EUMS Members' Newsletter is out! <a title="Members' Newsletter" href="http://eums.eusa.ed.ac.uk/society/membership/newsletter/">Click here to go to the Members' Newsletter page</a> and download and read it...</p>
-<h5><strong><em>In this issue:</em></strong></h5></p>
-<h4><em>Big Sing 2011 - Meet The Committee - In Pictures - Quiz Time - EUMS in the Fringe - Freshers&rsquo; Scratch &amp; Ceilidh - The Pub Quiz - Sectionals - Hockey Report</em></h4></p>
+
+The latest EUMS Members' Newsletter is out! <a title="Members' Newsletter" href="http://eums.eusa.ed.ac.uk/society/membership/newsletter/">Click here to go to the Members' Newsletter page</a> and download and read it...
+
+<p class="newsletter-summary">In this issue:</p>
+
+<p class="newsletter-summary">Big Sing 2011 - Meet The Committee - In Pictures - Quiz Time - EUMS in the Fringe - Freshers&rsquo; Scratch &amp; Ceilidh - The Pub Quiz - Sectionals - Hockey Report</p>
