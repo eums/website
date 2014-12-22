@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: 'Members'' Newsletter: Issue 03 - January 2012'
+title: 'Members'' Newsletter: Issue 3 - January 2012'
 wordpress_id: 1566
 ---
 

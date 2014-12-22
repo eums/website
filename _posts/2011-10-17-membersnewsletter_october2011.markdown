@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: 'Members'' Newsletter: Issue 2'
+title: 'Members'' Newsletter: Issue 2: October 2011'
 wordpress_id: 1369
 ---
 

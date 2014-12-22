@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: 'Members'' Newsletter: Issue 05 - Tour 2012'
+title: 'Members'' Newsletter: Issue 5 - Tour 2012'
 wordpress_id: 1959
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: 'Members'' Newsletter: Issue 06 - April 2013'
+title: 'Members'' Newsletter: Issue 6 - April 2013'
 wordpress_id: 2893
 ---
 
