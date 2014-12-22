@@ -1,33 +1,16 @@
 ---
 layout: post
-status: publish
 published: true
 title: 'EUMS Sinfonia: Winter Concert 2011'
-author:
-  display_name: Web Manager
-  login: eums_website
-  email: web@eums.org.uk
-  url: http://www.eums.org.uk
-author_login: eums_website
-author_email: web@eums.org.uk
-author_url: http://www.eums.org.uk
-excerpt: 'EUMS Sinfonia: Winter Concert 2011 - 19:30, Saturday 26 November 2011 -
-  Reid Concert Hall - Tickets £8/£5'
 wordpress_id: 1399
-wordpress_url: http://eums.eusa.ed.ac.uk/?p=1399
-date: '2011-11-02 00:27:37 -0700'
-date_gmt: '2011-11-02 00:27:37 -0700'
-categories:
-- Events
-- Upcoming Concerts
-- Sinfonia
-tags: []
-comments: []
 ---
-<p><a title="buy tickets online" href="http://www.ticketsource.co.uk/event/18481"> <img src="http://eums.eusa.ed.ac.uk/wp-content/uploads/images/w620/posters/20111126_sinf.jpg" alt="" width="620" height="872" /></a></p>
-<p>This November our very own Sinfonia are presenting a Scandinavian concert extravaganza including Neilsen's <em>Helios Overture</em> and Sibelius's wondrous <em>Symphony No. 3</em>.</p></p>
-<p>With fresh new conductor Michael Graham at the conductor's stand this is a concert not to be missed!</p><br />
-To buy tickets, click the link below:</p>
-<p align="middle"><a title="buy tickets online" href="http://www.ticketsource.co.uk/event/18481"> <img src="http://www.ticketsource.co.uk/images/buyTickets/buyTickets-medium.png" alt="" width="118" height="88" border="0" /></a></p><br />
- </p>
-<p> </p>
+
+<a title="buy tickets online" href="http://www.ticketsource.co.uk/event/18481"> <img src="http://eums.eusa.ed.ac.uk/wp-content/uploads/images/w620/posters/20111126_sinf.jpg" alt="" width="620" height="872" /></a>
+
+This November our very own Sinfonia are presenting a Scandinavian concert extravaganza including Neilsen's <em>Helios Overture</em> and Sibelius's wondrous <em>Symphony No. 3</em>.
+
+With fresh new conductor Michael Graham at the conductor's stand this is a concert not to be missed!
+
+To buy tickets, click the link below:
+
+<a title="buy tickets online" href="http://www.ticketsource.co.uk/event/18481"> <img class="centred" src="http://www.ticketsource.co.uk/images/buyTickets/buyTickets-medium.png" alt="Buy tickets online" width="118" height="88" border="0" /></a>

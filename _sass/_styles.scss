@@ -307,6 +307,10 @@ main img {
         float: right;
         margin: 0 3em 3em 3em;
     }
+
+    &.centred {
+        width: auto;
+    }
 }
 
 blockquote {
