@@ -1,48 +1,46 @@
 ---
 layout: post
-status: publish
 published: true
 title: Freshers' Week 2011
-author:
-  display_name: Web Manager
-  login: eums_website
-  email: web@eums.org.uk
-  url: http://www.eums.org.uk
-author_login: eums_website
-author_email: web@eums.org.uk
-author_url: http://www.eums.org.uk
-excerpt: Want to know what is going on in Freshers' Week 2011? This is the place to
-  be.
 wordpress_id: 1062
-wordpress_url: http://eums.eusa.ed.ac.uk/?p=1062
-date: '2011-08-22 21:23:12 -0700'
-date_gmt: '2011-08-22 21:23:12 -0700'
-categories:
-- Events
-- Upcoming Socials
-- Society
-- Fresher's Week
-tags: []
-comments: []
 ---
-<h3><a title="EUMS Freshers' Week 2012" href="http://eums.eusa.ed.ac.uk/2012/freshers2012/">For our 2012 Freshers' Week Information, click here!</a></h3><br />
-This is the place to be if you want to find out everything about our University of Edinburgh Freshers' Week schedule... For more Freshers' info <a title="EUSA's Fresher's Week website" href="http://eusalive.co.uk/freshers/" target="_blank">go to the EUSA Freshers' Week 2011 website.</a></p>
-<p align="center"><a title="Freshers' Week 2011" href="http://eums.eusa.ed.ac.uk/wp-content/uploads/images/w620/posters/20110905_freshersweek2011.jpg"><img src="http://eums.eusa.ed.ac.uk/wp-content/uploads/images/w620/posters/20110905_freshersweek2011.jpg" alt="Freshers' Week 2011" width="310" height="438" /></a></p></p>
-<h2>FRESHERS' WEEK SOCIETIES' FAIR<br />
-<em>Wednesday 14th - Thursday 15th</em></h2><br />
-As ever, the Edinburgh University Music Society will be manning our stall at the Freshers' Fair and will be happy to answer questions about anything and everything. There will be flyers and stickers and goodies galore, so make sure you get there early enough to beat the rush (and get a good audition slot).</p>
-<h2>AUDITIONS FOR NEW MEMBERS<br />
-<em>Thursday 15th - Saturday 17th</em></h2><br />
-Though our Chorus is non-auditioning, you will need to come to our stall to schedule an audition if you want to play with Symphony Orchestra or Sinfonia (apart from strings for the latter). Here we will give you your Audition Card with your audition time and useful contact details. If, once you have scheduled an audition, you realise that you cannot make it (hangovers do not count: you should have stocked up on detox-smoothie by this point!) then please contact us as early as possible.</p>
-<h2>SCRATCH REHEARSAL &amp; CEILIDH<br />
-<em>Thursday 15th</em></h2></p>
-<p>This year our Freshers' Week Scratch Rehearsal is taking place in St. Peter&rsquo;s Church, with orchestra practising in the church itself and chorus in the church hall. There will be free tea, coffee, cake and biscuits to tickle your tastebuds and the rehearsals will take a pretty relaxed format.</p></p>
-<p>Afterwards we are hosting the famous EUMS Freshers' Week Ceilidh. Our favourite local ceilidh band will strike up all of the well-known tunes and love guiding everyone through dances you may recognise, and probably a few you don't. If you have never been to a ceilidh or aren't one for remembering dances then don't fret: the band call each dance and there will be lots of other people in the same shoes as you (including most of our current members).</p></p>
-<p>[caption id="" align="aligncenter" width="409"]<a href="http://eums.eusa.ed.ac.uk/wp-content/uploads/images/h500/rehearsals/pleasance_01.jpg"><img class="       " title="Puckering up for rehearsal..." src="http://eums.eusa.ed.ac.uk/wp-content/uploads/images/h500/rehearsals/pleasance_01.jpg" alt="Puckering up for rehearsal..." width="409" height="240" /></a> Puckering up for rehearsal...[/caption]</p>
-<h2>ENSEMBLE REHEARSALS<br />
-<em>Monday 19th onwards</em></h2></p>
-<p>Once all of the fun and games of Freshers' Week are over it is "back to work" for everyone...</p></p>
-<p>The first ensemble rehearsals this year are as follows:</p></p>
-<h5 style="text-align: justify; padding-left: 60px;">Symphony Orchestra - Monday 19th September<br />
-Chorus - Tuesday 20th September<br />
-Sinfonia - Saturday 24th September</h5></p>
+
+<a title="EUMS Freshers' Week 2012" href="http://eums.eusa.ed.ac.uk/2012/freshers2012/">For our 2012 Freshers' Week Information, click here!</a>
+
+This is the place to be if you want to find out everything about our University of Edinburgh Freshers' Week schedule... For more Freshers' info <a title="EUSA's Fresher's Week website" href="http://eusalive.co.uk/freshers/" target="_blank">go to the EUSA Freshers' Week 2011 website.</a>
+
+<a title="Freshers' Week 2011" href="http://eums.eusa.ed.ac.uk/wp-content/uploads/images/w620/posters/20110905_freshersweek2011.jpg"><img class="centred" src="http://eums.eusa.ed.ac.uk/wp-content/uploads/images/w620/posters/20110905_freshersweek2011.jpg" alt="Freshers' Week 2011" width="310" height="438" /></a>
+
+### Freshers' Week Societies Fair
+
+<em>Wednesday 14th - Thursday 15th</em>
+
+As ever, the Edinburgh University Music Society will be manning our stall at the Freshers' Fair and will be happy to answer questions about anything and everything. There will be flyers and stickers and goodies galore, so make sure you get there early enough to beat the rush (and get a good audition slot).
+
+### Auditions for new members
+
+<em>Thursday 15th - Saturday 17th</em>
+
+Though our Chorus is non-auditioning, you will need to come to our stall to schedule an audition if you want to play with Symphony Orchestra or Sinfonia (apart from strings for the latter). Here we will give you your Audition Card with your audition time and useful contact details. If, once you have scheduled an audition, you realise that you cannot make it (hangovers do not count: you should have stocked up on detox-smoothie by this point!) then please contact us as early as possible.
+
+### Scratch Rehearsal & Ceilidh
+
+<em>Thursday 15th</em>
+
+This year our Freshers' Week Scratch Rehearsal is taking place in St. Peter&rsquo;s Church, with orchestra practising in the church itself and chorus in the church hall. There will be free tea, coffee, cake and biscuits to tickle your tastebuds and the rehearsals will take a pretty relaxed format.
+
+Afterwards we are hosting the famous EUMS Freshers' Week Ceilidh. Our favourite local ceilidh band will strike up all of the well-known tunes and love guiding everyone through dances you may recognise, and probably a few you don't. If you have never been to a ceilidh or aren't one for remembering dances then don't fret: the band call each dance and there will be lots of other people in the same shoes as you (including most of our current members).
+
+<a href="http://eums.eusa.ed.ac.uk/wp-content/uploads/images/h500/rehearsals/pleasance_01.jpg"><img class="centred" title="Puckering up for rehearsal..." src="http://eums.eusa.ed.ac.uk/wp-content/uploads/images/h500/rehearsals/pleasance_01.jpg" alt="Puckering up for rehearsal..." width="409" height="240" /></a>
+
+### Ensemble rehearsals
+
+<em>Monday 19th onwards</em>
+
+Once all of the fun and games of Freshers' Week are over it is "back to work" for everyone...
+
+The first ensemble rehearsals this year are as follows:
+
+* Symphony Orchestra - Monday 19th September
+* Chorus - Tuesday 20th September
+* Sinfonia - Saturday 24th September
