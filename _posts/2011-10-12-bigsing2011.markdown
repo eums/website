@@ -1,52 +1,54 @@
 ---
 layout: post
-status: publish
 published: true
 title: The Big Sing 2011
-author:
-  display_name: Web Manager
-  login: eums_website
-  email: web@eums.org.uk
-  url: http://www.eums.org.uk
-author_login: eums_website
-author_email: web@eums.org.uk
-author_url: http://www.eums.org.uk
-excerpt: Big Sing 2011 - Saturday, 22 October 2011 - St Cuthbert's Parish Church
 wordpress_id: 940
-wordpress_url: http://eums.eusa.ed.ac.uk/?p=940
-date: '2011-10-12 08:00:48 -0700'
-date_gmt: '2011-10-12 08:00:48 -0700'
-categories:
-- News
-- Events
-- EUMS in the Community
-- Upcoming Projects
-tags: []
-comments: []
 ---
-<h3 style="text-align: center;"><span style="color: #67167f;">Saturday 22nd October 2011</span></h3></p>
-<h3 style="text-align: center;"><span style="color: #67167f;">St Cuthbert's Parish Church, Edinburgh</span></h3></p>
-<h5 style="text-align: center;"><span style="color: #000000;">The Edinburgh University Music Society and Bethany Christian Trust<br />
-are teaming up to bring you The Big Sing 2011.</span></h5></p>
-<h5 style="text-align: center;"><span style="color: #000000;">Come along and sing Handel's <em>Messiah</em> under the baton of<br />
-award-winning and SPNM short-listed conductor <a title="Find Thomas Butler here..." href="http://www.thomas-butler.co.uk/about.html" target="_blank">Thomas Butler</a> whilst<br />
-supporting Bethany's acclaimed "Stop Homelessness" campaign.</span></h5></p>
-<p>Scottish charity Bethany Christian Trust and the EUMS invite you to attend Big Sing 2011, a large come-and-sing event where a chorus and our own orchestra will perform Handel's renowned <em>Messiah </em>in St Cuthbert's Parish Church on Lothian Road.</p></p>
-<h3>THE EVENT</h3></p>
-<p>The event will involve rehearsals throughout the day (with tea and coffee being provided) and a concert in the evening, where performers and audience members will be able to bid for the chance to conduct the <em>Hallelujah Chorus</em> in all of its glory. Music will be available to hire.</p></p>
-<p>Unfortunately, <em>we are now going to be unable to provide t-shirts for performers</em>, and as a result the prices to perform have been reduced. Those of you who have paid the original amount will be entitled to a refund of the difference, but remember that this is a charity event, so any donations will be more than welcome. All proceeds will be given to Bethany Christian Trust to support their Stop Homelessness campaign.</p></p>
-<p>Concert dress for the day will be <strong>brightly coloured tops</strong>!</p></p>
-<h5><a title="Big Sing 2011" href="http://eums.eusa.ed.ac.uk/wp-content/uploads/files/bigsing2011_webleaflet.pdf" target="_blank"><span style="color: #67167f;">Download the event flyer here</span></a><span style="color: #67167f;">.</span></h5></p>
-<h3>ON THE DAY</h3><br />
-Rehearsals start at 9.45 am, and will continue with frequent breaks until 6.00 pm. The concert will take place at 7.30 with doors opening at 7.00 pm. There will be a bake sale during the day and at the interval in the evening. If you wish to buy tickets to watch the performance in the evening then go the <a title="Bethany Christian Trust &amp; EUMS: Big Sing 2011" href="http://eums.eusa.ed.ac.uk/2011/bigsingconcert2011/">concert page here</a>.</p>
-<h3>SIGN UP</h3></p>
-<p>To sign up, follow the link below to be taken to our Ticketsource mini-site. Here you will be able to purchase your tickets. If you wish to sign up a large group then please contact our Community Relations Manager at <a title="Email us" href="mailto:community@eums.org.uk" target="_blank">community@eums.org.uk</a>.</p></p>
-<p style="text-align: center;"><a title="Sign up here..." href="http://www.ticketsource.co.uk/date/28485"><img src="http://eums.eusa.ed.ac.uk/wp-content/uploads/build/bigsing_signup.png" alt="" width="500" height="92" /></a></p></p>
-<p>The event is nearing, so check back to our website or follow our <a title="EUMS on Twitter" href="http://twitter.com/eums_updates" target="_blank">twitter feed</a> (hashtag <a title="#bigsing2011" href="http://twitter.com/#!/search/%23bigsing2011" target="_blank">#bigsing2011</a>) to get the latest information.</p></p>
-<p><em>Bethany&rsquo;s mission is to relieve the suffering and meet the long term needs of homeless and vulnerable people. Every year Bethany helps over 4,000 people to find, equip and maintain a home, overcome addictions and tackle other social and educational barriers which prevent them from living a full and healthy life.</em></p></p>
-<p><em>Bethany offers shelter and so much more besides, working with people to address the root causes of homelessness so they can move on into independent living. Bethany gives homeless and vulnerable people hope and a future. Watch the video to find out more and get a feel for the campaign.</em></p></p>
-<h5><a title="Stop Homelessness Facebook Page" href="http://www.facebook.com/StopHomelessness" target="_blank"><span style="color: #67167f;">To go to the campaign's Facebook page, follow this link</span></a><span style="color: #67167f;">.</span></h5><br />
- </p>
-<p>http://youtu.be/WbLDUHq24Ek</p>
-<p align="center"><a title="Stop Homelessness - Campaign Poster 2011" href="http://eums.eusa.ed.ac.uk/wp-content/uploads/images/w620/posters/stophomelessness2011_poster.jpg"><img src="http://eums.eusa.ed.ac.uk/wp-content/uploads/images/w620/posters/stophomelessness2011_poster.jpg" alt="Stop Homelessness" width="310" height="438" /></a></p><br />
-<img class="size-full wp-image-620" src="http://eums.eusa.ed.ac.uk/wp-content/uploads/images/w620/bigsing_footer.png" alt="" width="620" height="202" /></p>
+
+The Edinburgh University Music Society and Bethany Christian Trust are teaming up to bring you The Big Sing 2011.
+
+Come along and sing Handel's <em>Messiah</em> under the baton of award-winning
+and SPNM short-listed conductor <a title="Find Thomas Butler here..."
+href="http://www.thomas-butler.co.uk/about.html" target="_blank">Thomas
+Butler</a> whilst supporting Bethany's acclaimed "Stop Homelessness" campaign.
+
+<p class="hero">
+Saturday 22nd October 2011<br>
+St Cuthbert's Parish Church, Edinburgh
+</p>
+
+Scottish charity Bethany Christian Trust and the EUMS invite you to attend Big Sing 2011, a large come-and-sing event where a chorus and our own orchestra will perform Handel's renowned <em>Messiah </em>in St Cuthbert's Parish Church on Lothian Road.
+
+### The event
+
+The event will involve rehearsals throughout the day (with tea and coffee being provided) and a concert in the evening, where performers and audience members will be able to bid for the chance to conduct the <em>Hallelujah Chorus</em> in all of its glory. Music will be available to hire.
+
+Unfortunately, <em>we are now going to be unable to provide t-shirts for performers</em>, and as a result the prices to perform have been reduced. Those of you who have paid the original amount will be entitled to a refund of the difference, but remember that this is a charity event, so any donations will be more than welcome. All proceeds will be given to Bethany Christian Trust to support their Stop Homelessness campaign.
+
+Concert dress for the day will be <strong>brightly coloured tops</strong>!
+
+<a title="Big Sing 2011" href="http://eums.eusa.ed.ac.uk/wp-content/uploads/files/bigsing2011_webleaflet.pdf" target="_blank">Download the event flyer here</a>.
+
+### On the day
+
+Rehearsals start at 9.45 am, and will continue with frequent breaks until 6.00 pm. The concert will take place at 7.30 with doors opening at 7.00 pm. There will be a bake sale during the day and at the interval in the evening. If you wish to buy tickets to watch the performance in the evening then go the <a title="Bethany Christian Trust &amp; EUMS: Big Sing 2011" href="http://eums.eusa.ed.ac.uk/2011/bigsingconcert2011/">concert page here</a>.
+
+### Sign up
+
+To sign up, follow the link below to be taken to our Ticketsource mini-site. Here you will be able to purchase your tickets. If you wish to sign up a large group then please contact our Community Relations Manager at <a title="Email us" href="mailto:community@eums.org.uk" target="_blank">community@eums.org.uk</a>.
+
+<a title="Sign up here..." href="http://www.ticketsource.co.uk/date/28485"><img class="centred" src="http://eums.eusa.ed.ac.uk/wp-content/uploads/build/bigsing_signup.png" alt="Sign up here" width="500" height="92" /></a>
+
+The event is nearing, so check back to our website or follow our <a title="EUMS on Twitter" href="http://twitter.com/eums_updates" target="_blank">twitter feed</a> (hashtag <a title="#bigsing2011" href="http://twitter.com/#!/search/%23bigsing2011" target="_blank">#bigsing2011</a>) to get the latest information.
+
+<em>Bethany&rsquo;s mission is to relieve the suffering and meet the long term needs of homeless and vulnerable people. Every year Bethany helps over 4,000 people to find, equip and maintain a home, overcome addictions and tackle other social and educational barriers which prevent them from living a full and healthy life.</em>
+
+<em>Bethany offers shelter and so much more besides, working with people to address the root causes of homelessness so they can move on into independent living. Bethany gives homeless and vulnerable people hope and a future. Watch the video to find out more and get a feel for the campaign.</em>
+
+<a title="Stop Homelessness Facebook Page" href="http://www.facebook.com/StopHomelessness" target="_blank">To go to the campaign's Facebook page, follow this link</a>.
+
+<http://youtu.be/WbLDUHq24Ek>
+
+<a title="Stop Homelessness - Campaign Poster 2011" href="http://eums.eusa.ed.ac.uk/wp-content/uploads/images/w620/posters/stophomelessness2011_poster.jpg"><img class="centred" src="http://eums.eusa.ed.ac.uk/wp-content/uploads/images/w620/posters/stophomelessness2011_poster.jpg" alt="Stop Homelessness" width="310" height="438" /></a>
+
+<img src="http://eums.eusa.ed.ac.uk/wp-content/uploads/images/w620/bigsing_footer.png" alt="" width="620" height="202" />
