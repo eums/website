@@ -1,33 +1,16 @@
 ---
 layout: post
-status: publish
 published: true
 title: 'Bethany Christian Trust & EUMS: Big Sing 2011'
-author:
-  display_name: Web Manager
-  login: eums_website
-  email: web@eums.org.uk
-  url: http://www.eums.org.uk
-author_login: eums_website
-author_email: web@eums.org.uk
-author_url: http://www.eums.org.uk
-excerpt: 'Bethany Christian Trust & EUMS: Big Sing 2011 - 19:30, Saturday, 22 October
-  2011 - St. Cuthberts Church - Tickets £8/£5'
 wordpress_id: 1303
-wordpress_url: http://eums.eusa.ed.ac.uk/?p=1303
-date: '2011-09-26 11:08:55 -0700'
-date_gmt: '2011-09-26 11:08:55 -0700'
-categories:
-- Events
-- Upcoming Concerts
-- Upcoming Projects
-tags: []
-comments: []
 ---
-<p><a title="buy tickets online" href="http://www.ticketsource.co.uk/date/29258"> <img src="http://eums.eusa.ed.ac.uk/wp-content/uploads/images/w620/posters/bigsing2011_poster.jpg" alt="" width="620" height="872" /></a></p>
-<p>To buy tickets, click the link below:</p>
-<p align="middle"><a title="buy tickets online" href="http://www.ticketsource.co.uk/date/29258"> <img src="http://www.ticketsource.co.uk/images/buyTickets/buyTickets-medium.png" alt="" width="118" height="88" border="0" /></a></p><br />
- </p>
-<p> </p>
-<p>To sign up to perform on the day click the link below. If you wish to sign up a large group then please contact our Community Relations Manager at <a title="Email us" href="mailto:community@eums.org.uk" target="_blank">community@eums.org.uk</a>.</p></p>
-<p style="text-align: center;"><a title="Sign up here..." href="http://www.ticketsource.co.uk/date/28485"><img src="http://eums.eusa.ed.ac.uk/wp-content/uploads/build/bigsing_signup.png" alt="" width="500" height="92" /></a></p></p>
+
+<a title="buy tickets online" href="http://www.ticketsource.co.uk/date/29258"> <img src="http://eums.eusa.ed.ac.uk/wp-content/uploads/images/w620/posters/bigsing2011_poster.jpg" alt="" width="620" height="872" /></a>
+
+To buy tickets, click the link below:
+
+<a title="buy tickets online" href="http://www.ticketsource.co.uk/date/29258"> <img class="centred" src="http://www.ticketsource.co.uk/images/buyTickets/buyTickets-medium.png" alt="Buy tickets online" width="118" height="88" border="0" /></a>
+
+To sign up to perform on the day click the link below. If you wish to sign up a large group then please contact our Community Relations Manager at <a title="Email us" href="mailto:community@eums.org.uk" target="_blank">community@eums.org.uk</a>.
+
+<a title="Sign up here..." href="http://www.ticketsource.co.uk/date/28485"><img class="centred" src="http://eums.eusa.ed.ac.uk/wp-content/uploads/build/bigsing_signup.png" alt="Sign up here" width="500" height="92" /></a>
