@@ -25,9 +25,9 @@ tour.
 <blockquote>
 <p>
 <strong>
-&ldquo;I had forgotten how much I adore Schubert’s Unfinished Symphony &hellip;
+"I had forgotten how much I adore Schubert’s Unfinished Symphony ...
 it is such an emotional work and they carried it off well, the conductor once
-again bringing out the best from everyone&rdquo;
+again bringing out the best from everyone"
 </strong>
 <cite>&mdash; <a href="http://www.belfastcathedral.org/news/item/722/music-festival-opens-with-the-edinburgh-university-music-society/">
 The Very Reverend John Mann, St Anne's Cathedral
