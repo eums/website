@@ -10,12 +10,11 @@ There are a number of ways that you can get in contact with the society:
 
 ### In person
 
-You can speak to any one of our dedicated ensemble managers in person by coming
-along to their respective rehearsals. Details of the rehearsal times can be
-found on our ensemble pages for [Chorus](/chorus/), [Sinfonia](/sinfonia/), or
-[Symphony Orchestra](/symphony-orchestra/), and locations can be found on our
-<a title="Rehearsal locations"
-href="http://eums.eusa.ed.ac.uk/find/practice">Find Us</a> page.
+You can speak to any one of our dedicated ensemble managers in person by coming along to their respective rehearsals. Details of the rehearsal times and locations can be found on our ensemble pages:
+
+* [Chorus](/chorus/)
+* [Sinfonia](/sinfonia/)
+* [Symphony Orchestra](/symphony-orchestra/)
 
 ### By email
 
