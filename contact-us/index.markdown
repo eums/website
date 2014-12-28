@@ -18,15 +18,11 @@ You can speak to any one of our dedicated ensemble managers in person by coming 
 
 ### By email
 
-The quickest way to get a response from us if you cannot come and speak to us
-in person is by emailing us at
-[secretary@eums.org.uk](mailto:secretary@eums.org.uk).
+The quickest way to get a response from us if you cannot come and speak to us in person is by emailing us at [secretary@eums.org.uk](mailto:secretary@eums.org.uk).
 
 ### In writing
 
-If you are in no rush and fancy having a good scrawl, or indeed feel that what
-you wish to say is conveyed best in the form of written word, then our address
-is as follows:
+If you are in no rush and fancy having a good scrawl, or indeed feel that what you wish to say is conveyed best in the form of written word, then our address is as follows:
 
 <address>
 Edinburgh University Music Society<br>
@@ -39,6 +35,4 @@ EH8 9DF
 
 ### By phone
 
-Though it is not possible to provide a universal society phone number, by
-contacting EUMS as detailed above, an appropriate phone number for one of our
-committee members can be administered on a need-to-know basis.
+Though it is not possible to provide a universal society phone number, by contacting EUMS as detailed above, an appropriate phone number for one of our committee members can be administered on a need-to-know basis.
