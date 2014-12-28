@@ -1,7 +1,7 @@
 ---
 layout: page
 published: true
-title: Find Us Performing
+title: Where we perform
 author:
   display_name: Web Manager
   login: eums_website
@@ -19,7 +19,7 @@ tags: []
 comments: []
 ---
 
-## Find Us Performing
+## Where we perform
 
 EUMS have performed at many venues across Scotland and indeed the world to thousands of people from many different backgrounds. We get a great reception wherever we go, and we enjoy playing different venues in different places.
 
