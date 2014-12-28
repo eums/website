@@ -1,22 +1,7 @@
 ---
 layout: page
-published: true
 title: Where we perform
-author:
-  display_name: Web Manager
-  login: eums_website
-  email: web@eums.org.uk
-  url: http://www.eums.org.uk
-author_login: eums_website
-author_email: web@eums.org.uk
-author_url: http://www.eums.org.uk
 wordpress_id: 82
-wordpress_url: http://eums.eusa.ed.ac.uk/?page_id=82
-date: '2011-03-28 14:57:29 -0700'
-date_gmt: '2011-03-28 14:57:29 -0700'
-categories: []
-tags: []
-comments: []
 ---
 
 ## Where we perform
