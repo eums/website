@@ -10,6 +10,16 @@ wordpress_id: 10
 
 Whether you're a seasoned musician or have no musical training, whether you're a student or not, we'd love for you to get involved with us!
 
+*Jump to:*
+
+* [Making music](#making-music)
+* [Socials](#socials)
+* [Community engagement](#community-engagement)
+* [Tours](#tours)
+
+
+Interested? Contact [secretary@eums.org.uk](mailto:secretary@eums.org.uk) or come and find us at one of our rehearsals!
+
 ### Making music
 
 The society consists of three ensembles. The largest is [Chorus](/chorus/), a non-auditioned choir of more than 100 people, which rehearses on Tuesday evenings in Paterson's Land.
@@ -46,8 +56,6 @@ For most of our members, past and present, the highlight of their years in the s
 
 Tour is the time to really get to know other members, whilst getting the chance to perform in some spectacular venues. Amiens Cathedral has to be a highlight of recent years, with our performance reducing audience members to tears (as we tried not to well up ourselves). Everyone gets to know everyone, and the memories will remain with you as highlights of your university career.
 
-[Find out more about tour](/about-us/tours).
+[Find out more about tour](/get-involved/tours/).
 
 ![A final gathering outside Amiens Cathedral](/assets/img/tours/amiens-cathedral.jpg "A final gathering outside Amiens Cathedral")
-
-Interested? Contact [secretary@eums.org.uk](mailto:secretary@eums.org.uk) or come and find us at one of our rehearsals!
