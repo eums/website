@@ -42,9 +42,11 @@ In 2011, the event was well attended and raised over **£1300** for the charity�
 
 ### Tours
 
-For most of our members, past and present, the highlight of their years in the society is tour. Every year we grab our instruments and vocal chords and head off towards the horizon. Recent tours have explored locations as exotic as Norway, Spain, North Wales, Germany, and Northern Ireland! This year we are looking set to travel to the continent once more, though where remains a secret… for now!
+For most of our members, past and present, the highlight of their years in the society is tour. Every year we grab our instruments and vocal chords and head off towards the horizon. Recent tours have explored locations as exotic as Norway, Spain, North Wales, Germany, and Northern Ireland!
 
 Tour is the time to really get to know other members, whilst getting the chance to perform in some spectacular venues. Amiens Cathedral has to be a highlight of recent years, with our performance reducing audience members to tears (as we tried not to well up ourselves). Everyone gets to know everyone, and the memories will remain with you as highlights of your university career.
+
+[Find out more about tour](/about-us/tours).
 
 ![A final gathering outside Amiens Cathedral](/assets/img/tours/amiens-cathedral.jpg "A final gathering outside Amiens Cathedral")
 
