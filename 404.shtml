@@ -9,9 +9,8 @@ layout: default
 <p>Possible causes:</p>
 
 <ul>
-<li>One of the links on our website is broken. Please let us know if this has happened by emailing us at [publicity@eums.org.uk](mailto:publicity@eums.org.uk).</li>
-<li>There is a typing error in the address. Check for typing errors such as
-eums.org.uk/**frehsers** instead of eums.org.uk/**freshers**.</li>
+<li>One of the links on our website is broken. Please let us know if this has happened by emailing us at <a href="mailto:publicity@eums.org.uk">publicity@eums.org.uk</a>.</li>
+<li>There is a typing error in the address. Check for typing errors such as eums.org.uk/<strong>frehsers</strong> instead of eums.org.uk/<strong>freshers</strong>.</li>
 </ul>
 
 <h3>Search this website</h3>
