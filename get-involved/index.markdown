@@ -13,7 +13,7 @@ Whether you're a seasoned musician or have no musical training, whether you're a
 *Jump to:*
 
 * [Making music](#making-music)
-* [Socials](#socials)
+* [Socials](#socs)
 * [Community engagement](#community-engagement)
 * [Tours](#tours)
 
@@ -32,7 +32,8 @@ The [Symphony Orchestra](/symphony-orchestra/) is a large auditioning orchestra 
 
 Each ensemble performs 3 times each year, in a total of 6 concerts. In particular, we join Chorus and one of our orchestras for what is always a breathtakingly epic performance in either the Winter or Spring concert series.  The Summer concert features all three ensembles performing together under one roof.
 
-### Socials
+<!-- I would have used "socials" for the element id here, but it was blocked by adblock plus. Therefore I'm using "socs" instead to avoid it being blocked. -->
+<h3 id="socs">Socials</h3>
 
 As you will find out, our passion for music making is at least matched by our love of having a good time: from ceilidhs to karaoke and from defeating our rival societies at hockey to our regular evening pub meetings, we do like to let our hair down, and our members will always be delighted by a new face in the mix. We have all been new to the society at some point!
 
