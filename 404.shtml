@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+<h2>Not Found</h2>
+
+<p>The page you were looking for cannot be found.</p>
+
+<p>Possible causes:</p>
+
+<ul>
+<li>One of the links on our website is broken. Please let us know if this has happened by emailing us at [publicity@eums.org.uk](mailto:publicity@eums.org.uk).</li>
+<li>There is a typing error in the address. Check for typing errors such as
+eums.org.uk/**frehsers** instead of eums.org.uk/**freshers**.</li>
+</ul>
+
+<h3>Search this website</h3>
+
+<div class="not-found-search">
+{% include search_form.html id="not-found-search" %}
+</div>
