@@ -2,12 +2,13 @@
 layout: post
 title: EUMS Summer Concert 2014
 wordpress_id: 3118
-categories:
-- Concerts
+categories: 
+  - Concerts
+published: true
 ---
 
 <a title="buy tickets online" href="http://www.ticketsource.co.uk/event/56813">
-  <img src="http://eums.eusa.ed.ac.uk/wp-content/uploads/images/w620/posters/20140516_summer.jpg" alt="Concert poster" width="620" height="441">
+  <img src="http://eums.eusa.ed.ac.uk/wp-content/uploads/images/w620/posters/20140516_summer.jpg" alt="Concert poster">
 </a>
 
 The Edinburgh University Music Society's Chorus, Sinfonia and Symphony
