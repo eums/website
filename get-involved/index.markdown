@@ -41,6 +41,8 @@ As you will find out, our passion for music making is at least matched by our lo
 
 Major features of the EUMS social calendar include sectional meals, tutti weekend, carolling, intramural hockey (we can definitely beat our season’s best of second place this year!), pre-tour karaoke, mass outings to RSNO or SCO concerts, and the highlight of the year: The Musoc Ball (a meal, giant ceilidh and society-wide party).
 
+[Find out more about socials](/get-involved/socials/).
+
 ### Community engagement
 
 As part of our enthusiasm for making music, we spend the whole year getting stuck in with events across the community outside the University of Edinburgh.  Every year we have expanded our education projects with local schools, and last year we entertained over 400 pupils in our main Spring event, teaching them about classical music whilst keeping them grinning.
