@@ -15,8 +15,6 @@ title: "What's on"
 {% endfor %}
 </ul>
 
-<a href="/whats-on/archive">Past events &raquo;</a>
-
 <hr>
 
 We are proud of the quality of our ensembles. Since the society's creation in
