@@ -53,6 +53,8 @@ In 2011, the event was well attended and raised over **Â£1300** for the charityâ
 
 ![The Big Sing cheque handover](/assets/img/big-sing/2011-cheque.jpg "The Big Sing cheque handover")
 
+[Find out more about community engagement](/community/).
+
 ### Tours
 
 For most of our members, past and present, the highlight of their years in the society is tour. Every year we grab our instruments and vocal chords and head off towards the horizon. Recent tours have explored locations as exotic as Norway, Spain, North Wales, Germany, and Northern Ireland!
