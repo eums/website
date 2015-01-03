@@ -5,8 +5,6 @@ title: Corporate support
 
 ## Corporate support
 
-### Our strengths
-
 The Edinburgh University Music Society is Scotland’s foremost student music
 organisation with a reputation for outstanding music-making, energy and
 innovation. We are proud to have an ever-expanding position within the musical
@@ -94,17 +92,16 @@ tailor these according to the scale of your input.
 
 ### Advertising
 
-Be it on our website or in concert programmes, advertising with the society
-lets you tap into a wide demographic, whilst also allowing you to be confident
-about the people who engage with your brand.
+Be it on our website or in concert programmes, advertising with the society lets you tap into a wide demographic, whilst also allowing you to be confident about the people who engage with your brand.
 
-From individual concerts to an entire Season, EUMS can put together a flexible
-advertising package to suit your needs and your budget. Our programmes are
-printed in high quality and provide another way to engage with a new audience,
-and our website has upwards of 2000 views per month.
+From individual concerts to an entire Season, the EUMS can put together a flexible advertising package to suit your needs and your budget. Our programmes are printed in high quality and provide another way to engage with a new audience, and our website has upwards of 2000 views per month.
 
-Programme advert prices start from as little as £25, and web advertising prices
-can be established based on your individual corporate needs.
+Prices for programme advertisements are as follows:
+
+* For a full concert series: £60 for half a page, £100 for a full page.
+* For a single concert only: £30 for half a page, £50 for a full page.
+
+Web advertising prices can be established based on your individual corporate needs.
 
 If you wish to advertise in one of our concert programmes or would like to
 discuss further the opportunities surrounding corporate sponsorship then
