@@ -7,6 +7,7 @@
 /society/biography/chorus /chorus/
 /society/biography/sinfonia /sinfonia/
 /society/biography/symphony /symphony-orchestra/
+/society/membership/newsletter /newsletters/
 
 /2011/quos-01	/blog/2011/quso-concert
 /2011/summerconcert /blog/2011/summer-concert
@@ -16,7 +17,3 @@
 /2014/membersnewsletter_april14 /blog/2014/members-newsletter-april/
 /2014/summerconcert2014 /blog/2014/summer-concert
 /20([0-9][0-9])/(.*)  /blog/$1/$2
-
-# do we need to worry about images?
-/wp-content/uploads/build/EUMS_header.png   /assets/img/eums-logo.svg
-/wp-content/uploads/2014/03/meetthefresherjamie.jpg /assets/img/meet-the-fresher/jamie-mcdonald.jpg

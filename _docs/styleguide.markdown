@@ -1,5 +1,12 @@
 # Style Guide
 
+## Large files
+
+Anything over 1MB should go into Google Drive. Anything in the "public" folder
+is visible to the whole internet, so be careful what you put there!
+
+When uploading a newsletter, add it to /newsletters/ as well as making a post.
+
 ## HTML
 
 ### Learning resources
