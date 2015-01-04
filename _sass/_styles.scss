@@ -153,9 +153,13 @@ header[role="banner"] {
     background: $bg-red;
     color: white;
 
-    img {
-        background: $bg-red;
-        color: white;
+    .logo-image {
+        @include svg-background('/assets/img/eums-logo.svg', '/assets/img/eums-logo.png');
+        background-size: 146px 83px;
+        background-repeat: no-repeat;
+        float: left;
+        width: 146px;
+        height: 83px;
     }
 
     h1 {
@@ -182,6 +186,10 @@ header[role="banner"] {
         text-align: right;
         margin: 0;
         padding: 1em 0 0.5em 1em;
+    }
+
+    .search-form {
+        margin-top: 2.9em;
     }
 }
 

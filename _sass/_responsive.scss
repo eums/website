@@ -116,13 +116,19 @@
         margin-left: 0;
     }
 
-    header .logo-text {
-        background-image: url(/assets/img/eums-logo-text.png);
-        background-repeat: no-repeat;
-        /* copy dimensions from the image; for some reason it disappears unless
-         * these are present */
-        width: 354px;
-        height: 83px;
+    header[role="banner"] {
+        .search-form {
+            margin-top: 0;
+        }
+
+        .logo-text {
+            background-image: url(/assets/img/eums-logo-text.png);
+            background-repeat: no-repeat;
+            /* copy dimensions from the image; for some reason it disappears unless
+             * these are present */
+            width: 354px;
+            height: 83px;
+        }
     }
 
     .quotes blockquote {
