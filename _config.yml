@@ -11,7 +11,7 @@ external_assets: "https://1ed1fabde45aa32e0f1155aa7d8a86b1b5a88703.googledrive.c
 # Used in <head> and RSS feed
 name: "Edinburgh University Music Society"
 description: "Scotland's foremost student music body since 1867. Society profile with details of concerts, community projects and membership."
-url: "http://eums.dev.garrood.me"
+url: "http://dev.eums.org.uk"
 
 sass:
   style: :compact
