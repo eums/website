@@ -145,7 +145,7 @@ ul.container {
 }
 
 .search {
-    background: url('/assets/img/search.svg') no-repeat scroll #fff;
+    @include svg-background('/assets/img/search.svg', '/assets/img/search.png');
     background-position: top 50% right 3%;
 }
 
@@ -323,4 +323,3 @@ blockquote {
         padding: 0;
     }
 }
-

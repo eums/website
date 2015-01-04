@@ -1,0 +1,7 @@
+@mixin svg-background($url, $fallbackUrl) {
+    background-image: url($fallbackUrl);
+    background-image: linear-gradient(transparent, transparent),
+                      url($url);
+
+    background-repeat: no-repeat;
+}
