@@ -17,8 +17,7 @@ Whether you're a seasoned musician or have no musical training, whether you're a
 * [Community engagement](#community-engagement)
 * [Tours](#tours)
 
-
-Interested? Contact [secretary@eums.org.uk](mailto:secretary@eums.org.uk) or come and find us at one of our rehearsals!
+Interested? [Join our members' facebook group](http://www.facebook.com/groups/ed.music.society/) or come and find us at one of our rehearsals! You can also [contact us](/contact-us/) directly.
 
 ### Making music
 
