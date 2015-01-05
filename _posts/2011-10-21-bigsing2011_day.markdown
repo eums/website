@@ -41,4 +41,4 @@ We will begin the concert: There will be a speech from Bethany's director and th
 
 We look forward to seeing you on Saturday morning!
 
-<img class="size-full wp-image-620" src="http://eums.eusa.ed.ac.uk/wp-content/uploads/images/w620/bigsing_footer.png" alt="" width="620" height="202" />
+<img src="/assets/img/big-sing/footer.png" alt="">
