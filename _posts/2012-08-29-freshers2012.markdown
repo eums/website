@@ -34,7 +34,7 @@ Afterwards we are hosting the famous **EUMS Freshers' Week Ceilidh**. Our favour
 
 Find the <a title="Go to the Facebook event" href="http://www.facebook.com/events/163207823816708/" target="_blank">event on Facebook here</a>.
 
-<a href="http://eums.eusa.ed.ac.uk/wp-content/uploads/images/h500/socials/ceilidh01.jpg"><img class=" " title="Ceilidh-ing the night away..." src="http://eums.eusa.ed.ac.uk/wp-content/uploads/images/h500/socials/ceilidh01.jpg" alt="Ceilidh-ing the night away..." width="507" height="300" /></a>
+<img title="Ceilidh-ing the night away..." src="/assets/img/socials/ceilidh.jpg" alt="Ceilidh-ing the night away...">
 
 <h3>ENSEMBLE REHEARSALS<br />
 <em>Monday 17th onwards</em></h3>
