@@ -36,6 +36,9 @@ with a better and more maintainable web page.
   in a new window (if that's what they want). If they are not aware of it, or
   if they were expecting the link to open in the same window, it will confuse
   or annoy them.
+* If linking to a page on the same domain, prefer to use a relative URL; that
+  is, one starting with `/`. This rule should not be broken unless you have a
+  very good reason.
 * Avoid **ALL** JavaScript fuckery on links. The `onclick` attribute on an
   `<a>` element is absolutely off limits.
 
