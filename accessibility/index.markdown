@@ -17,8 +17,8 @@ For our concerts, to ensure that we can accommodate you, please let us know of y
 
 The University of Edinburgh's Disability Office provides these maps, detailing access features, gradients and transport links:
 
-* [Access map for the south of the city, from Waverley Station to King's Buildings](http://eums.eusa.ed.ac.uk/wp-content/uploads/files/city-wide_access.pdf)
-* [Access map for the University's central campus (where the Reid Concert Hall is)](http://eums.eusa.ed.ac.uk/wp-content/uploads/files/central_access.pdf)
+* [Access map for the south of the city, from Waverley Station to King's Buildings]({{ site.external_assets }}/docs/city-wide-access.pdf)
+* [Access map for the University's central campus (where the Reid Concert Hall is)]({{ site.external_assets }}/docs/central-access.pdf)
 
 ## This website
 
