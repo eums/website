@@ -59,4 +59,4 @@ inspired the future generation of musicians to get involved with music."
 
 **Katy Cavanagh** - Oboe
 
-<a href="http://eums.eusa.ed.ac.uk/wp-content/uploads/2013/11/orch.jpeg"><img class="wp-image-3025 alignnone" alt="orch" src="http://eums.eusa.ed.ac.uk/wp-content/uploads/2013/11/orch-1024x764.jpeg" width="682" height="508" /></a>
+<img alt="orchestra" src="/assets/img/education-projects/orchestra.jpg">
