@@ -18,7 +18,7 @@ This includes:
 Collecting this information is necessary for us to:
 
 * improve the site by monitoring how it is used
-* provide online ticket sales and Gold membership services.
+* provide services such as online ticket sales and Friends of EUMS.
 
 ### Credit card details
 
