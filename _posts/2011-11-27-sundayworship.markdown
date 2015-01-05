@@ -1,26 +1,10 @@
 ---
 layout: post
-status: publish
 published: true
 title: BBC Radio 4's Sunday Worship
-author:
-  display_name: Web Manager
-  login: eums_website
-  email: web@eums.org.uk
-  url: http://www.eums.org.uk
-author_login: eums_website
-author_email: web@eums.org.uk
-author_url: http://www.eums.org.uk
-excerpt: EUMS, as featured on BBC Radio 4...
 wordpress_id: 1442
-wordpress_url: http://eums.eusa.ed.ac.uk/?p=1442
-date: '2011-11-27 13:32:40 -0800'
-date_gmt: '2011-11-27 13:32:40 -0800'
-categories:
-- News
-- EUMS in the Community
-tags: []
-comments: []
 ---
-<p>This morning EUMS Chorus featured on BBC Radio 4's Sunday Worship programme, adding a bit of musical spark to the morning's hymns. <a title="Past Conductors" href="http://eums.eusa.ed.ac.uk/society/conductors/past-conductors/">Iain McLarty</a> conducted the select group of singers through a number of songs of worship at Mayfield Salisbury Parish Church.</p>
-<p><a title="BBC Radio 4 Programmes" href="http://www.bbc.co.uk/programmes/b017lbd5#synopsis" target="_blank">The link to the programme website can be found here</a>.</p>
+
+This morning EUMS Chorus featured on BBC Radio 4's Sunday Worship programme, adding a bit of musical spark to the morning's hymns. Iain McLarty conducted the select group of singers through a number of songs of worship at Mayfield Salisbury Parish Church.
+
+<a title="BBC Radio 4 Programmes" href="http://www.bbc.co.uk/programmes/b017lbd5#synopsis">The link to the programme website can be found here</a>.
