@@ -15,7 +15,7 @@ a choir of small boys and men singing alto, chorus just did it without the
 small boys&hellip; Labelled a hit at the royal wedding, it succeeded in being
 one on tour as well.
 
-<a href="http://eums.eusa.ed.ac.uk/wp-content/uploads/images/h500/tours/society2011_08.jpg"><img class="centred" title="Chorus provide an incredible sound in Amiens Cathedral." src="http://eums.eusa.ed.ac.uk/wp-content/uploads/images/h500/tours/society2011_08.jpg" alt="Chorus provide an incredible sound in Amiens Cathedral."></a>
+<img title="Chorus provide an incredible sound in Amiens Cathedral." src="/assets/img/tours/chorus-in-amiens.jpg" alt="Chorus provide an incredible sound in Amiens Cathedral.">
 
 A large section of our concerts each day (to the orchestra's delight) was
 dedicated to the 15 minute long Allegri *Miserere*. The latin wasn't perfect
