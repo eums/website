@@ -34,7 +34,7 @@ took part and thank you to the children who got involved so enthusiastically!"
 
 **Julie Aitken** - Community Outreach Manager
 
-<p><a href="http://eums.eusa.ed.ac.uk/wp-content/uploads/2013/11/choir.jpeg"><img class="wp-image-3027 alignnone" alt="choir" src="http://eums.eusa.ed.ac.uk/wp-content/uploads/2013/11/choir.jpeg" width="717" height="288" /></a></p>
+<img alt="choir" src="/assets/img/education-projects/choir.jpg">
 
 "I had a great time at the education project! It was really nice to play
 something else other than classical music again, and the reactions from the
