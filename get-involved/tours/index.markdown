@@ -5,7 +5,7 @@ title: Tour
 wordpress_id: 42
 ---
 
-<img src="http://eums.eusa.ed.ac.uk/wp-content/uploads/images/w620/tour10.jpg" alt="EUMS on tour">
+<img src="/assets/img/tours/bus.jpg" alt="EUMS on tour">
 
 ## Society on tour
 
