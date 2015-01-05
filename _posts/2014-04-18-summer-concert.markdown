@@ -5,6 +5,15 @@ wordpress_id: 3118
 categories: 
   - Concerts
 published: true
+programme:
+  - composer: Sibelius
+    piece: Symphony No. 7
+  - composer: Rutter
+    piece: The Sprig of Thyme
+  - composer: Brahms
+    piece: Tragic Overture
+  - composer: Mozart
+    piece: Magic Flute Overture
 ---
 
 <a title="buy tickets online" href="http://www.ticketsource.co.uk/event/56813">
@@ -17,7 +26,7 @@ Orchestra are proud to present their Summer Concert, on Friday 16 May, at
 
 The programme is as follows:
 
-{% include concert_programme.html concert="summer-2014" %}
+{% include concert_programme.html programme=page.programme %}
 
 Doors open at 7pm, and it is recommended that you arrive early to ensure that
 you are not disappointed!

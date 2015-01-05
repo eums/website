@@ -3,10 +3,17 @@ layout: post
 published: true
 title: 'Edinburgh Charity Orchestra: Brahms, Schumann & Beethoven'
 wordpress_id: 2700
+programme:
+  - composer: Brahms
+    piece: Symphony No. 2
+  - composer: Schumann
+    piece: Piano Concerto in A minor
+  - composer: Beethoven
+    piece: Coriolan Overture
 ---
 
 <a title="buy tickets online" href="http://www.ticketsource.co.uk/edinburghcharityorchestra/">
-  <img alt="" src="{{ site.external_assets }}/posters/edcharityorch_poster02.jpg" width="300" height="421">
+  <img alt="" src="{{ site.external_assets }}/posters/edcharityorch_poster02.jpg">
 </a>
 
 <p class="hero">
@@ -14,7 +21,7 @@ Saturday 2nd February 2013 7.30pm<br>
 Cannongate Kirk
 </p>
 
-{% include concert_programme.html concert="charity-2013" %}
+{% include concert_programme.html programme=page.programme %}
 
 **Chris George** conductor<br>
 **Fiona Dalzell** piano

@@ -1,7 +1,6 @@
-{% assign concert = site.data.concerts[include.concert] %}
 
 <div class="concert-programme">
-{% for item in concert.programme %}
+{% for item in include.programme %}
 <div class="item clearfix">
   <div class="composer">{{ item.composer }}</div>
   <div class="piece">{{ item.piece }}</div>

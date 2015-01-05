@@ -2,10 +2,18 @@
 layout: post
 published: true
 title: "Queen's University Symphony Orchestra: Edinburgh Concert"
-excerpt: "Queen's University Symphony Orchestra - Kamen / Vaughan Williams / Tchaikovsky / Hardiman - 12:10, Wednesday, 22 June 2011 - St Giles' Cathedral - Free Admission"
 wordpress_id: 933
 categories:
 - Events
+programme:
+  - composer: Kamen
+    piece: Band of Brothers
+  - composer: Vaughan Williams
+    piece: English Folk Song Suite
+  - composer: Tchaikovsky
+    piece: Symphony No. 6 (Third Movement)
+  - composer: Hardiman
+    piece: Lord of the Dance
 ---
 
 [![Visit the QUSO website]({{ site.external_assets }}/posters/quso_poster01.jpg)](http://quso.webs.com/concerts.html)
@@ -17,6 +25,6 @@ St Giles' Cathedral, Royal Mile
 
 The programme will be:
 
-{% include concert_programme.html concert="quso-2011" %}
+{% include concert_programme.html programme=page.programme %}
 
 There is **free admission**.

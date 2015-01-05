@@ -5,6 +5,13 @@ title: 'EUMS Symphony Orchestra: Spring Concert 2013'
 wordpress_id: 2751
 categories:
 - Events
+programme:
+  - composer: Brahms
+    piece: Variations on a Theme by Haydn
+  - composer: MacMillan
+    piece: The Confession of Isobel Gowdie
+  - composer: Brahms
+    piece: Symphony No. 4
 ---
 
 <a title="buy tickets online" href="http://www.ticketsource.co.uk/event/33082">
@@ -18,7 +25,7 @@ Cowieson.
 
 The programme is as follows:
 
-{% include concert_programme.html concert="symphony-spring-2013" %}
+{% include concert_programme.html programme=page.programme %}
 
 Doors open at 7pm, and it is recommended that you arrive early to ensure that
 you are not disappointed!

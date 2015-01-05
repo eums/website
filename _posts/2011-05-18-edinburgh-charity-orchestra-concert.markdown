@@ -3,6 +3,13 @@ layout: post
 title: "Edinburgh Charity Orchestra: Inaugural Concert"
 categories:
 - Concerts
+programme:
+  - composer: Mahler
+    piece: Symphony No.1
+  - composer: Rachmaninov
+    piece: Piano Concerto No.2
+  - composer: Spence
+    piece: Three Pieces
 ---
 
 [![Buy tickets online]({{ site.external_assets }}/posters/edcharityorch_poster01.jpg)](http://www.thequeenshall.net/elsewhere/shows/edinburgh-charity-orchestra-2)
@@ -12,7 +19,7 @@ Saturday 28th May 2011, 7.30pm<br>
 St Mary's Episcopal Cathedral, Palmerston Place
 </p>
 
-{% include concert_programme.html concert="charity-inaugural-2011" %}
+{% include concert_programme.html programme=page.programme %}
 
 Conductor: **Iain McLarty**<br>
 Accompanist: **Andrew Johnston**<br>

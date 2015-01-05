@@ -5,6 +5,21 @@ title: EUMS Summer Concert 2011
 wordpress_id: 220
 categories:
 - Concerts
+programme:
+  - composer: Bliss
+    piece: Antiphonal Fanfares For Three Brass Choirs
+  - composer: Vaughan Williams
+    piece: English Folk Song Suite
+  - composer: Moeran
+    piece: Overture to a Masque
+  - composer: Macmillan
+    piece: So Deep
+  - composer: Chilcott
+    piece: A Little Jazz Mass
+  - composer: Bruckner
+    piece: Locus Iste
+  - composer: Respighi
+    piece: Pines of Rome
 ---
 
 <a title="Buy tickets online" href="http://www.ticketsource.co.uk/date/24382">
@@ -18,7 +33,7 @@ roof. Come and witness a programme of epic proportions!
 This year we will be performing no fewer than six pieces. The EPIC programme
 for the night will be:
 
-{% include concert_programme.html concert="summer-2011" %}
+{% include concert_programme.html programme=page.programme %}
 
 Doors open at 7pm, and it is recommended that you arrive early to ensure that
 you are not disappointed!
