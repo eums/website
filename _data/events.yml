@@ -1,13 +1,10 @@
 ---
-- title: Summer Concert
-  location: Greyfriars' Kirk
-  url: /blog/2014/summer-concert/
-  date: 2014-05-16
-  time: 7pm
-  upcoming: true
-- title: Freshers' Week Bake Sale
-  location: Bristo Square
-  url: /blog/2014/freshers-week/
-  date: 2014-09-11
-  time: 10am-3pm
-  upcoming: true
+- title: Symphony Orchestra Concert
+  location: Dundee
+  date: 2015-03-07
+- title: Chorus and Sinfonia Spring Concert
+  location: St Mary's
+  date: 2015-03-13
+- title: Symphony Orchestra Spring Concert
+  location: Greyfriars Kirk
+  date: 2015-03-27
