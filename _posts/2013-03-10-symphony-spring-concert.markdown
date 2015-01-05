@@ -8,7 +8,7 @@ categories:
 ---
 
 <a title="buy tickets online" href="http://www.ticketsource.co.uk/event/33082">
-  <img alt="Concert poster" src="http://eums.eusa.ed.ac.uk/wp-content/uploads/images/w620/posters/20130322_symphony.jpg" width="620" height="872">
+  <img alt="Concert poster" src="{{ site.external_assets }}/posters/20130322_symphony.jpg" width="620" height="872">
 </a>
 
 On **Friday, 22 March**, at **Greyfriars Kirk**, the Edinburgh University Music

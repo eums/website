@@ -5,7 +5,7 @@ title: 'EUMS Chorus: Spring Concert 2012'
 wordpress_id: 1587
 ---
 
-<a title="buy tickets online" href="http://www.ticketsource.co.uk/event/21012"> <img src="http://eums.eusa.ed.ac.uk/wp-content/uploads/images/w620/posters/20120323_chorus.jpg" alt="" width="620" height="872" /></a>
+<a title="buy tickets online" href="http://www.ticketsource.co.uk/event/21012"> <img src="{{ site.external_assets }}/posters/20120323_chorus.jpg" alt="" width="620" height="872" /></a>
 
 Following on from last year&rsquo;s sold out performance of "Dream of Gerontius", this Spring, Chorus are showcasing pieces that represent a selection of the finest British Choral works.
 

@@ -5,7 +5,7 @@ title: 'EUMS Symphony Orchestra: Spring Concert 2012'
 wordpress_id: 1586
 ---
 
-<a title="buy tickets online" href="http://xtspro.com/-/eums20120310/"> <img src="http://eums.eusa.ed.ac.uk/wp-content/uploads/images/w620/posters/20120310_symph.jpg" alt="" width="620" height="441" /></a>
+<a title="buy tickets online" href="http://xtspro.com/-/eums20120310/"> <img src="{{ site.external_assets }}/posters/20120310_symph.jpg" alt="" width="620" height="441" /></a>
 
 Edinburgh University Music Society's Symphony Orchestra present a varied programme for their Spring Concert this year.
 

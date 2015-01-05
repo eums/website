@@ -5,7 +5,7 @@ categories:
 - Concerts
 ---
 
-[![Buy tickets online](http://eums.eusa.ed.ac.uk/wp-content/uploads/images/w620/posters/edcharityorch_poster01.jpg)](http://www.thequeenshall.net/elsewhere/shows/edinburgh-charity-orchestra-2)
+[![Buy tickets online]({{ site.external_assets }}/posters/edcharityorch_poster01.jpg)](http://www.thequeenshall.net/elsewhere/shows/edinburgh-charity-orchestra-2)
 
 <p class="hero">
 Saturday 28th May 2011, 7.30pm<br>

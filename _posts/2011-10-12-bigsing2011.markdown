@@ -49,6 +49,6 @@ The event is nearing, so check back to our website or follow our <a title="EUMS 
 
 <http://youtu.be/WbLDUHq24Ek>
 
-<a title="Stop Homelessness - Campaign Poster 2011" href="http://eums.eusa.ed.ac.uk/wp-content/uploads/images/w620/posters/stophomelessness2011_poster.jpg"><img class="centred" src="http://eums.eusa.ed.ac.uk/wp-content/uploads/images/w620/posters/stophomelessness2011_poster.jpg" alt="Stop Homelessness" width="310" height="438" /></a>
+<a title="Stop Homelessness - Campaign Poster 2011" href="{{ site.external_assets }}/posters/stophomelessness2011_poster.jpg"><img class="centred" src="http://eums.eusa.ed.ac.uk/wp-content/uploads/images/w620/posters/stophomelessness2011_poster.jpg" alt="Stop Homelessness" width="310" height="438" /></a>
 
 <img src="http://eums.eusa.ed.ac.uk/wp-content/uploads/images/w620/bigsing_footer.png" alt="" width="620" height="202" />

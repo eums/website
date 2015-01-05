@@ -8,7 +8,7 @@ categories:
 ---
 
 <a title="Buy tickets online" href="http://www.ticketsource.co.uk/date/24382">
-  <img src="http://eums.eusa.ed.ac.uk/wp-content/uploads/images/w620/posters/20110513_summer.jpg" alt="" width="620" height="877" />
+  <img src="{{ site.external_assets }}/posters/20110513_summer.jpg" alt="" width="620" height="877" />
 </a>
 
 The Edinburgh University Music Society's famous Summer Concert takes place on

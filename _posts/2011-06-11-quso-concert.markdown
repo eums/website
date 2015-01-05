@@ -8,7 +8,7 @@ categories:
 - Events
 ---
 
-[![Visit the QUSO website](http://eums.eusa.ed.ac.uk/wp-content/uploads/images/w620/posters/quso_poster01.jpg)](http://quso.webs.com/concerts.html)
+[![Visit the QUSO website]({{ site.external_assets }}/posters/quso_poster01.jpg)](http://quso.webs.com/concerts.html)
 
 <p class="hero">
 Wednesday 22nd June 2011 12.10pm<br>

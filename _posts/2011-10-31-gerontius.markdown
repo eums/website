@@ -5,7 +5,7 @@ title: 'EUMS Chorus & Symphony Orchestra: Winter Concert 2011'
 wordpress_id: 1382
 ---
 
-<a title="buy tickets online" href="http://www.ticketsource.co.uk/event/18148"> <img src="http://eums.eusa.ed.ac.uk/wp-content/uploads/images/w620/posters/20111119_chorussymph.jpg" alt="" width="620" height="872" /></a>
+<a title="buy tickets online" href="http://www.ticketsource.co.uk/event/18148"> <img src="{{ site.external_assets }}/posters/20111119_chorussymph.jpg" alt="" width="620" height="872" /></a>
 
 This November it is the turn of the Symphony Orchestra to join forces with our Chorus and we are bringing you an incredible performance: Elgar's epic <em>Dream of Gerontius</em>.
 

@@ -5,7 +5,7 @@ title: 'EUMS Sinfonia: Winter Concert 2012'
 wordpress_id: 2561
 ---
 
-<a title="buy tickets online" href="http://www.ticketsource.co.uk/event/28650"> <img src="http://eums.eusa.ed.ac.uk/wp-content/uploads/images/w620/posters/20121124_sinf.jpg" alt="Concert poster" width="620" height="441" /></a>
+<a title="buy tickets online" href="http://www.ticketsource.co.uk/event/28650"> <img src="{{ site.external_assets }}/posters/20121124_sinf.jpg" alt="Concert poster" width="620" height="441" /></a>
 
 > "A nation creates music; the composer only arranges it."<br>
 > &mdash; Mikhail Glinka

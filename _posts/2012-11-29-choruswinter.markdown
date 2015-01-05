@@ -5,7 +5,7 @@ title: 'EUMS Chorus: Winter Concert 2012'
 wordpress_id: 2583
 ---
 
-<a title="buy tickets online" href="http://www.ticketsource.co.uk/event/28648"> <img src="http://eums.eusa.ed.ac.uk/wp-content/uploads/images/w620/posters/20121130_chorus.jpg" alt="Concert poster" width="620" height="872" /></a>
+<a title="buy tickets online" href="http://www.ticketsource.co.uk/event/28648"> <img src="{{ site.external_assets }}/posters/20121130_chorus.jpg" alt="Concert poster" width="620" height="872" /></a>
 
 Our first concert of the academic year falls on the 30th of November; St. Andrew's Day in Scotland. So what better way to celebrate our national Saint than to come along to St. Cuthbert's Parish Church to hear music from the Auld Alliance?
 

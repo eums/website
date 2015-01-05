@@ -6,7 +6,7 @@ wordpress_id: 2744
 ---
 
 <a title="buy tickets online" href="http://www.ticketsource.co.uk/event/33055">
-  <img alt="Concert poster" src="http://eums.eusa.ed.ac.uk/wp-content/uploads/images/w620/posters/20130315_chorussinfonia.jpg" width="620" height="872">
+  <img alt="Concert poster" src="{{ site.external_assets }}/posters/20130315_chorussinfonia.jpg" width="620" height="872">
 </a>
 
 The Edinburgh University Music Society's Chorus and Sinfonia are joining forces

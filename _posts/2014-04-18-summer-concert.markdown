@@ -8,7 +8,7 @@ published: true
 ---
 
 <a title="buy tickets online" href="http://www.ticketsource.co.uk/event/56813">
-  <img src="http://eums.eusa.ed.ac.uk/wp-content/uploads/images/w620/posters/20140516_summer.jpg" alt="Concert poster">
+  <img src="{{ site.external_assets }}/posters/20140516_summer.jpg" alt="Concert poster">
 </a>
 
 The Edinburgh University Music Society's Chorus, Sinfonia and Symphony

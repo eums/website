@@ -23,7 +23,7 @@ comments: []
 ---
 
 <a title="buy tickets online" href="http://www.ticketsource.co.uk/edinburghcharityorchestra/">
-  <img alt="" src="http://eums.eusa.ed.ac.uk/wp-content/uploads/images/w620/posters/edcharityorch_poster02.jpg" width="300" height="421">
+  <img alt="" src="{{ site.external_assets }}/posters/edcharityorch_poster02.jpg" width="300" height="421">
 </a>
 
 <p class="hero">

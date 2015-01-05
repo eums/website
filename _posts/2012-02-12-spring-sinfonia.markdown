@@ -5,7 +5,7 @@ title: 'EUMS Sinfonia: Spring Concert 2012'
 wordpress_id: 1588
 ---
 
-<a title="buy tickets online" href="http://www.ticketsource.co.uk/event/21011"> <img src="http://eums.eusa.ed.ac.uk/wp-content/uploads/images/w620/posters/20120324_sinf.jpg" alt="" width="620" height="872" /></a>
+<a title="buy tickets online" href="http://www.ticketsource.co.uk/event/21011"> <img src="{{ site.external_assets }}/posters/20120324_sinf.jpg" alt="" width="620" height="872" /></a>
 
 Sinfonia are bringing us a packed programme this Spring, combining a first half of renowned French pieces and a second half of British classics.
 

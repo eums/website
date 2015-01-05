@@ -5,7 +5,7 @@ title: 'EUMS Symphony Orchestra: Winter Concert 2012'
 wordpress_id: 2539
 ---
 
-<a title="buy tickets online" href="http://www.ticketsource.co.uk/event/28649"> <img src="http://eums.eusa.ed.ac.uk/wp-content/uploads/images/w620/posters/20121123_symph.jpg" alt="Concert poster" width="620" height="441" /></a>
+<a title="buy tickets online" href="http://www.ticketsource.co.uk/event/28649"> <img src="{{ site.external_assets }}/posters/20121123_symph.jpg" alt="Concert poster" width="620" height="441" /></a>
 
 > "Mahler lasers through body walls and goes straight to the soul"<br>
 > &mdash; Norman Lebrecht

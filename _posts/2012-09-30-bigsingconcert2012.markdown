@@ -5,7 +5,7 @@ title: 'Bethany Christian Trust & EUMS: Big Sing 2012'
 wordpress_id: 2522
 ---
 
-<a title="buy tickets online" href="http://www.ticketsource.co.uk/event/27964"> <img src="http://eums.eusa.ed.ac.uk/wp-content/uploads/images/w620/posters/20121103_bethanybigsing.jpg" alt="" width="620" height="872" /></a>
+<a title="buy tickets online" href="http://www.ticketsource.co.uk/event/27964"> <img src="{{ site.external_assets }}/posters/20121103_bethanybigsing.jpg" alt="" width="620" height="872" /></a>
 
 To buy tickets, click the link below:
 

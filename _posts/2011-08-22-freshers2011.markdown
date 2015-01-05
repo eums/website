@@ -9,7 +9,7 @@ wordpress_id: 1062
 
 This is the place to be if you want to find out everything about our University of Edinburgh Freshers' Week schedule... For more Freshers' info <a title="EUSA's Fresher's Week website" href="http://eusalive.co.uk/freshers/" target="_blank">go to the EUSA Freshers' Week 2011 website.</a>
 
-<a title="Freshers' Week 2011" href="http://eums.eusa.ed.ac.uk/wp-content/uploads/images/w620/posters/20110905_freshersweek2011.jpg"><img class="centred" src="http://eums.eusa.ed.ac.uk/wp-content/uploads/images/w620/posters/20110905_freshersweek2011.jpg" alt="Freshers' Week 2011" width="310" height="438" /></a>
+<a title="Freshers' Week 2011" href="{{ site.external_assets }}/posters/20110905_freshersweek2011.jpg"><img class="centred" src="http://eums.eusa.ed.ac.uk/wp-content/uploads/images/w620/posters/20110905_freshersweek2011.jpg" alt="Freshers' Week 2011" width="310" height="438" /></a>
 
 ### Freshers' Week Societies Fair
 
