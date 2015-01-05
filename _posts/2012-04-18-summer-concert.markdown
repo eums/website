@@ -1,32 +1,10 @@
 ---
 layout: post
-status: publish
 published: true
 title: EUMS Summer Concert 2012
-author:
-  display_name: Web Manager
-  login: eums_website
-  email: web@eums.org.uk
-  url: http://www.eums.org.uk
-author_login: eums_website
-author_email: web@eums.org.uk
-author_url: http://www.eums.org.uk
-excerpt: EUMS Summer Concert 2012 - 19:30, Friday, 18 May 2011 - St. Mary's RC Cathedral
-  - Tickets £8/£5
 wordpress_id: 1751
-wordpress_url: http://eums.eusa.ed.ac.uk/?p=1751
-date: '2012-04-18 18:18:47 -0700'
-date_gmt: '2012-04-18 18:18:47 -0700'
-categories:
-- Events
-- Upcoming Concerts
-- Society
-- Chorus
-- Sinfonia
-- Symphony Orchestra
-tags: []
-comments: []
 ---
+
 <a title="buy tickets online" href="http://www.ticketsource.co.uk/event/22859">
   <img src="{{ site.external_assets }}/posters/20120518_summer.jpg" alt="" width="620" height="441">
 </a>
@@ -45,8 +23,4 @@ The EPIC programme for the night will be:
 Doors open at 7pm, and it is recommended that you arrive early to ensure that
 you are not disappointed!
 
-To buy tickets, click the link below:
-
-<a title="buy tickets online" href="http://www.ticketsource.co.uk/event/22859">
-  <img src="http://www.ticketsource.co.uk/images/buyTickets/buyTickets-medium.png" alt="" width="118" height="88" border="0">
-</a>
+*Ticket sales are now closed.*

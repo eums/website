@@ -7,7 +7,7 @@ wordpress_id: 2690
 
 Welcome to the new year! We hope you had fantastic Christmasses, Yules, Solstices, Monkey Days, Festivuses, Ziemassvētkis, Mummer's Days, Hanukkahs, Yaldās and holidays, and that Hogmanay was equally festive for you&hellip;
 
-This coming semester is a very exciting one for the Edinburgh University Music Society: not only will we be realising the full potential of our <a title="Support Us" href="http://eums.eusa.ed.ac.uk/support/">sponsorship</a> by <a title="Red Dog's website" href="http://www.reddogmusic.co.uk/" target="_blank">Red Dog Music</a>, but there will be an epic performance on the 23rd March by Symphony Orchestra in the Caird Hall as we accompany dance groups from the City of Dundee; Sinfonia and Chorus' joint performance of Mendelssohn's Symphony No. 2 on the 15th March and of course, our <a title="Education Projects" href="http://eums.eusa.ed.ac.uk/community/education/springproject/" target="_blank">Spring Education Project</a>.
+This coming semester is a very exciting one for the Edinburgh University Music Society: not only will we be realising the full potential of our <a title="Support Us" href="/support-us/">sponsorship</a> by <a title="Red Dog's website" href="http://www.reddogmusic.co.uk/">Red Dog Music</a>, but there will be an epic performance on the 23rd March by Symphony Orchestra in the Caird Hall as we accompany dance groups from the City of Dundee; Sinfonia and Chorus' joint performance of Mendelssohn's Symphony No. 2 on the 15th March and of course, our <a title="Education Projects" href="/community/education/spring-project/" target="_blank">Spring Education Project</a>.
 
 Rehearsal dates for the first week back are as follows:
 
