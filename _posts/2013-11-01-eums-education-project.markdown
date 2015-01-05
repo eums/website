@@ -38,7 +38,7 @@ took part and thank you to the children who got involved so enthusiastically!"
 
 "I had a great time at the education project! It was really nice to play
 something else other than classical music again, and the reactions from the
-children when they heard what we were going to play were just fantastic! Its
+children when they heard what we were going to play were just fantastic! It's
 really good to see kids interested in music, and especially the
 trombone&hellip; Who doesn't want to hear glissandos?! Hope to maybe see some
 of them playing in the orchestra in years to come&hellip;?"
@@ -47,7 +47,7 @@ of them playing in the orchestra in years to come&hellip;?"
 
 <div class="clearfix">
 <img class="aside" alt="brass" src="http://eums.eusa.ed.ac.uk/wp-content/uploads/2013/11/brass1-764x1024.jpeg" width="214" height="287" />
-<img class="aside" alt="woodwind" src="http://eums.eusa.ed.ac.uk/wp-content/uploads/2013/11/woodwind1-764x1024.jpeg" width="212" height="284">
+<img class="aside" alt="woodwind" src="/assets/img/education-projects/woodwind.jpg" width="212" height="284">
 </div>
 
 "I really enjoyed playing in this year's education project. I loved playing the
