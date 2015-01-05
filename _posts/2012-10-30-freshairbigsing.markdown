@@ -13,6 +13,6 @@ Have a listen here:
 
 <a href="http://www.youtube.com/watch?v=L5hAt5bLIY0">http://www.youtube.com/watch?v=L5hAt5bLIY0</a>
 
-To sign up for the Big Sing and for more information about the event, <a title="The Big Sing 2012" href="http://eums.eusa.ed.ac.uk/2012/bigsing2012/">go to the info page here</a>.
+To sign up for the Big Sing and for more information about the event, <a title="The Big Sing 2012" href="/blog/2012/big-sing/">go to the info page here</a>.
 
-<img src="http://eums.eusa.ed.ac.uk/wp-content/uploads/images/w620/bigsing_footer.png" alt="" width="620" height="202" />
+<img src="/assets/img/big-sing/footer.png" alt="">
