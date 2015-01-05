@@ -6,7 +6,7 @@ wordpress_id: 3134
 categories:
 - "Members' Newsletter"
 ---
-The [Members' Newsletter for April 2014](http://eums.eusa.ed.ac.uk/society/membership/newsletter/ "Members' Newsletter") is out!
+The [Members' Newsletter for April 2014](/newsletters/) is out!
 
 <p class="newsletter-summary">In this issue:</p>
 

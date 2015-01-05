@@ -5,7 +5,7 @@ title: 'Members'' Newsletter: Issue 2: October 2011'
 wordpress_id: 1369
 ---
 
-The latest EUMS Members' Newsletter is out! <a title="Members' Newsletter" href="http://eums.eusa.ed.ac.uk/society/membership/newsletter/">Click here to go to the Members' Newsletter page</a> and download and read it...
+The latest EUMS Members' Newsletter is out! <a title="Members' Newsletter" href="/newsletters/">Click here to go to the Members' Newsletter page</a> and download and read it...
 
 <p class="newsletter-summary">In this issue:</p>
 

@@ -5,7 +5,7 @@ title: 'Members'' Newsletter: Issue 4 - April 2012'
 wordpress_id: 1694
 ---
 
-This year's final Members' Newsletter is out! <a title="Members' Newsletter" href="http://eums.eusa.ed.ac.uk/society/membership/newsletter/">Click here to go to the Members' Newsletter page</a> and download and read it...
+This year's final Members' Newsletter is out! <a title="Members' Newsletter" href="/newsletters/">Click here to go to the Members' Newsletter page</a> and download and read it...
 
 <p class="newsletter-summary">In this issue:</p>
 
