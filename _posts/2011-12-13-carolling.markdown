@@ -19,5 +19,3 @@ The dates we have for carolling this year are:
 For those of you with ongoing exams, best of luck, and for all Musocers: see you next semester!
 
 Whether you are in Edinburgh or not, the Edinburgh University Music Society wishes you a very Merry Christmas!
-
-<img src="http://eums.eusa.ed.ac.uk/wp-content/uploads/images/w620/merryxmas.png" alt="" width="620" height="250" />
