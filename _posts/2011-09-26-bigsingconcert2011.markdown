@@ -13,4 +13,4 @@ To buy tickets, click the link below:
 
 To sign up to perform on the day click the link below. If you wish to sign up a large group then please contact our Community Relations Manager at <a title="Email us" href="mailto:community@eums.org.uk" target="_blank">community@eums.org.uk</a>.
 
-<a title="Sign up here..." href="http://www.ticketsource.co.uk/date/28485"><img class="centred" src="http://eums.eusa.ed.ac.uk/wp-content/uploads/build/bigsing_signup.png" alt="Sign up here" width="500" height="92" /></a>
+*Signup is now closed.*

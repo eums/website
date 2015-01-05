@@ -27,17 +27,15 @@ Unfortunately, <em>we are now going to be unable to provide t-shirts for perform
 
 Concert dress for the day will be <strong>brightly coloured tops</strong>!
 
-<a title="Big Sing 2011" href="http://eums.eusa.ed.ac.uk/wp-content/uploads/files/bigsing2011_webleaflet.pdf" target="_blank">Download the event flyer here</a>.
-
 ### On the day
 
-Rehearsals start at 9.45 am, and will continue with frequent breaks until 6.00 pm. The concert will take place at 7.30 with doors opening at 7.00 pm. There will be a bake sale during the day and at the interval in the evening. If you wish to buy tickets to watch the performance in the evening then go the <a title="Bethany Christian Trust &amp; EUMS: Big Sing 2011" href="http://eums.eusa.ed.ac.uk/2011/bigsingconcert2011/">concert page here</a>.
+Rehearsals start at 9.45 am, and will continue with frequent breaks until 6.00 pm. The concert will take place at 7.30 with doors opening at 7.00 pm. There will be a bake sale during the day and at the interval in the evening. If you wish to buy tickets to watch the performance in the evening then go the <a title="Bethany Christian Trust &amp; EUMS: Big Sing 2011" href="/blog/2011/bigsingconcert2011/">concert page here</a>.
 
 ### Sign up
 
 To sign up, follow the link below to be taken to our Ticketsource mini-site. Here you will be able to purchase your tickets. If you wish to sign up a large group then please contact our Community Relations Manager at <a title="Email us" href="mailto:community@eums.org.uk" target="_blank">community@eums.org.uk</a>.
 
-<a title="Sign up here..." href="http://www.ticketsource.co.uk/date/28485"><img class="centred" src="http://eums.eusa.ed.ac.uk/wp-content/uploads/build/bigsing_signup.png" alt="Sign up here" width="500" height="92" /></a>
+*Signup is now closed.*
 
 The event is nearing, so check back to our website or follow our <a title="EUMS on Twitter" href="http://twitter.com/eums_updates" target="_blank">twitter feed</a> (hashtag <a title="#bigsing2011" href="http://twitter.com/#!/search/%23bigsing2011" target="_blank">#bigsing2011</a>) to get the latest information.
 
@@ -49,6 +47,6 @@ The event is nearing, so check back to our website or follow our <a title="EUMS 
 
 <http://youtu.be/WbLDUHq24Ek>
 
-<a title="Stop Homelessness - Campaign Poster 2011" href="{{ site.external_assets }}/posters/stophomelessness2011_poster.jpg"><img class="centred" src="http://eums.eusa.ed.ac.uk/wp-content/uploads/images/w620/posters/stophomelessness2011_poster.jpg" alt="Stop Homelessness" width="310" height="438" /></a>
+<img src="{{ site.external_assets }}/posters/stophomelessness2011_poster.jpg" alt="Stop Homelessness">
 
-<img src="http://eums.eusa.ed.ac.uk/wp-content/uploads/images/w620/bigsing_footer.png" alt="" width="620" height="202" />
+<img src="/assets/img/big-sing/footer.png" alt="">
