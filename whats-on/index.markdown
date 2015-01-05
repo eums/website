@@ -6,10 +6,10 @@ title: "What's on"
 ## What's on
 
 <ul class="whats-on-events">
-{% for event in site.data.events where event.upcoming %}
+{% for event in site.data.events %}
 <li>
   <h3>
-    <a href="{{ event.url }}">{{ event.title }}</a>
+    {% if event.url %}<a href="{{ event.url }}">{{ event.title }}</a>{% else %}{{ event.title }}{% endif %}, {% if event.date %}{{ event.date | date: "%a %-d %B" }}{% endif %} {% unless event.url %}(details tbc){% endunless %}
   </h3>
 </li>
 {% endfor %}
