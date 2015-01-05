@@ -5,11 +5,11 @@ title: Freshers' Week 2011
 wordpress_id: 1062
 ---
 
-<a title="EUMS Freshers' Week 2012" href="http://eums.eusa.ed.ac.uk/2012/freshers2012/">For our 2012 Freshers' Week Information, click here!</a>
+<a title="EUMS Freshers' Week 2012" href="/blog/2012/freshers2012/">For our 2012 Freshers' Week Information, click here!</a>
 
-This is the place to be if you want to find out everything about our University of Edinburgh Freshers' Week schedule... For more Freshers' info <a title="EUSA's Fresher's Week website" href="http://eusalive.co.uk/freshers/" target="_blank">go to the EUSA Freshers' Week 2011 website.</a>
+This is the place to be if you want to find out everything about our University of Edinburgh Freshers' Week schedule... For more Freshers' info <a title="EUSA's Fresher's Week website" href="http://eusalive.co.uk/freshers/">go to the EUSA Freshers' Week 2011 website.</a>
 
-<a title="Freshers' Week 2011" href="{{ site.external_assets }}/posters/20110905_freshersweek2011.jpg"><img class="centred" src="http://eums.eusa.ed.ac.uk/wp-content/uploads/images/w620/posters/20110905_freshersweek2011.jpg" alt="Freshers' Week 2011" width="310" height="438" /></a>
+<img class="centred" src="{{ site.external_assets }}/posters/20110905_freshersweek2011.jpg" alt="Freshers' Week 2011">
 
 ### Freshers' Week Societies Fair
 
@@ -30,8 +30,6 @@ Though our Chorus is non-auditioning, you will need to come to our stall to sche
 This year our Freshers' Week Scratch Rehearsal is taking place in St. Peter&rsquo;s Church, with orchestra practising in the church itself and chorus in the church hall. There will be free tea, coffee, cake and biscuits to tickle your tastebuds and the rehearsals will take a pretty relaxed format.
 
 Afterwards we are hosting the famous EUMS Freshers' Week Ceilidh. Our favourite local ceilidh band will strike up all of the well-known tunes and love guiding everyone through dances you may recognise, and probably a few you don't. If you have never been to a ceilidh or aren't one for remembering dances then don't fret: the band call each dance and there will be lots of other people in the same shoes as you (including most of our current members).
-
-<a href="http://eums.eusa.ed.ac.uk/wp-content/uploads/images/h500/rehearsals/pleasance_01.jpg"><img class="centred" title="Puckering up for rehearsal..." src="http://eums.eusa.ed.ac.uk/wp-content/uploads/images/h500/rehearsals/pleasance_01.jpg" alt="Puckering up for rehearsal..." width="409" height="240" /></a>
 
 ### Ensemble rehearsals
 
