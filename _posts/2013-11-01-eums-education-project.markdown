@@ -46,8 +46,8 @@ of them playing in the orchestra in years to come&hellip;?"
 **Jamie MacDonald** - Trombone
 
 <div class="clearfix">
-<img class="aside" alt="brass" src="http://eums.eusa.ed.ac.uk/wp-content/uploads/2013/11/brass1-764x1024.jpeg" width="214" height="287" />
-<img class="aside" alt="woodwind" src="/assets/img/education-projects/woodwind.jpg" width="212" height="284">
+<img class="aside" alt="brass" src="/assets/img/education-projects/brass.jpg">
+<img class="aside" alt="woodwind" src="/assets/img/education-projects/woodwind.jpg">
 </div>
 
 "I really enjoyed playing in this year's education project. I loved playing the
