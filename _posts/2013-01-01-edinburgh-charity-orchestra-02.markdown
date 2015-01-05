@@ -1,25 +1,8 @@
 ---
 layout: post
-status: publish
 published: true
 title: 'Edinburgh Charity Orchestra: Brahms, Schumann & Beethoven'
-author:
-  display_name: Web Manager
-  login: eums_website
-  email: web@eums.org.uk
-  url: http://www.eums.org.uk
-author_login: eums_website
-author_email: web@eums.org.uk
-author_url: http://www.eums.org.uk
 wordpress_id: 2700
-wordpress_url: http://eums.eusa.ed.ac.uk/?p=2700
-date: '2013-01-01 00:05:13 -0800'
-date_gmt: '2013-01-01 00:05:13 -0800'
-categories:
-- Events
-- Upcoming Concerts
-tags: []
-comments: []
 ---
 
 <a title="buy tickets online" href="http://www.ticketsource.co.uk/edinburghcharityorchestra/">

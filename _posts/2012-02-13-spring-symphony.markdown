@@ -13,6 +13,4 @@ The orchestra will be performing three great works: Wagner's musically brilliant
 
 This concert sold out in our Winter Concert Series, so book early to avoid disappointment!
 
-To buy tickets, click the link below:
-
-<a title="buy tickets online" href="http://xtspro.com/-/eums20120310/"> <img src="http://eums.eusa.ed.ac.uk/wp-content/uploads/build/xtspro_largebutton.png" alt="Buy tickets online" width="620" height="220" border="0" /></a>
+*Ticket sales are now closed.*
