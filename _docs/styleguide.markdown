@@ -5,7 +5,13 @@
 Anything over 1MB should go into Google Drive. Anything in the "public" folder
 is visible to the whole internet, so be careful what you put there!
 
-When uploading a newsletter, add it to /newsletters/ as well as making a post.
+## Newsletters
+
+Should be uploaded to Google Drive, to docs/newsletters. When uploading a newsletter, add a link to it on the page /newsletters/ in addition to posting a new blog entry about it.
+
+## Concerts
+
+All posters should be uploaded to Google Drive, in the "posters" folder.
 
 ## HTML
 
@@ -36,9 +42,8 @@ with a better and more maintainable web page.
   in a new window (if that's what they want). If they are not aware of it, or
   if they were expecting the link to open in the same window, it will confuse
   or annoy them.
-* If linking to a page on the same domain, prefer to use a relative URL; that
-  is, one starting with `/`. This rule should not be broken unless you have a
-  very good reason.
+* Where appropriate, prefer to use a relative URL; that is, one starting with
+  `/`. This rule should not be broken unless you have a very good reason.
 * Avoid **ALL** JavaScript fuckery on links. The `onclick` attribute on an
   `<a>` element is absolutely off limits.
 
