@@ -5,9 +5,7 @@ title: Concert FAQs
 wordpress_id: 270
 ---
 
-<img src="http://eums.eusa.ed.ac.uk/wp-content/uploads/images/w620/audience.jpg" alt="">
-
-## Concerts: Frequently Asked Questions
+## Concerts: Frequently asked questions
 
 People often wonder what the rules are during a classical concert. When do you clap? What happens if you are late? Should you wear a bow-tie? As it happens there aren't really any rules, and people have just tended to do the same thing since the first music concerts many years ago...
 
