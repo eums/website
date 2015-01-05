@@ -1,31 +1,18 @@
 ---
 layout: post
-status: publish
 published: true
 title: Tour 2012 Announced!
-author:
-  display_name: Web Manager
-  login: eums_website
-  email: web@eums.org.uk
-  url: http://www.eums.org.uk
-author_login: eums_website
-author_email: web@eums.org.uk
-author_url: http://www.eums.org.uk
-excerpt: The details for Tour 2012 have been announced!
 wordpress_id: 1426
-wordpress_url: http://eums.eusa.ed.ac.uk/?p=1426
-date: '2011-11-25 11:57:55 -0800'
-date_gmt: '2011-11-25 11:57:55 -0800'
-categories:
-- News
-- Tour News
-tags: []
-comments: []
 ---
-<p>Next summer the Edinburgh University Music Society are venturing forth once more for our tour, and for 2012 we will be going into the heart of North Wales!</p></p>
-<p>The tour will feature two performances, and a first for Music Society Tours in the form of a day dedicated to appreciating the magnificent surroundings in which we will be staying. There will be loads of time to soak in/drink up the culture, and enough time in the coach for everyone to memorise every bus song in existence.</p></p>
-<p>We will be travelling from the 1st to the 5th of June and are looking at costs of around &pound;160 as an upper limit. I am sure you will agree is very reasonable for a four day tour but of course depends on attendance and knowing numbers early on. We will be looking for the first payments to be coming in at the start of January.</p></p>
-<p>Let us know if you are interested by returning the tear-off slip (<a title="Attendance Letter" href="http://eums.eusa.ed.ac.uk/wp-content/uploads/files/tour/2012_attendanceform.pdf" target="_blank">download here</a>) to us. Tour is a great way to get to know everyone and to present a front for the University outside Edinburgh. If you want any further information speak to one of the Tour Team (we will make ourselves known) or contact Ben, our Tour Manager, at tour@eums.org.uk.</p></p>
-<p><strong>Bring on Tour 2012!</strong></p></p>
-<p><strong>Love,<br />
-</strong><strong>The Tour Team</strong></p></p>
+
+Next summer the Edinburgh University Music Society are venturing forth once more for our tour, and for 2012 we will be going into the heart of North Wales!
+
+The tour will feature two performances, and a first for Music Society Tours in the form of a day dedicated to appreciating the magnificent surroundings in which we will be staying. There will be loads of time to soak in/drink up the culture, and enough time in the coach for everyone to memorise every bus song in existence.
+
+We will be travelling from the 1st to the 5th of June and are looking at costs of around &pound;160 as an upper limit. I am sure you will agree is very reasonable for a four day tour but of course depends on attendance and knowing numbers early on. We will be looking for the first payments to be coming in at the start of January.
+
+Let us know if you are interested by returning the tear-off slip to us. Tour is a great way to get to know everyone and to present a front for the University outside Edinburgh. If you want any further information speak to one of the Tour Team (we will make ourselves known) or contact Ben, our Tour Manager, at tour@eums.org.uk.
+
+**Bring on Tour 2012!<br>
+Love,<br>
+The Tour Team**
