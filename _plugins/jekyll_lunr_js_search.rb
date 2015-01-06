@@ -47,7 +47,7 @@ module Jekyll
             :body => entry.body
           }
 
-          Jekyll.logger.debug('Indexed ' << "#{entry.title} (#{entry.url})")
+          Jekyll.logger.info('Indexed ' << "#{entry.title} (#{entry.url})")
         end
 
         json = JSON.generate({:entries => index})
