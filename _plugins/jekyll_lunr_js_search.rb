@@ -26,7 +26,7 @@ module Jekyll
       # Index all pages except pages matching any value in config['lunr_excludes'] or with date['exclude_from_search']
       # The main content from each page is extracted and saved to disk as json
       def generate(site)
-        puts 'Running the search indexer...'
+        Jekyll.logger.info 'Running the search indexer...'
 
         # gather pages and posts
         items = pages_to_index(site)
@@ -47,7 +47,7 @@ module Jekyll
             :body => entry.body
           }
 
-          puts 'Indexed ' << "#{entry.title} (#{entry.url})"
+          Jekyll.logger.debug('Indexed ' << "#{entry.title} (#{entry.url})")
         end
 
         json = JSON.generate({:entries => index})
@@ -56,7 +56,7 @@ module Jekyll
         Dir::mkdir(site.dest) unless File.directory?(site.dest)
 
         # File I/O: create search.json file and write out pretty-printed JSON
-        filename = 'search-gen.json'
+        filename = 'search.json'
 
         File.open(File.join(site.dest, filename), "w") do |file|
           file.write(json)
@@ -95,15 +95,39 @@ module Jekyll
   module LunrJsSearch
     class PageRenderer
       def initialize(site)
-        @site = site
+        @site = remove_default_layouts(site)
       end
 
       # render the item, parse the output and get all text inside <p> elements
       def render(item)
-        item.render({}, @site.site_payload)
-        doc = Nokogiri::HTML(item.output)
+        i = remove_layout(item)
+        i.render({}, @site.site_payload)
+        doc = Nokogiri::HTML(i.output)
         paragraphs = doc.search('//text()').map {|t| t.content }
         paragraphs = paragraphs.join(" ").gsub("\r", " ").gsub("\n", " ").gsub("\t", " ").gsub(/\s+/, " ")
+      end
+
+      private
+      def remove_default_layouts(site)
+        s = site.dup
+        class << s.frontmatter_defaults
+          alias :old_valid_sets :valid_sets
+          def valid_sets
+            sets = old_valid_sets
+            # this is a gross hack. sorry everyone
+            sets.each do |set|
+              set['values'] && set['values'].delete('layout')
+            end
+          end
+        end
+        s
+      end
+
+      def remove_layout(item)
+        i = item.dup
+        i.data = i.data.dup
+        i.data.delete('layout')
+        i
       end
     end
   end
