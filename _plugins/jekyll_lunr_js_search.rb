@@ -95,14 +95,15 @@ module Jekyll
   module LunrJsSearch
     class PageRenderer
       def initialize(site)
-        @site = remove_default_layouts(site)
+        @site = site
+        # @site = remove_default_layouts(site)
       end
 
       # render the item, parse the output and get all text inside <p> elements
       def render(item)
-        i = remove_layout(item)
-        i.render({}, @site.site_payload)
-        doc = Nokogiri::HTML(i.output)
+        # i = remove_layout(item)
+        item.render({}, @site.site_payload)
+        doc = Nokogiri::HTML(item.output)
         paragraphs = doc.search('//text()').map {|t| t.content }
         paragraphs = paragraphs.join(" ").gsub("\r", " ").gsub("\n", " ").gsub("\t", " ").gsub(/\s+/, " ")
       end
@@ -115,9 +116,26 @@ module Jekyll
           def valid_sets
             sets = old_valid_sets
             # this is a gross hack. sorry everyone
-            sets.each do |set|
-              set['values'] && set['values'].delete('layout')
+            sets.map do |h|
+              recursive_delete_key(h, 'layout')
             end
+          end
+
+          def recursive_delete_key(h, key)
+            Hash[
+              h.map { |k, v|
+                v2 = case v
+                     when Hash
+                       recursive_delete_key(v, key)
+                     else
+                       v
+                     end
+
+                k.to_s == 'layout' ?
+                  nil : [k, v2]
+
+              }.compact
+            ]
           end
         end
         s
