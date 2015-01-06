@@ -11,4 +11,4 @@ Our workshops will be a sharing of musical styles &mdash; we'll learn some Afric
 
 Anyone and everyone is welcome along to these workshops - members of Music Society, family, friends, and anybody interested! Please arrive at 10.20am to be ready to start at 10.30am.
 
-Everyone who attends the workshops is also invited to a reception with the principal and vice principal to welcome Soweto to Edinburgh. We'll be performing at this hopefully as well as enjoying the food and wine. This is on the 14<sup>th</sup> from 6-7pm in Old College - more information on Tuesday. Please contact Julie Aitken, our Community Manager, with any questions at community@eums.org.uk.
+Everyone who attends the workshops is also invited to a reception with the principal and vice principal to welcome Soweto to Edinburgh. We'll be performing at this hopefully as well as enjoying the food and wine. This is on the 14<sup>th</sup> from 6-7pm in Old College - more information on Tuesday. Please contact Julie Aitken, our Community Outreach Manager, with any questions at community@eums.org.uk.
