@@ -122,10 +122,9 @@
         }
 
         .logo-text {
-            background-image: url(/assets/img/eums-logo-text.png);
+            @include svg-background('/assets/img/eums-logo-text.svg', '/assets/img/eums-logo-text.png');
             background-repeat: no-repeat;
-            /* copy dimensions from the image; for some reason it disappears unless
-             * these are present */
+            background-size: 354px 83px;
             width: 354px;
             height: 83px;
         }
