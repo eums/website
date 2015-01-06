@@ -30,7 +30,7 @@ Throughout the twentieth century the society took part in larger and more extrav
 
 ### The committee
 
-The society is run by an elected group of sixteen members known as the committee. These include our office bearers (the President, Secretary and Treasurer), Ensemble Managers and Librarians, Publicity Managers, Social Secretaries, Community Relations Manager, Tour Manager and our Sponsorship and Alumni Manager. Though the committee lead the organisation of the Society and its events, all members are encouraged to get involved, and many of our additional activities are organised by non-committee members.
+The society is run by an elected group of sixteen members known as the committee. These include our office bearers (the President, Secretary and Treasurer), Ensemble Managers and Librarians, Publicity Managers, Social Secretaries, Community Outreach Manager, Tour Manager and our Sponsorship and Alumni Manager. Though the committee lead the organisation of the Society and its events, all members are encouraged to get involved, and many of our additional activities are organised by non-committee members.
 
 To keep up to date with society goings-on and to have your say, join [our Members' Facebook group](https://facebook.com/groups/ed.music.society/) (this is different to the Facebook Page).
 
