@@ -28,7 +28,7 @@ Be it through being inspired by watching a concert or learning something new by 
 
 A great way to introduce your children to classical music is to bring them along to one of our concerts. Children are always welcome, and we are more than happy to have a chat with our audience at the interval or after the performance.
 
-If you're not sure who to speak to, ask for the Community Relations Manager and they'll be more than happy to introduce you to some of our musicians and singers. We are always enthusiastic to speak to interested aspiring musicians, young or old.  Who knows? The young musicians of today are undoubtedly the Edinburgh University Music Society of tomorrow.
+If you're not sure who to speak to, ask for the Community Outreach Manager and they'll be more than happy to introduce you to some of our musicians and singers. We are always enthusiastic to speak to interested aspiring musicians, young or old.  Who knows? The young musicians of today are undoubtedly the Edinburgh University Music Society of tomorrow.
 
 ### Drake Music Scotland
 

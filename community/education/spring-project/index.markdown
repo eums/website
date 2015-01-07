@@ -36,4 +36,4 @@ We hope to show the various members in our society (not just music students) tha
 
 <img src="/assets/img/enthralled-children.jpg" alt="Children watching intently">
 
-If you are interested in finding out more or in getting your school involved, then contact our Community Relations Manager at <a title="Email us" href="mailto:community@eums.org.uk">community@eums.org.uk</a> and we will be more than happy to discuss any opportunities further with you.
+If you are interested in finding out more or in getting your school involved, then contact our Community Outreach Manager at <a title="Email us" href="mailto:community@eums.org.uk">community@eums.org.uk</a> and we will be more than happy to discuss any opportunities further with you.

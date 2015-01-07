@@ -41,4 +41,4 @@ The Edinburgh University Music Society also perform carols across Edinburgh at v
 
 All of the charities we support we feel are fantastically worthwhile in their own right, but we also love to bring our vision of spreading music to these charities, be it through a musical fundraising event, or through making music more accessible to the users of these charities.
 
-If you are interested in how EUMS could get involved with your charity, or indeed working with us on a fundraising event, we'd love to hear from you: please email our Community Relations Manager at <a title="Email us" href="mailto:community@eums.org.uk">community@eums.org.uk</a>.
+If you are interested in how EUMS could get involved with your charity, or indeed working with us on a fundraising event, we'd love to hear from you: please email our Community Outreach Manager at <a title="Email us" href="mailto:community@eums.org.uk">community@eums.org.uk</a>.
