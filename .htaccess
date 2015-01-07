@@ -1,5 +1,5 @@
-AllowOverride None
-Options -ExecCGI
+# AllowOverride None
+Options -ExecCGI -Indexes
 
 <Files "assets/forever/*">
     Header Set Expires "Mon, 31 Dec 2035 12:00:00 GMT"
