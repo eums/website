@@ -1,4 +1,4 @@
-# AllowOverride None
+AllowOverride None
 Options -ExecCGI -Indexes
 
 <Files "assets/forever/*">
