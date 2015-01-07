@@ -29,6 +29,10 @@ defaults:
 lunr_search:
   strip_index_html: true
 
+assets:
+  dirname: assets/forever
+  baseurl: /assets/forever/
+
 prose:
   siteurl: "http://eums.dev.garrood.me"
   media: "assets/img"
