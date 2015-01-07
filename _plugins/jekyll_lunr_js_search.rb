@@ -72,29 +72,27 @@ class Indexer < Jekyll::Generator
     site.static_files << SearchIndexFile.new(site, site.dest, "/", filename)
   end
 
-private
-
+  private
   # load the stopwords file
   def stopwords
     @stopwords ||= IO.readlines(@stopwords_file).map { |l| l.strip }
   end
 
   def pages_to_index(site)
-    items = []
-
-    # deep copy pages
-    site.pages.each {|page| items << page.dup }
-    site.posts.each {|post| items << post.dup }
+    # Deep copy pages & posts
+    items = (site.pages + site.posts).map(&:dup)
 
     # only process files that will be converted to .html and only non excluded
     # files
-    items.select! {|i|
-      i.output_ext == '.html' &&
-        ! @excludes.any? {|s| (i.url =~ Regexp.new(s)) != nil }
+    items.select {|i|
+      i.output_ext == '.html' && !excluded?(i)
+    }.reject {|i|
+      i.data['exclude_from_search']
     }
-    items.reject! {|i| i.data['exclude_from_search'] }
+  end
 
-    items
+  def excluded?(item)
+    @excludes.any? {|s| item.url =~ Regexp.new(s) }
   end
 end
 
