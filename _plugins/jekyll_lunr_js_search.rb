@@ -123,33 +123,13 @@ class PageRenderer
 end
 
 class SearchEntry
-  def self.create(thing, renderer)
-    case thing
-    when Jekyll::Post
-      create_from_post(thing, renderer)
-    when Jekyll::Page
-      create_from_page(thing, renderer)
-    else
-      raise 'Not supported'
-    end
-  end
+  def self.create(item, renderer)
+    title, url = extract_title_and_url(item)
+    body       = renderer.render(item)
+    date       = item.respond_to?(:date) ? item.date : nil
+    categories = item.respond_to?(:categories) ? item.categories : nil
 
-  def self.create_from_page(page, renderer)
-    title, url = extract_title_and_url(page)
-    body = renderer.render(page)
-    date = nil
-    categories = []
-
-    SearchEntry.new(title, url, date, categories, body)
-  end
-
-  def self.create_from_post(post, renderer)
-    title, url = extract_title_and_url(post)
-    body = renderer.render(post)
-    date = post.date
-    categories = post.categories
-
-    SearchEntry.new(title, url, date, categories, body)
+    new(title, url, date, categories, body)
   end
 
   def self.extract_title_and_url(item)
