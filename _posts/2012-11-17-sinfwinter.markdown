@@ -5,7 +5,7 @@ title: 'EUMS Sinfonia: Winter Concert 2012'
 wordpress_id: 2561
 ---
 
-<a title="buy tickets online" href="http://www.ticketsource.co.uk/event/28650"> <img src="{{ site.external_assets }}/posters/20121124_sinf.jpg" alt="Concert poster" width="620" height="441" /></a>
+<img src="{{ site.external_assets }}/posters/20121124_sinf.jpg" alt="Concert poster">
 
 > "A nation creates music; the composer only arranges it."<br>
 > &mdash; Mikhail Glinka
@@ -20,4 +20,4 @@ Doors open at 7pm, and it is recommended that you arrive early to ensure that yo
 
 To buy tickets, click the link below:
 
-<a title="buy tickets online" href="http://www.ticketsource.co.uk/event/28650"> <img src="http://www.ticketsource.co.uk/images/buyTickets/buyTickets-medium.png" alt="Buy tickets online" width="118" height="88" border="0" /></a>
+<a title="buy tickets online" href="http://www.ticketsource.co.uk/event/28650"> <img class="centred" src="http://www.ticketsource.co.uk/images/buyTickets/buyTickets-medium.png" alt="Buy tickets online"></a>
