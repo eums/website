@@ -84,15 +84,12 @@ class Indexer < Jekyll::Generator
 
     # only process files that will be converted to .html and only non excluded
     # files
-    items.select {|i|
-      i.output_ext == '.html' && !excluded?(i)
-    }.reject {|i|
-      i.data['exclude_from_search']
-    }
+    items.select {|i| i.output_ext == '.html' && !excluded?(i) }
   end
 
   def excluded?(item)
-    @excludes.any? {|s| item.url =~ Regexp.new(s) }
+    @excludes.any? {|s| item.url =~ Regexp.new(s) } ||
+      item.data['exclude_from_search']
   end
 end
 
