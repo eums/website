@@ -2,5 +2,5 @@ AllowOverride None
 Options -ExecCGI
 
 <Files "assets/forever/*">
-    Header Expires "Mon, 31 Dec 2035 12:00:00 GMT"
+    Header Set Expires "Mon, 31 Dec 2035 12:00:00 GMT"
 </Files>
