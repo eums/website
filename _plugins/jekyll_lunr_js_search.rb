@@ -41,7 +41,7 @@ class Indexer < Jekyll::Generator
 
       entry.strip_index_suffix_from_url! if @strip_index_html
       if File.exists?(@stopwords_file)
-        entry.strip_stopwords!(stopwords, @min_length) 
+        entry.strip_stopwords!(stopwords, @min_length)
       end
 
       index << {
@@ -52,7 +52,7 @@ class Indexer < Jekyll::Generator
         :body => entry.body
       }
 
-      Jekyll.logger.info('Indexed ' << "#{entry.title} (#{entry.url})")
+      Jekyll.logger.debug('Indexed ' << "#{entry.title} (#{entry.url})")
     end
 
     json = JSON.generate({:entries => index})
@@ -99,55 +99,25 @@ end
 class PageRenderer
   def initialize(site)
     @site = site
-    # @site = remove_default_layouts(site)
   end
 
-  # render the item, parse the output and get all text inside <p> elements
-  def render(item)
-    # i = remove_layout(item)
+  # render the item, parse the output and get all text
+  def render(item_in)
+    item = remove_layout(item_in)
     item.render({}, @site.site_payload)
-    doc = Nokogiri::HTML(item.output)
-    paragraphs = doc.search('//text()').map {|t| t.content }
-    paragraphs = paragraphs.join(" ").gsub(/\s+/, " ")
+
+    Nokogiri::HTML(item.output).
+      search('//text()').
+      map {|t| t.content }.
+      join(" ").
+      gsub(/\s+/, " ")
   end
 
   private
-  def remove_default_layouts(site)
-    s = site.dup
-    class << s.frontmatter_defaults
-      alias :old_valid_sets :valid_sets
-      def valid_sets
-        sets = old_valid_sets
-        # this is a gross hack. sorry everyone
-        sets.map do |h|
-          recursive_delete_key(h, 'layout')
-        end
-      end
-
-      def recursive_delete_key(h, key)
-        Hash[
-          h.map { |k, v|
-            v2 = case v
-                 when Hash
-                   recursive_delete_key(v, key)
-                 else
-                   v
-                 end
-
-            k.to_s == 'layout' ?
-              nil : [k, v2]
-
-          }.compact
-        ]
-      end
-    end
-    s
-  end
-
   def remove_layout(item)
     i = item.dup
     i.data = i.data.dup
-    i.data.delete('layout')
+    i.data['layout'] = nil
     i
   end
 end
