@@ -25,38 +25,41 @@ class Indexer < Jekyll::Generator
 
   def generate_with_config(site, config)
     Jekyll.logger.info 'Running the search indexer...'
+    json = generate_search_index_json(site, config)
 
-    items = items_to_index(site, config['excludes'])
-    renderer = PageRenderer.new(site)
-    stopwords = get_stopwords(config['stopwords_file'])
-
-    index = items.map do |item|
-      entry = SearchEntry.create(item, renderer)
-
-      entry.strip_index_suffix_from_url! if config['strip_index_html']
-      entry.strip_stopwords!(stopwords, config['min_length'])
-
-      entry.to_hash
-    end
-
-    json = JSON.generate({:entries => index})
-
-    # Create destination directory if it doesn't exist yet. Otherwise, we
-    # cannot write our file there.
-    Dir::mkdir(site.dest) unless File.directory?(site.dest)
-
-    # File I/O: create search.json file and write out pretty-printed JSON
-    filename = 'search.json'
-
-    File.open(File.join(site.dest, filename), "w") do |file|
+    Dir.mkdir(site.dest) unless File.directory?(site.dest)
+    File.open(File.join(site.dest, index_filename), "w") do |file|
       file.write(json)
     end
 
     # Keep the search.json file from being cleaned by Jekyll
-    site.static_files << SearchIndexFile.new(site, site.dest, "/", filename)
+    site.static_files <<
+      SearchIndexFile.new(site, site.dest, "/", index_filename)
+
+    Jekyll.logger.info 'Search indexer complete.'
   end
 
   private
+  def index_filename
+    'search.json'
+  end
+
+  def generate_search_index_json(site, config)
+    index = generate_search_index(site, config)
+    JSON.generate({:entries => index})
+  end
+
+  def generate_search_index(site, config)
+    entry_creator = SearchEntryCreator.new(
+      PageRenderer.new(site),
+      get_stopwords(config['stopwords_file']),
+      config['strip_index_html'],
+      config['min_length'])
+
+    items_to_index(site, config['excludes']).
+      map { |item| entry_creator.create(item) }
+  end
+
   def get_stopwords(file)
     if file && File.exists?(file)
       IO.readlines(file).map(&:strip)
@@ -103,42 +106,45 @@ class PageRenderer
   end
 end
 
-class SearchEntry
-  def self.create(item, renderer)
-    title, url = extract_title_and_url(item)
-    body       = renderer.render(item)
-    date       = item.respond_to?(:date) ? item.date : nil
-    categories = item.respond_to?(:categories) ? item.categories : nil
+class SearchEntryCreator
+  attr_reader :renderer, :stopwords, :strip_index_html, :min_length
 
-    new(title, url, date, categories, body)
+  def initialize(renderer, stopwords, strip_index_html, min_length)
+    @renderer, @stopwords, @strip_index_html, @min_length =
+      renderer, stopwords, strip_index_html, min_length
   end
 
-  def self.extract_title_and_url(item)
-    data = item.to_liquid
-    [ data['title'], data['url'] ]
+  def create(item)
+    {
+      :title       => get_title(item),
+      :url         => get_url(item),
+      :body        => get_body(item),
+      :date        => try(item, :date),
+      :categories  => try(item, :categories),
+    }
   end
 
-  FIELDS = %i(title url date categories body)
-  attr_reader(*FIELDS)
-
-  def initialize(title, url, date, categories, body)
-    @title, @url, @date, @categories, @body = title, url, date, categories, body
+  def get_title(item)
+    item.to_liquid['title']
   end
 
-  def strip_index_suffix_from_url!
-    @url.gsub!(/index\.html$/, '')
+  def get_url(item)
+    l = item.to_liquid
+    self.strip_index_html ?
+      l['url'] : l['url'].gsub(/index\.html$/, '')
   end
 
-  # remove anything that is in the stop words list from the text to be indexed
-  def strip_stopwords!(stopwords, min_length)
-    @body = @body.split.delete_if { |x|
-      t = x.downcase.gsub(/[^a-z]/, '')
-      t.length < min_length || stopwords.include?(t)
-    }.join(' ')
+  def get_body(item)
+    self.renderer.render(item).
+      split.reject { |x|
+        word = x.downcase.gsub(/[^a-z]/, '')
+        word.length < self.min_length || self.stopwords.include?(word)
+      }.join(' ')
   end
 
-  def to_hash
-    Hash[FIELDS.map {|f| [f, public_send(f)] }]
+  private
+  def try(obj, meth)
+    obj.public_send(meth) if obj.respond_to?(meth)
   end
 end
 
