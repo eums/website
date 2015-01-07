@@ -8,51 +8,35 @@ class Indexer < Jekyll::Generator
   def initialize(config = {})
     super(config)
 
-    lunr_config = {
+    @lunr_config = {
       'excludes' => [],
       'strip_index_html' => false,
       'min_length' => 3,
       'stopwords' => 'stopwords.txt'
-    }.merge!(config['lunr_search'] || {})
-
-    @excludes = lunr_config['excludes']
-
-    # if web host supports index.html as default doc, then optionally exclude
-    # it from the url
-    @strip_index_html = lunr_config['strip_index_html']
-
-    @min_length = lunr_config['min_length']
-    @stopwords_file = lunr_config['stopwords']
+    }.merge(config['lunr_search'] || {})
   end
 
   # Index all pages except pages matching any value in config['lunr_excludes']
   # or with date['exclude_from_search']
   # The main content from each page is extracted and saved to disk as json
   def generate(site)
+    generate_with_config(site, @lunr_config)
+  end
+
+  def generate_with_config(site, config)
     Jekyll.logger.info 'Running the search indexer...'
 
-    # gather pages and posts
-    items = pages_to_index(site)
-    content_renderer = PageRenderer.new(site)
-    index = []
+    items = items_to_index(site, config['excludes'])
+    renderer = PageRenderer.new(site)
+    stopwords = get_stopwords(config['stopwords_file'])
 
-    items.each do |item|
-      entry = SearchEntry.create(item, content_renderer)
+    index = items.map do |item|
+      entry = SearchEntry.create(item, renderer)
 
-      entry.strip_index_suffix_from_url! if @strip_index_html
-      if File.exists?(@stopwords_file)
-        entry.strip_stopwords!(stopwords, @min_length)
-      end
+      entry.strip_index_suffix_from_url! if config['strip_index_html']
+      entry.strip_stopwords!(stopwords, config['min_length'])
 
-      index << {
-        :title => entry.title,
-        :url => entry.url,
-        :date => entry.date,
-        :categories => entry.categories,
-        :body => entry.body
-      }
-
-      Jekyll.logger.debug('Indexed ' << "#{entry.title} (#{entry.url})")
+      entry.to_hash
     end
 
     json = JSON.generate({:entries => index})
@@ -73,22 +57,22 @@ class Indexer < Jekyll::Generator
   end
 
   private
-  # load the stopwords file
-  def stopwords
-    @stopwords ||= IO.readlines(@stopwords_file).map { |l| l.strip }
+  def get_stopwords(file)
+    if file && File.exists?(file)
+      IO.readlines(file).map(&:strip)
+    else
+      []
+    end
   end
 
-  def pages_to_index(site)
-    # Deep copy pages & posts
-    items = (site.pages + site.posts).map(&:dup)
-
-    # only process files that will be converted to .html and only non excluded
-    # files
-    items.select {|i| i.output_ext == '.html' && !excluded?(i) }
+  def items_to_index(site, excludes)
+    (site.pages + site.posts).
+      map(&:dup).
+      select {|i| i.output_ext == '.html' && !excluded?(i, excludes) }
   end
 
-  def excluded?(item)
-    @excludes.any? {|s| item.url =~ Regexp.new(s) } ||
+  def excluded?(item, excludes)
+    excludes.any? {|e| item.url =~ Regexp.new(e) } ||
       item.data['exclude_from_search']
   end
 end
@@ -134,7 +118,8 @@ class SearchEntry
     [ data['title'], data['url'] ]
   end
 
-  attr_reader :title, :url, :date, :categories, :body
+  FIELDS = %i(title url date categories body)
+  attr_reader(*FIELDS)
 
   def initialize(title, url, date, categories, body)
     @title, @url, @date, @categories, @body = title, url, date, categories, body
@@ -150,6 +135,10 @@ class SearchEntry
       t = x.downcase.gsub(/[^a-z]/, '')
       t.length < min_length || stopwords.include?(t)
     }.join(' ')
+  end
+
+  def to_hash
+    Hash[FIELDS.map {|f| [f, public_send(f)] }]
   end
 end
 
