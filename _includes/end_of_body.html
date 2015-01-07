@@ -1,4 +1,5 @@
-<script src="/assets/js/search.min.js" type="text/javascript"></script>
+{% javascript search %}
+
 <script type="text/javascript">
 function go(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}
 
@@ -8,33 +9,6 @@ $(document).ready(function() {
         go(document, "script", "twitter-wjs")
     }
 })
-</script>
-
-{% raw %}
-<script id="search-results-template" type="text/mustache">
-  {{#entries}}
-    <article>
-      <h3>
-        <a href="{{url}}">{{title}}</a>
-        {{#date}}<small><em><time datetime="{{pubdate}}" pubdate>{{displaydate}}</time></em></small>{{/date}}
-      </h3>
-    </article>
-  {{/entries}}
-</script>
-{% endraw %}
-
-<div id="search-query"></div>
-<script type="text/javascript">
-  $(function() {
-    if (window.searchActive) {
-      $('#search-query').lunrSearch({
-        indexUrl: '/search.json',
-        results:  '#search-results',
-        entries:  '#search-entries',
-        template: '#search-results-template'
-      });
-    }
-  });
 </script>
 
 {% if site.enable_analytics %}
@@ -47,4 +21,8 @@ $(document).ready(function() {
   ga('create', '{{ site.google_analytics_id }}', 'auto');
   ga('send', 'pageview');
 </script>
+{% endif %}
+
+{% if page.include_search_footer %}
+{% include search_footer.html %}
 {% endif %}

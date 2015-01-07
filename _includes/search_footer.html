@@ -1,0 +1,25 @@
+{% raw %}
+<script id="search-results-template" type="text/mustache">
+  {{#entries}}
+    <article>
+      <h3>
+        <a href="{{url}}">{{title}}</a>
+        {{#date}}<small><em><time datetime="{{pubdate}}" pubdate>{{displaydate}}</time></em></small>{{/date}}
+      </h3>
+    </article>
+  {{/entries}}
+</script>
+{% endraw %}
+
+<div id="search-query"></div>
+<script type="text/javascript">
+  $(function() {
+    $('#search-query').lunrSearch({
+      indexUrl: '/search.json',
+      results:  '#search-results',
+      entries:  '#search-entries',
+      template: '#search-results-template'
+    });
+  });
+</script>
+

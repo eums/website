@@ -11,13 +11,10 @@
     <link rel="alternate" href="/feed.xml" type="application/rss+xml" title="EUMS feed">
 
     <!--[if lt IE 9]>
-        <script src="/assets/js/html5shiv.min.js"></script>
-        <script src="/assets/js/css3-mediaqueries.js"></script>
-        <script src="/assets/js/augment.min.js"></script>
+        {% javascript lt_ie_9 %}
     <![endif]-->
 
-    <link rel="stylesheet" href="/assets/css/normalize.css">
-    <link rel="stylesheet" href="/assets/css/main.css">
+    {% stylesheet application %}
   </head>
   <body>
 	{% include header.html %}
