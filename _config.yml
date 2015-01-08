@@ -37,7 +37,7 @@ assets:
   gzip: false
 
 prose:
-  siteurl: "http://eums.dev.garrood.me"
+  siteurl: "http://dev.eums.org.uk"
   media: "assets/img"
   metadata:
     _posts:
