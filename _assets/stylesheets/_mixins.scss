@@ -5,3 +5,13 @@
 
     background-repeat: no-repeat;
 }
+
+@mixin animation($name, $duration, $iteration-count, $timing-function) {
+    -webkit-animation: $name $duration $iteration-count $timing-function;
+            animation: $name $duration $iteration-count $timing-function;
+}
+
+@mixin animation-delay($delay) {
+    -webkit-animation-delay: $delay;
+            animation-delay: $delay;
+}

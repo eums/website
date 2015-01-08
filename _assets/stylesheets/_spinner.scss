@@ -1,0 +1,47 @@
+
+.spinner-wave {
+    margin: 0 auto;
+    padding-top: 3em;
+    width: 3.5em;
+    height: 3em;
+    text-align: center;
+}
+
+.spinner-wave > div {
+    background-color: #333;
+    height: 100%;
+    width: 0.3em;
+    display: inline-block;
+
+    @include animation(wave, 1.2s, infinite, ease-in-out);
+}
+
+.spinner-wave div:nth-child(2) {
+    @include animation-delay(-1.1s);
+}
+
+.spinner-wave div:nth-child(3) {
+    @include animation-delay(-1.0s);
+}
+
+.spinner-wave div:nth-child(4) {
+    @include animation-delay(-0.9s);
+}
+
+.spinner-wave div:nth-child(5) {
+    @include animation-delay(-0.8s);
+}
+
+.spinner-wave div:nth-child(6) {
+    @include animation-delay(-0.7s);
+}
+
+@-webkit-keyframes wave {
+    0%, 40%, 100% { -webkit-transform: scaleY(0.4) }
+    20% { -webkit-transform: scaleY(1.0) }
+}
+
+@keyframes wave {
+    0%, 40%, 100% { transform: scaleY(0.4); }
+    20% { transform: scaleY(1.0); }
+}
