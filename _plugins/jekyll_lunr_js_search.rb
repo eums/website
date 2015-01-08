@@ -114,7 +114,7 @@ class SearchEntryCreator
       "title"       => get_title(item),
       "url"         => get_url(item),
       "body"        => get_body(item),
-      "date"        => get_date(item), 
+      "date"        => get_date(item),
       "categories"  => Utils.try(item, :categories),
     }
   end
@@ -140,7 +140,7 @@ class SearchEntryCreator
   def get_date(item)
     date = Utils.try(item, :date)
     if date
-      { 
+      {
         "displaydate" => date.strftime('%b %d, %Y'),
         "pubdate" => date.iso8601
       }
