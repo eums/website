@@ -78,20 +78,52 @@ function asyncMap(array, fn, callback) {
   parallel(fns, callback)
 }
 
-var localStorageCache = (function() {
+// Cache arbitrary values in localStorage.
+function localStorageCache(serialize, unserialize) {
     var cacheKey = '__jekyll_lunr_search_database'
     var cacheGet = function() {
         try {
-            return JSON.parse(window.localStorage[cacheKey])
+            return unserialize(window.localStorage[cacheKey])
         } catch(e) {
             return null
         }
     }
     var cacheSet = function(value) {
-        window.localStorage[cacheKey] = JSON.stringify(value)
+        window.localStorage[cacheKey] = serialize(value)
     }
 
     return { get: cacheGet, set: cacheSet }
+}
+
+// Return a serialized database, in a suitable form for calling JSON.stringify
+// on.
+function databaseToJSON(db) {
+    return { documents: db.documents, index: db.index.toJSON() }
+}
+
+// Given a serialized database, load it into a database object.
+function loadDatabase(obj) {
+    return { documents: obj.documents, index: lunr.Index.load(obj.index) }
+}
+
+var databaseCache = (function() {
+    var serialize = function(cacheEntry) {
+        var object =
+            { lastModified: cacheEntry.lastModified,
+              value: databaseToJSON(cacheEntry.value)
+            }
+        return JSON.stringify(object)
+    }
+
+    var unserialize = function(string) {
+        var object = JSON.parse(string)
+        return {
+            lastModified: object.lastModified,
+            value: loadDatabase(object.value)
+        }
+    }
+
+    return localStorageCache(serialize, unserialize)
 })()
 
 // Builds the search database from the document array, and then calls a
@@ -126,10 +158,17 @@ function getJSON(url, ifModifiedSince, onOk, onNotModified) {
     request.onreadystatechange = function() {
         if (this.readyState === 4) {
             if (this.status === 304) {
+                console.log('getJSON: 304 Not Modified')
                 onNotModified()
             } else if (this.status >= 200 && this.status < 400) {
                 var lastModified = this.getResponseHeader('Last-Modified')
-                onOk(lastModified, JSON.parse(this.responseText))
+                if (ifModifiedSince === lastModified) {
+                    console.log('getJSON: 200 OK but it wasn\'t modified')
+                    onNotModified()
+                } else {
+                    console.log('getJSON: 200 OK')
+                    onOk(lastModified, JSON.parse(this.responseText))
+                }
             } else {
                 throw new Error(
                     'getJSON failed. HTTP status was: ' + this.status)
@@ -173,7 +212,7 @@ function getJSONWithCache(cache, url, expensiveFn, callback) {
 
 // Now with caching!
 function getSearchDatabase(url, callback) {
-    getJSONWithCache(localStorageCache, url, buildSearchDatabase, callback)
+    getJSONWithCache(databaseCache, url, buildSearchDatabase, callback)
 }
 
 function createLunrIndex() {
