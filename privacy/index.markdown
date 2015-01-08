@@ -22,7 +22,7 @@ Collecting this information is necessary for us to:
 
 ### Credit card details
 
-We do **not** collect or store any of your credit or debit card information.  When you buy tickets online, the payment is processed securely by TicketSource Limited.
+We do **not** collect or store any of your credit or debit card information, other than the last 4 digits of the card number. When you buy tickets online, the payment is processed securely by TicketSource Limited.
 
 ### Where your data is stored
 
