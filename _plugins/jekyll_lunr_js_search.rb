@@ -2,7 +2,7 @@ require 'json'
 require 'nokogiri'
 
 module Jekyll::LunrJsSearch
-VERSION = "0.1.1"
+VERSION = '0.1.1'
 
 class Indexer < Jekyll::Generator
   def initialize(config = {})
@@ -24,19 +24,19 @@ class Indexer < Jekyll::Generator
   end
 
   def generate_with_config(site, config)
-    Jekyll.logger.info 'Running the search indexer...'
+    Jekyll.logger.info 'Lunr:', 'building search index...'
     json = generate_search_index_json(site, config)
 
     Dir.mkdir(site.dest) unless File.directory?(site.dest)
-    File.open(File.join(site.dest, index_filename), "w") do |file|
+    File.open(File.join(site.dest, index_filename), 'w') do |file|
       file.write(json)
     end
 
     # Keep the search.json file from being cleaned by Jekyll
     site.static_files <<
-      SearchIndexFile.new(site, site.dest, "/", index_filename)
+      SearchIndexFile.new(site, site.dest, '/', index_filename)
 
-    Jekyll.logger.info 'Search indexer complete.'
+    Jekyll.logger.info 'Lunr:', 'search index done.'
   end
 
   private
@@ -95,8 +95,8 @@ class ItemRenderer
     Nokogiri::HTML(item.output).
       search('//text()').
       map {|t| t.content }.
-      join(" ").
-      gsub(/\s+/, " ")
+      join(' ').
+      gsub(/\s+/, ' ')
   end
 
   private
@@ -118,11 +118,11 @@ class SearchEntryCreator
 
   def create(item)
     {
-      :title       => get_title(item),
-      :url         => get_url(item),
-      :body        => get_body(item),
-      :date        => Utils.try(item, :date),
-      :categories  => Utils.try(item, :categories),
+      "title"       => get_title(item),
+      "url"         => get_url(item),
+      "body"        => get_body(item),
+      "date"        => Utils.try(item, :date),
+      "categories"  => Utils.try(item, :categories),
     }
   end
 
