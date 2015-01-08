@@ -14,7 +14,7 @@ function looksLikeAttributes(obj) {
   return typeof obj === 'object' && !(obj instanceof HTMLElement)
 }
 
-function isHtmlElement(obj) {
+function looksLikeHtmlElement(obj) {
   return obj && obj.nodeType !== undefined
 }
 
@@ -34,7 +34,7 @@ exports.tag = function tag() {
 
   while (args.length > 0) {
     var child = args.shift()
-    if (isHtmlElement(child)) {
+    if (looksLikeHtmlElement(child)) {
       el.appendChild(child)
     } else if (typeof child === 'string') {
       var textNode = document.createTextNode(child)
