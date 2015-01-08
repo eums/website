@@ -1,5 +1,3 @@
-{% javascript search %}
-
 <script type="text/javascript">
 var onLoadFunctions = []
 function addOnLoad(fn) {
@@ -8,7 +6,11 @@ function addOnLoad(fn) {
 window.onload = function() {
     onLoadFunctions.forEach(function(fn) { fn() })
 }
+</script>
 
+{% javascript search %}
+
+<script type="text/javascript">
 // twitter
 function startTwitter(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}
 
