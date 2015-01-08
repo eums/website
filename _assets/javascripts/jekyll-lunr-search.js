@@ -59,7 +59,6 @@ var nextTick = (function() {
 function parallel(fns, callback) {
   var length = fns.length
   var complete = 0
-  var i = 0
 
   fns.map(function(fn) {
     nextTick(function() {
