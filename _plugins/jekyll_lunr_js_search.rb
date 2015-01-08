@@ -51,7 +51,7 @@ class Indexer < Jekyll::Generator
 
   def generate_search_index(site, config)
     entry_creator = SearchEntryCreator.new(
-      PageRenderer.new(site),
+      ItemRenderer.new(site),
       get_stopwords(config['stopwords_file']),
       config['strip_index_html'],
       config['min_length'])
@@ -82,7 +82,7 @@ class Indexer < Jekyll::Generator
   end
 end
 
-class PageRenderer
+class ItemRenderer
   def initialize(site)
     @site = site
   end
