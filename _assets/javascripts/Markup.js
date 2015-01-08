@@ -11,39 +11,43 @@ function partial(fn, arg) {
 }
 
 function looksLikeAttributes(obj) {
-    return (typeof obj === 'object' && !(obj instanceof HTMLElement))
+  return typeof obj === 'object' && !(obj instanceof HTMLElement)
+}
+
+function isHtmlElement(obj) {
+  return obj && obj.nodeType !== undefined
 }
 
 exports.tag = function tag() {
-    var args = Array.prototype.slice.call(arguments)
-    var tagName = args.shift()
-    var el = document.createElement(tagName)
+  var args = Array.prototype.slice.call(arguments)
+  var tagName = args.shift()
+  var el = document.createElement(tagName)
 
-    if (looksLikeAttributes(args[0])) {
-        var attrs = args.shift()
-        for (var prop in attrs) {
-          if (attrs.hasOwnProperty(prop)) {
-            el.setAttribute(prop, attrs[prop])
-          }
-        }
+  if (looksLikeAttributes(args[0])) {
+    var attrs = args.shift()
+    for (var prop in attrs) {
+      if (attrs.hasOwnProperty(prop)) {
+        el.setAttribute(prop, attrs[prop])
+      }
     }
+  }
 
-    while (args.length > 0) {
-        var child = args.shift()
-        if (child instanceof HTMLElement) {
-            el.appendChild(child)
-        } else if (typeof child === 'string') {
-            var textNode = document.createTextNode(child)
-            el.appendChild(textNode)
-        } else if (child === null) {
-            // no-op
-        } else {
-            throw new Error(
-                'Markup.tag: Don\'t know what to do with this object')
-        }
+  while (args.length > 0) {
+    var child = args.shift()
+    if (isHtmlElement(child)) {
+      el.appendChild(child)
+    } else if (typeof child === 'string') {
+      var textNode = document.createTextNode(child)
+      el.appendChild(textNode)
+    } else if (child === null) {
+      // no-op
+    } else {
+      throw new Error(
+          'Markup.tag: Don\'t know what to do with this object')
     }
+  }
 
-    return el
+  return el
 }
 
 var tagNames = ['article', 'h3', 'a', 'small', 'em', 'time', 'p']
