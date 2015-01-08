@@ -270,6 +270,27 @@ function setSearchHeaderText(elId, query) {
     el.appendChild(textNode)
 }
 
+// Keep calling a function with the given interval until it has finished. The
+// passed function can signal that it is finished by calling the callback that
+// it is passed.
+//
+// Make sure the function you pass is idempotent!
+//
+// This appears to be necessary because IE sometimes gets bored and gives up
+// halfway through.
+function retry(interval, fn) {
+    var done = function() {
+        if (done.intervalID) {
+            clearInterval(done.intervalID)
+        } else {
+            setTimeout(done, intervalID)
+        }
+    }
+
+    var intervalID = setInterval(function() { fn(done) }, interval)
+    done.intervalID = intervalID
+}
+
 // Configuration:
 //  formSelector:
 //      A CSS selector referencing every <form> on the page, so that the query
@@ -284,16 +305,20 @@ function setSearchHeaderText(elId, query) {
 //  headerId:
 //      The id of the HTML element to change the innerText of. Default
 function main(config) {
-    var query = getQueryString('q')
-    if (query) {
-        setValues(config.formSelector, query)
-        setSearchHeaderText(config.headerId, query)
-        getSearchDatabase(config.jsonUrl, function(db) {
-            runQuery(db, query, function(results) {
-                displayResults(config.template, config.containerId, results)
-            })
+  var query = getQueryString('q')
+  if (query) {
+    setValues(config.formSelector, query)
+    setSearchHeaderText(config.headerId, query)
+
+    retry(1000, function(done) {
+      getSearchDatabase(config.jsonUrl, function(db) {
+        runQuery(db, query, function(results) {
+          displayResults(config.template, config.containerId, results)
+          done()
         })
-    }
+      })
+    })
+  }
 }
 
 return main
