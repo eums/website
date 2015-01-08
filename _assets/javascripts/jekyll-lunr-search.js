@@ -78,13 +78,27 @@ function asyncMap(array, fn, callback) {
   parallel(fns, callback)
 }
 
-function getSearchDatabase(url, callback) {
-    getJSON(url, function(data) {
-        buildSearchDatabase(data, callback)
-    })
-}
+var localStorageCache = (function() {
+    var cacheKey = '__jekyll_lunr_search_database'
+    var cacheGet = function() {
+        try {
+            return JSON.parse(window.localStorage[cacheKey])
+        } catch(e) {
+            return null
+        }
+    }
+    var cacheSet = function(value) {
+        window.localStorage[cacheKey] = JSON.stringify(value)
+    }
 
+    return { get: cacheGet, set: cacheSet }
+})()
+
+// Builds the search database from the document array, and then calls a
+// callback with the result. This function should always return the same result
+// for the same input.
 function buildSearchDatabase(data, callback) {
+    console.log('building search db...')
     var index = createLunrIndex()
     var documents = {}
 
@@ -102,14 +116,20 @@ function buildSearchDatabase(data, callback) {
 
 // Perform an AJAX request, attempt to parse the returned JSON, and call the
 // callback with the result.
-function getJSON(url, callback) {
+function getJSON(url, ifModifiedSince, onOk, onNotModified) {
     var request = new XMLHttpRequest()
     request.open('GET', url, true)
+    if (ifModifiedSince) {
+        request.setRequestHeader('If-Modified-Since', ifModifiedSince)
+    }
 
     request.onreadystatechange = function() {
         if (this.readyState === 4) {
-            if (this.status >= 200 && this.status < 400) {
-                callback(JSON.parse(this.responseText))
+            if (this.status === 304) {
+                onNotModified()
+            } else if (this.status >= 200 && this.status < 400) {
+                var lastModified = this.getResponseHeader('Last-Modified')
+                onOk(lastModified, JSON.parse(this.responseText))
             } else {
                 throw new Error(
                     'getJSON failed. HTTP status was: ' + this.status)
@@ -119,6 +139,41 @@ function getJSON(url, callback) {
 
     request.send()
     request = null
+}
+
+// Given:
+//
+// * an arbitrary caching mechanism that can store a single value
+// * A URL pointing to a JSON object, that might change over time
+// * an expensive computation that always gives the same result for the same
+//   input
+// * a callback that should eventually be called with the result
+//
+// Then use the HTTP Last-Modified / If-Modified-Since mechanism in order to
+// only perform the expensive computation on the object when it has changed.
+function getJSONWithCache(cache, url, expensiveFn, callback) {
+    var cached = cache.get()
+    var ifModifiedSince = cached && cached.lastModified
+
+    var onOk = function(lastModified, responseObject) {
+        nextTick(function() {
+            expensiveFn(responseObject, function(result) {
+                cache.set({ lastModified: lastModified, value: result })
+                callback(result)
+            })
+        })
+    }
+
+    var onNotModified = function() {
+        nextTick(function() { callback(cached.value) })
+    }
+
+    getJSON(url, ifModifiedSince, onOk, onNotModified)
+}
+
+// Now with caching!
+function getSearchDatabase(url, callback) {
+    getJSONWithCache(localStorageCache, url, buildSearchDatabase, callback)
 }
 
 function createLunrIndex() {
