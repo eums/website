@@ -56,7 +56,9 @@ class Indexer < Jekyll::Generator
       config['strip_index_html'],
       config['min_length'])
 
-    items_to_index(site, config['excludes']).
+    excludes = Utils.as_array(config['excludes'])
+
+    items_to_index(site, excludes).
       map { |item| entry_creator.create(item) }
   end
 
@@ -119,8 +121,8 @@ class SearchEntryCreator
       :title       => get_title(item),
       :url         => get_url(item),
       :body        => get_body(item),
-      :date        => try(item, :date),
-      :categories  => try(item, :categories),
+      :date        => Utils.try(item, :date),
+      :categories  => Utils.try(item, :categories),
     }
   end
 
@@ -143,15 +145,24 @@ class SearchEntryCreator
   end
 
   private
-  def try(obj, meth)
-    obj.public_send(meth) if obj.respond_to?(meth)
-  end
 end
 
 class SearchIndexFile < Jekyll::StaticFile
   # Override write as the search.json index file has already been created
   def write(dest)
     true
+  end
+end
+
+module Utils
+  extend self
+
+  def try(obj, meth)
+    obj.public_send(meth) if obj.respond_to?(meth)
+  end
+
+  def as_array(obj)
+    obj.is_a?(Array) ? obj : [obj]
   end
 end
 
