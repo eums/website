@@ -126,7 +126,7 @@ class SearchEntryCreator
   def get_url(item)
     l = item.to_liquid
     self.strip_index_html ?
-      l['url'] : l['url'].gsub(/index\.html$/, '')
+      l['url'].gsub(/index\.html$/, '') : l['url']
   end
 
   def get_body(item)
