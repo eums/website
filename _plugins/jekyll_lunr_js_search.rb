@@ -27,14 +27,8 @@ class Indexer < Jekyll::Generator
     Jekyll.logger.info 'Lunr:', 'building search index...'
     json = generate_search_index_json(site, config)
 
-    Dir.mkdir(site.dest) unless File.directory?(site.dest)
-    File.open(File.join(site.dest, index_filename), 'w') do |file|
-      file.write(json)
-    end
-
-    # Keep the search.json file from being cleaned by Jekyll
-    site.static_files <<
-      SearchIndexFile.new(site, site.dest, '/', index_filename)
+    site.static_files << SearchIndexFile.new(
+                            json, site, site.dest, '/', index_filename)
 
     Jekyll.logger.info 'Lunr:', 'search index done.'
   end
@@ -148,8 +142,20 @@ class SearchEntryCreator
 end
 
 class SearchIndexFile < Jekyll::StaticFile
-  # Override write as the search.json index file has already been created
+  def initialize(data, *args)
+    @search_json_data = data
+    super(*args)
+  end
+
   def write(dest)
+    dest_path = destination(dest)
+    return false if File.exist?(dest_path) and !modified?
+
+    @@mtimes[path] = mtime
+
+    FileUtils.mkdir_p(File.dirname(dest_path))
+    File.write(dest_path, @search_json_data)
+
     true
   end
 end
