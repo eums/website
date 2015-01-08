@@ -33,7 +33,7 @@ assets:
   dirname: assets/forever
   baseurl: /assets/forever/
   css_compressor: sass
-  # js_compressor: uglifier
+  js_compressor: uglifier
   gzip: false
 
 prose:

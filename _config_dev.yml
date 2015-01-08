@@ -1,0 +1,6 @@
+assets:
+  dirname: assets/forever
+  baseurl: /assets/forever/
+  js_compressor: null
+  css_compressor: null
+  gzip: false
