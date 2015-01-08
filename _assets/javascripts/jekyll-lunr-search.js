@@ -204,14 +204,14 @@ function getJSONWithCache(cache, url, expensiveFn, callback) {
                     cache.set({ lastModified: lastModified, value: result })
                     console.log('result stored in cache.')
                 }, 1000)
-                nextTick(function() { callback(result) })
+                callback(result)
             })
         })
     }
 
     var onNotModified = function() {
         console.log('getJSONWithCache: cache hit!')
-        nextTick(function() { callback(cached.value) })
+        callback(cached.value)
     }
 
     getJSON(url, ifModifiedSince, onOk, onNotModified)
