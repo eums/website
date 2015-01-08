@@ -11,8 +11,6 @@ class Indexer < Jekyll::Generator
     @lunr_config = {
       'excludes' => [],
       'strip_index_html' => false,
-      'min_length' => 3,
-      'stopwords' => 'stopwords.txt'
     }.merge(config['lunr_search'] || {})
   end
 
@@ -45,22 +43,12 @@ class Indexer < Jekyll::Generator
   def generate_search_index(site, config)
     entry_creator = SearchEntryCreator.new(
       ItemRenderer.new(site),
-      get_stopwords(config['stopwords_file']),
-      config['strip_index_html'],
-      config['min_length'])
+      config['strip_index_html'])
 
     excludes = Utils.as_array(config['excludes'])
 
     items_to_index(site, excludes).
       map { |item| entry_creator.create(item) }
-  end
-
-  def get_stopwords(file)
-    if file && File.exists?(file)
-      IO.readlines(file).map(&:strip)
-    else
-      []
-    end
   end
 
   def items_to_index(site, excludes)
@@ -102,11 +90,10 @@ class ItemRenderer
 end
 
 class SearchEntryCreator
-  attr_reader :renderer, :stopwords, :strip_index_html, :min_length
+  attr_reader :renderer, :strip_index_html
 
-  def initialize(renderer, stopwords, strip_index_html, min_length)
-    @renderer, @stopwords, @strip_index_html, @min_length =
-      renderer, stopwords, strip_index_html, min_length
+  def initialize(renderer, strip_index_html)
+    @renderer, @strip_index_html = renderer, strip_index_html
   end
 
   def create(item)
@@ -130,11 +117,7 @@ class SearchEntryCreator
   end
 
   def get_body(item)
-    self.renderer.render(item).
-      split.reject { |x|
-        word = x.downcase.gsub(/[^a-z]/, '')
-        word.length < self.min_length || self.stopwords.include?(word)
-      }.join(' ')
+    self.renderer.render(item)
   end
 
   def get_date(item)
