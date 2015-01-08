@@ -197,13 +197,20 @@ function getJSONWithCache(cache, url, expensiveFn, callback) {
     var onOk = function(lastModified, responseObject) {
         nextTick(function() {
             expensiveFn(responseObject, function(result) {
-                cache.set({ lastModified: lastModified, value: result })
-                callback(result)
+                setTimeout(function() {
+                    // this is expensive because of the lunr index
+                    // serialization, so do it a second later
+                    console.log('storing result in cache...')
+                    cache.set({ lastModified: lastModified, value: result })
+                    console.log('result stored in cache.')
+                }, 1000)
+                nextTick(function() { callback(result) })
             })
         })
     }
 
     var onNotModified = function() {
+        console.log('getJSONWithCache: cache hit!')
         nextTick(function() { callback(cached.value) })
     }
 
