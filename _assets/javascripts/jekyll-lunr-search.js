@@ -100,7 +100,8 @@ function buildSearchDatabase(data, callback) {
     asyncMap(data, addToIndex, done)
 }
 
-// Perform an AJAX request, attempt to parse the returned JSON, a
+// Perform an AJAX request, attempt to parse the returned JSON, and call the
+// callback with the result.
 function getJSON(url, callback) {
     var request = new XMLHttpRequest()
     request.open('GET', url, true)
