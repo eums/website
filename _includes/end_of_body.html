@@ -1,14 +1,35 @@
 {% javascript search %}
 
 <script type="text/javascript">
-function go(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}
+var onLoadFunctions = []
+function addOnLoad(fn) {
+   onLoadFunctions.push(fn)
+}
+window.onload = function() {
+    onLoadFunctions.forEach(function(fn) { fn() })
+}
 
-$(document).ready(function() {
-    var display = $('.col-two').css('display')
+// twitter
+function startTwitter(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}
+
+(function() {
+function getStyle(el, prop) {
+    if (window.getComputedStyle !== undefined) {
+        return getComputedStyle(el, null).getPropertyValue(prop);
+    } else {
+        return el.currentStyle[prop];
+    }
+}
+
+addOnLoad(function() {
+    // Only start twitter if the sidebar is visible
+    var element = document.querySelectorAll('.col-two')[0]
+    var display = getStyle(element, 'display')
     if (display === 'block') {
-        go(document, "script", "twitter-wjs")
+        startTwitter(document, "script", "twitter-wjs")
     }
 })
+})()
 </script>
 
 {% if site.enable_analytics %}

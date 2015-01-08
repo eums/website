@@ -13,13 +13,13 @@
 
 <div id="search-query"></div>
 <script type="text/javascript">
-  window.onload = function() {
+  addOnLoad(function() {
     JekyllLunrJsSearch({
       formSelector: 'input.search',
       jsonUrl:      '/search.json',
       templateId:   'search-results-template',
       containerId:  'search-results',
     })
-  }
+  })
 </script>
 
