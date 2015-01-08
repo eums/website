@@ -43,6 +43,42 @@ function setValues(selector, value) {
     }
 }
 
+// Call the supplied function as soon as is convenient.
+var nextTick = (function() {
+  if (typeof setImmediate === 'function') {
+    return setImmediate
+  } else {
+    return function(fn) {
+      setTimeout(fn, 0)
+    }
+  }
+})()
+
+// Take an array of functions, call them all asynchoronously, and call the
+// callback once they're all finished.
+function parallel(fns, callback) {
+  var length = fns.length
+  var complete = 0
+  var i = 0
+
+  fns.map(function(fn) {
+    nextTick(function() {
+      fn()
+      complete++
+
+      if (complete === length) {
+        nextTick(callback)
+      }
+    })
+  })
+}
+
+// like map, but async.
+function asyncMap(array, fn, callback) {
+  var fns = array.map(function(x) { return function() { fn(x) }})
+  parallel(fns, callback)
+}
+
 function getSearchDatabase(url, callback) {
     getJSON(url, function(data) {
         buildSearchDatabase(data, callback)
@@ -53,12 +89,16 @@ function buildSearchDatabase(data, callback) {
     var index = createLunrIndex()
     var documents = {}
 
-    data.forEach(function(doc) {
+    var addToIndex = function(doc) {
         index.add(doc)
         documents[doc.url] = doc
-    })
+    }
 
-    return callback({ index: index, documents: documents })
+    var done = function() {
+      callback({ index: index, documents: documents })
+    }
+
+    asyncMap(data, addToIndex, done)
 }
 
 // Perform an AJAX request, attempt to parse the returned JSON, a
