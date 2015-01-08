@@ -21,4 +21,4 @@ This concert sold out last year. Book now to avoid disappointment!
 
 To buy tickets, click the link below:
 
-<a title="buy tickets online" href="http://www.ticketsource.co.uk/event/21012"> <img src="http://www.ticketsource.co.uk/images/buyTickets/buyTickets-medium.png" alt="Buy tickets online" width="118" height="88" border="0" /></a>
+<a title="buy tickets online" href="http://www.ticketsource.co.uk/event/21012"> <img class="centred" src="http://www.ticketsource.co.uk/images/buyTickets/buyTickets-medium.png" alt="Buy tickets online"></a>
