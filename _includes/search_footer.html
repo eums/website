@@ -13,13 +13,13 @@
 
 <div id="search-query"></div>
 <script type="text/javascript">
-  $(function() {
-    $('#search-query').lunrSearch({
-      indexUrl: '/search.json',
-      results:  '#search-results',
-      entries:  '#search-entries',
-      template: '#search-results-template'
-    });
-  });
+  window.onload = function() {
+    JekyllLunrJsSearch({
+      formSelector: '.search-form',
+      jsonUrl:      '/search.json',
+      templateId:   'search-results-template',
+      containerId:  'search-results',
+    })
+  }
 </script>
 

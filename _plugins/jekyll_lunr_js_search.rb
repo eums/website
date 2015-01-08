@@ -39,8 +39,7 @@ class Indexer < Jekyll::Generator
   end
 
   def generate_search_index_json(site, config)
-    index = generate_search_index(site, config)
-    JSON.generate({:entries => index})
+    JSON.generate(generate_search_index(site, config))
   end
 
   def generate_search_index(site, config)
@@ -115,7 +114,7 @@ class SearchEntryCreator
       "title"       => get_title(item),
       "url"         => get_url(item),
       "body"        => get_body(item),
-      "date"        => Utils.try(item, :date),
+      "date"        => get_date(item), 
       "categories"  => Utils.try(item, :categories),
     }
   end
@@ -138,7 +137,15 @@ class SearchEntryCreator
       }.join(' ')
   end
 
-  private
+  def get_date(item)
+    date = Utils.try(item, :date)
+    if date
+      { 
+        "displaydate" => date.strftime('%b %d, %Y'),
+        "pubdate" => date.iso8601
+      }
+    end
+  end
 end
 
 class SearchIndexFile < Jekyll::StaticFile
@@ -154,7 +161,7 @@ class SearchIndexFile < Jekyll::StaticFile
     @@mtimes[path] = mtime
 
     FileUtils.mkdir_p(File.dirname(dest_path))
-    File.write(dest_path, @search_json_data)
+    File.open(dest_path, 'w') { |f| f.write(@search_json_data) }
 
     true
   end
