@@ -156,9 +156,6 @@ class SearchIndexFile < Jekyll::StaticFile
 
   def write(dest)
     dest_path = destination(dest)
-    return false if File.exist?(dest_path) and !modified?
-
-    @@mtimes[path] = mtime
 
     FileUtils.mkdir_p(File.dirname(dest_path))
     File.open(dest_path, 'w') { |f| f.write(@search_json_data) }
