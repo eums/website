@@ -18,11 +18,11 @@ exports.tag = function tag() {
     var args = Array.prototype.slice.call(arguments)
     var tagName = args.shift()
     var el = document.createElement(tagName)
-  
+
     if (looksLikeAttributes(args[0])) {
         var attrs = args.shift()
         for (var prop in attrs) {
-          if (Object.hasOwnProperty(attrs, prop)) {
+          if (attrs.hasOwnProperty(prop)) {
             el.setAttribute(prop, attrs[prop])
           }
         }
@@ -42,7 +42,7 @@ exports.tag = function tag() {
                 'Markup.tag: Don\'t know what to do with this object')
         }
     }
-    
+
     return el
 }
 

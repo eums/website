@@ -1,5 +1,5 @@
-//= require jekyll-lunr-search.js
 
+<script type="text/javascript">
 (function() {
   "use strict"
   function template(entry) {
@@ -8,7 +8,7 @@
       M.h3(
         M.a({href: entry.url}, entry.title),
         ' ',
-        entry.date ? 
+        entry.date ?
           M.small(M.em(
             M.time({datetime: entry.date.pubdate}, entry.date.displaydate))) :
           null
@@ -19,9 +19,10 @@
   addOnLoad(function() {
     JekyllLunrJsSearch({
       formSelector: 'input.search',
-        jsonUrl:      '/search.json',
-        containerId:  'search-results',
-        template:     template,
-      })
+      jsonUrl:      '/search.json',
+      containerId:  'search-results',
+      template:     template,
+    })
   })
 })()
+</script>
