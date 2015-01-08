@@ -62,14 +62,12 @@ function parallel(fns, callback) {
 
   fns.map(function(fn) {
     nextTick(function() {
-      setTimeout(function() {
-        fn()
-        complete++
+      fn()
+      complete++
 
-        if (complete === length) {
-          nextTick(callback)
-        }
-      }, 500)
+      if (complete === length) {
+        nextTick(callback)
+      }
     })
   })
 }

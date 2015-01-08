@@ -7,13 +7,39 @@ exclude_from_search: true
 <section>
   <h2>Search results</h2>
   <div id="search-results">
-    <div class="spinner-wave">
-        <p class="visuallyhidden">Loading&hellip;</p>
+    <p id="search-results-no-animation">Loading&hellip;</p>
+    <div id="search-results-animation" class="hidden">
+      <div id="search-spinner" class="spinner-wave">
         <div></div>
         <div></div>
         <div></div>
         <div></div>
         <div></div>
+      </div>
     </div>
   </div>
 </section>
+
+<script type="text/javascript">
+(function() {
+"use strict"
+
+function animationSupported() {
+  var el = document.createElement('div')
+  return (el.style['animationName'] !== undefined) ||
+         (el.style['WebkitAnimationName'] !== undefined)
+}
+
+function setClassName(elId, name) {
+  var el = document.getElementById(elId)
+  el.className = name
+}
+
+if (animationSupported()) {
+  setClassName('search-results-no-animation', 'hidden')
+  setClassName('search-results-animation', '')
+}
+
+})()
+
+</script>
