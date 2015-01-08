@@ -97,14 +97,6 @@ function runQuery(db, query) {
     })
 }
 
-function compileTemplate(templateId) {
-    var template = document.getElementById(templateId).textContent
-    Mustache.parse(template)
-    return function(view) {
-        return Mustache.render(template, view);
-    }
-}
-
 function displayResults(template, containerId, results) {
     var container = document.getElementById(containerId)
 
