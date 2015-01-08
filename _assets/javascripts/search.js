@@ -129,7 +129,8 @@ function htmlElement(tagName, inner) {
     if (inner instanceof HTMLElement) {
         el.appendChild(inner)
     } else if (typeof inner === 'string') {
-        el.innerText = inner
+        var textNode = document.createTextNode(inner)
+        el.appendChild(textNode)
     } else {
         throw new Error('htmlElement: Don\'t know what to do with this object')
     }
