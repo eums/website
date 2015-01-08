@@ -5,7 +5,12 @@ exclude_from_search: true
 ---
 
 <section>
-  <h2>Search results</h2>
+  <h2 id="search-results-header">Search results</h2>
+
+  <div class="search-page-search">
+    {% include search_form.html id="main-search-form" autofocus="true" %}
+  </div>
+
   <div id="search-results">
     <p id="search-results-no-animation">Loading&hellip;</p>
     <div id="search-results-animation" class="hidden">

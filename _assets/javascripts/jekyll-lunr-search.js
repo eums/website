@@ -261,6 +261,15 @@ function removeAllChildren(el) {
     }
 }
 
+function setSearchHeaderText(elId, query) {
+    var el = document.getElementById(elId)
+    removeAllChildren(el)
+
+    var text = "Search results for '" + query + "'"
+    var textNode = document.createTextNode(text)
+    el.appendChild(textNode)
+}
+
 // Configuration:
 //  formSelector:
 //      A CSS selector referencing every <form> on the page, so that the query
@@ -272,10 +281,13 @@ function removeAllChildren(el) {
 //      The id of the mustache template to render the search results with.
 //  containerId:
 //      The id of the HTML element to put the results into.
+//  headerId:
+//      The id of the HTML element to change the innerText of. Default
 function main(config) {
     var query = getQueryString('q')
     if (query) {
         setValues(config.formSelector, query)
+        setSearchHeaderText(config.headerId, query)
         getSearchDatabase(config.jsonUrl, function(db) {
             runQuery(db, query, function(results) {
                 displayResults(config.template, config.containerId, results)

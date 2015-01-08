@@ -136,7 +136,8 @@ ul.container {
     }
 }
 
-.not-found-search input {
+.not-found-search input,
+.search-page-search input {
     border: 2px solid $bg-red;
 }
 
