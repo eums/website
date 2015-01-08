@@ -130,10 +130,12 @@ function createLunrIndex() {
     })
 }
 
-function runQuery(db, query) {
-    return db.index.search(query).map(function(result) {
+function runQuery(db, query, callback) {
+    var results = db.index.search(query).map(function(result) {
         return db.documents[result.ref]
     })
+
+    nextTick(function() { callback(results) })
 }
 
 function displayResults(template, containerId, results) {
@@ -173,8 +175,9 @@ function main(config) {
     if (query) {
         setValues(config.formSelector, query)
         getSearchDatabase(config.jsonUrl, function(db) {
-            var results = runQuery(db, query)
-            displayResults(config.template, config.containerId, results)
+            runQuery(db, query, function(results) {
+                displayResults(config.template, config.containerId, results)
+            })
         })
     }
 }
