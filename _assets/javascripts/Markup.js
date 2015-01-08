@@ -11,7 +11,7 @@ function partial(fn, arg) {
 }
 
 function looksLikeAttributes(obj) {
-  return typeof obj === 'object' && !(obj instanceof HTMLElement)
+  return typeof obj === 'object' && !looksLikeHtmlElement(obj)
 }
 
 function looksLikeHtmlElement(obj) {
