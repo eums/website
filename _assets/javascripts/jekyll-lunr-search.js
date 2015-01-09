@@ -6,41 +6,41 @@ JekyllLunrJsSearch = (function() {
 
 // Given a query string, attempt to parse it and return an object.
 function parseQueryString(string) {
-    var result = {}
-    var decode = function (s) {
-        return decodeURIComponent(s.replace(/\+/g, " "))
+  var result = {}
+  var decode = function (s) {
+    return decodeURIComponent(s.replace(/\+/g, " "))
+  }
+
+  var pairs = string.split('&')
+  var length = pairs.length
+
+  for (var i = 0; i < length; i++) {
+    var pair = pairs[i].split('=')
+    if (pair.length === 2) {
+      result[decode(pair[0])] = decode(pair[1])
     }
+  }
 
-    var pairs = string.split('&')
-    var length = pairs.length
-
-    for (var i = 0; i < length; i++) {
-        var pair = pairs[i].split('=')
-        if (pair.length === 2) {
-            result[decode(pair[0])] = decode(pair[1])
-        }
-    }
-
-    return result
+  return result
 }
 
 // Take a given parameter from the query string, or return null if it is not in
 // the query string.
 function getQueryString(param) {
-    var query = location.search.substring(1)
-    var parsed = parseQueryString(query)
-    return parsed[param]
+  var query = location.search.substring(1)
+  var parsed = parseQueryString(query)
+  return parsed[param]
 }
 
 // Set the value of each DOM element matching the given selector to the given
 // value.
 function setValues(selector, value) {
-    var nodes = document.querySelectorAll(selector)
-    var length = nodes.length
+  var nodes = document.querySelectorAll(selector)
+  var length = nodes.length
 
-    for (var i = 0; i < length; i++) {
-        nodes[i].value = value
-    }
+  for (var i = 0; i < length; i++) {
+    nodes[i].value = value
+  }
 }
 
 // Call the supplied function as soon as is convenient.
@@ -80,104 +80,106 @@ function asyncMap(array, fn, callback) {
 
 // Cache arbitrary values in localStorage.
 function localStorageCache(serialize, unserialize) {
-    var cacheKey = '__jekyll_lunr_search_database'
-    var cacheGet = function() {
-        try {
-            return unserialize(window.localStorage[cacheKey])
-        } catch(e) {
-            return null
-        }
+  var cacheKey = '__jekyll_lunr_search_database'
+  var cacheGet = function() {
+    try {
+      return unserialize(window.localStorage[cacheKey])
+    } catch(e) {
+        return null
     }
-    var cacheSet = function(value) {
-        window.localStorage[cacheKey] = serialize(value)
-    }
+  }
+  var cacheSet = function(value) {
+    window.localStorage[cacheKey] = serialize(value)
+  }
 
-    return { get: cacheGet, set: cacheSet }
+  return { get: cacheGet, set: cacheSet }
 }
 
 // Return a serialized database, in a suitable form for calling JSON.stringify
 // on.
 function databaseToJSON(db) {
-    return { documents: db.documents, index: db.index.toJSON() }
+  return { documents: db.documents, index: db.index.toJSON() }
 }
 
 // Given a serialized database, load it into a database object.
 function loadDatabase(obj) {
-    return { documents: obj.documents, index: lunr.Index.load(obj.index) }
+  return { documents: obj.documents, index: lunr.Index.load(obj.index) }
 }
 
 var databaseCache = (function() {
-    var serialize = function(cacheEntry) {
-        var object =
-            { lastModified: cacheEntry.lastModified,
-              value: databaseToJSON(cacheEntry.value)
-            }
-        return JSON.stringify(object)
+  var serialize = function(cacheEntry) {
+    var object = {
+      lastModified: cacheEntry.lastModified,
+      value: databaseToJSON(cacheEntry.value)
     }
+    return JSON.stringify(object)
+  }
 
-    var unserialize = function(string) {
-        var object = JSON.parse(string)
-        return {
-            lastModified: object.lastModified,
-            value: loadDatabase(object.value)
-        }
+  var unserialize = function(string) {
+    var object = JSON.parse(string)
+    return {
+      lastModified: object.lastModified,
+      value: loadDatabase(object.value)
     }
+  }
 
-    return localStorageCache(serialize, unserialize)
+  return localStorageCache(serialize, unserialize)
 })()
 
 // Builds the search database from the document array, and then calls a
 // callback with the result. This function should always return the same result
 // for the same input.
 function buildSearchDatabase(data, callback) {
-    console.log('building search db...')
-    var index = createLunrIndex()
-    var documents = {}
+  console.log('building search db...')
+  var index = createLunrIndex()
+  var documents = {}
 
-    var addToIndex = function(doc) {
-        index.add(doc)
-        documents[doc.url] = doc
-    }
+  var addToIndex = function(doc) {
+    index.add(doc)
+    documents[doc.url] = doc
+  }
 
-    var done = function() {
-      callback({ index: index, documents: documents })
-    }
+  var done = function() {
+    callback({ index: index, documents: documents })
+  }
 
-    asyncMap(data, addToIndex, done)
+  asyncMap(data, addToIndex, done)
 }
 
 // Perform an AJAX request, attempt to parse the returned JSON, and call the
 // callback with the result.
 function getJSON(url, ifModifiedSince, onOk, onNotModified) {
-    var request = new XMLHttpRequest()
-    request.open('GET', url, true)
-    if (ifModifiedSince) {
-        request.setRequestHeader('If-Modified-Since', ifModifiedSince)
+  var request = new XMLHttpRequest()
+  request.open('GET', url, true)
+  if (ifModifiedSince) {
+    request.setRequestHeader('If-Modified-Since', ifModifiedSince)
+  }
+
+  request.onreadystatechange = function() {
+    if (this.readyState !== 4) {
+      return
     }
 
-    request.onreadystatechange = function() {
-        if (this.readyState === 4) {
-            if (this.status === 304) {
-                console.log('getJSON: 304 Not Modified')
-                onNotModified()
-            } else if (this.status >= 200 && this.status < 400) {
-                var lastModified = this.getResponseHeader('Last-Modified')
-                if (ifModifiedSince === lastModified) {
-                    console.log('getJSON: 200 OK but it wasn\'t modified')
-                    onNotModified()
-                } else {
-                    console.log('getJSON: 200 OK')
-                    onOk(lastModified, JSON.parse(this.responseText))
-                }
-            } else {
-                throw new Error(
-                    'getJSON failed. HTTP status was: ' + this.status)
-            }
-        }
+    if (this.status === 304) {
+      console.log('getJSON: 304 Not Modified')
+      onNotModified()
+    } else if (this.status >= 200 && this.status < 400) {
+      var lastModified = this.getResponseHeader('Last-Modified')
+      if (ifModifiedSince === lastModified) {
+        console.log('getJSON: 200 OK but it wasn\'t modified')
+        onNotModified()
+      } else {
+        console.log('getJSON: 200 OK')
+        onOk(lastModified, JSON.parse(this.responseText))
+      }
+    } else {
+      throw new Error(
+        'getJSON failed. HTTP status was: ' + this.status)
     }
+  }
 
-    request.send()
-    request = null
+  request.send()
+  request = null
 }
 
 // Given:
@@ -191,83 +193,83 @@ function getJSON(url, ifModifiedSince, onOk, onNotModified) {
 // Then use the HTTP Last-Modified / If-Modified-Since mechanism in order to
 // only perform the expensive computation on the object when it has changed.
 function getJSONWithCache(cache, url, expensiveFn, callback) {
-    var cached = cache.get()
-    var ifModifiedSince = cached && cached.lastModified
+  var cached = cache.get()
+  var ifModifiedSince = cached && cached.lastModified
 
-    var onOk = function(lastModified, responseObject) {
-        nextTick(function() {
-            expensiveFn(responseObject, function(result) {
-                setTimeout(function() {
-                    // this is expensive because of the lunr index
-                    // serialization, so do it a second later
-                    console.log('storing result in cache...')
-                    cache.set({ lastModified: lastModified, value: result })
-                    console.log('result stored in cache.')
-                }, 1000)
-                callback(result)
-            })
-        })
-    }
+  var onOk = function(lastModified, responseObject) {
+    nextTick(function() {
+      expensiveFn(responseObject, function(result) {
+        setTimeout(function() {
+          // this is expensive because of the lunr index
+          // serialization, so do it a second later
+          console.log('storing result in cache...')
+          cache.set({ lastModified: lastModified, value: result })
+          console.log('result stored in cache.')
+        }, 1000)
+        callback(result)
+      })
+    })
+  }
 
-    var onNotModified = function() {
-        console.log('getJSONWithCache: cache hit!')
-        callback(cached.value)
-    }
+  var onNotModified = function() {
+    console.log('getJSONWithCache: cache hit!')
+    callback(cached.value)
+  }
 
-    getJSON(url, ifModifiedSince, onOk, onNotModified)
+  getJSON(url, ifModifiedSince, onOk, onNotModified)
 }
 
 // Now with caching!
 function getSearchDatabase(url, callback) {
-    getJSONWithCache(databaseCache, url, buildSearchDatabase, callback)
+  getJSONWithCache(databaseCache, url, buildSearchDatabase, callback)
 }
 
 function createLunrIndex() {
-    return lunr(function() {
-        this.ref('url')
-        this.field('title', {boost: 10})
-        this.field('body')
-        this.field('date')
-        this.field('categories')
-    })
+  return lunr(function() {
+    this.ref('url')
+    this.field('title', {boost: 10})
+    this.field('body')
+    this.field('date')
+    this.field('categories')
+  })
 }
 
 function runQuery(db, query, callback) {
-    var results = db.index.search(query).map(function(result) {
-        return db.documents[result.ref]
-    })
+  var results = db.index.search(query).map(function(result) {
+    return db.documents[result.ref]
+  })
 
-    nextTick(function() { callback(results) })
+  nextTick(function() { callback(results) })
 }
 
 function displayResults(template, containerId, results) {
-    var container = document.getElementById(containerId)
+  var container = document.getElementById(containerId)
 
-    removeAllChildren(container)
+  removeAllChildren(container)
 
-    if (results.length === 0) {
-        var element = Markup.p('Nothing found.')
-        container.appendChild(element)
-    } else {
-        results.forEach(function(result) {
-            container.appendChild(template(result))
-        })
-    }
+  if (results.length === 0) {
+    var element = Markup.p('Nothing found.')
+    container.appendChild(element)
+  } else {
+    results.forEach(function(result) {
+      container.appendChild(template(result))
+    })
+  }
 }
 
 function removeAllChildren(el) {
-    while (el.firstChild) {
-        el.removeChild(el.firstChild)
-    }
+  while (el.firstChild) {
+    el.removeChild(el.firstChild)
+  }
 }
 
 function setSearchHeaderText(elId, query) {
-    var el = document.getElementById(elId)
-    removeAllChildren(el)
+  var el = document.getElementById(elId)
+  removeAllChildren(el)
 
-    var text = "Search results for '" + query + "'"
-    var textNode = document.createTextNode(text)
-    el.appendChild(textNode)
+  var text = "Search results for '" + query + "'"
+  var textNode = document.createTextNode(text)
+  el.appendChild(textNode)
 }
 
 // Keep calling a function with the given interval until it has finished. The
@@ -279,16 +281,16 @@ function setSearchHeaderText(elId, query) {
 // This appears to be necessary because IE sometimes gets bored and gives up
 // halfway through.
 function retry(interval, fn) {
-    var done = function() {
-        if (done.intervalID) {
-            clearInterval(done.intervalID)
-        } else {
-            setTimeout(done, intervalID)
-        }
+  var done = function() {
+    if (done.intervalID) {
+      clearInterval(done.intervalID)
+    } else {
+      setTimeout(done, intervalID)
     }
+  }
 
-    var intervalID = setInterval(function() { fn(done) }, interval)
-    done.intervalID = intervalID
+  var intervalID = setInterval(function() { fn(done) }, interval)
+  done.intervalID = intervalID
 }
 
 // Configuration:
