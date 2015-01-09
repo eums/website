@@ -1,4 +1,4 @@
-//= require lunr-0.5.7.js
+//= require vendor/lunr-0.5.7.js
 //= require Markup.js
 
 JekyllLunrJsSearch = (function() {

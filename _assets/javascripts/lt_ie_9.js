@@ -1,3 +1,3 @@
-//= require html5shiv.min.js
-//= require css3-mediaqueries.js
-//= require augment.min.js
+//= require vendor/html5shiv.min.js
+//= require vendor/css3-mediaqueries.js
+//= require vendor/augment.min.js
