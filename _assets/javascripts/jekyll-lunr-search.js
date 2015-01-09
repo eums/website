@@ -46,6 +46,17 @@ function setValues(selector, value) {
   }
 }
 
+// Call the supplied function as soon as is convenient.
+var nextTick = (function() {
+  if (typeof setImmediate === 'function') {
+    return setImmediate
+  } else {
+    return function(fn) {
+      setTimeout(fn, 0)
+    }
+  }
+})()
+
 // Cache arbitrary values in localStorage.
 function localStorageCache(serialize, unserialize) {
   var cacheKey = '__jekyll_lunr_search_database'
@@ -106,9 +117,15 @@ function buildSearchDatabase(data) {
   // document has been added to the database.
   var promises = data.map(function(doc) {
     return new Promise(function(resolve, reject) {
-      index.add(doc)
-      documents[doc.url] = doc
-      resolve()
+      nextTick(function() {
+        try {
+          index.add(doc)
+          documents[doc.url] = doc
+          resolve()
+        } catch(e) {
+          reject(e)
+        }
+      })
     })
   })
 
