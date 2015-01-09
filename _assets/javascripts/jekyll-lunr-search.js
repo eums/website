@@ -272,15 +272,16 @@ function setSearchHeaderText(elId, query) {
   el.appendChild(textNode)
 }
 
-// Keep calling a function with the given interval until it has finished. The
-// passed function can signal that it is finished by calling the callback that
-// it is passed.
+// Calls a function repeatedly (up to *max* times), waiting *interval*
+// milliseconds between each call given interval until it has finished. The
+// function can signal that it is finished by calling the callback that is
+// passed as its first (and only) argument.
 //
 // Make sure the function you pass is idempotent!
 //
 // This appears to be necessary because IE sometimes gets bored and gives up
 // halfway through.
-function retry(interval, fn) {
+function retry(interval, max, fn) {
   var done = function() {
     if (done.intervalID) {
       clearInterval(done.intervalID)
@@ -288,8 +289,18 @@ function retry(interval, fn) {
       setTimeout(done, intervalID)
     }
   }
+  var calls = 0
 
-  var intervalID = setInterval(function() { fn(done) }, interval)
+  var intervalID = setInterval(function() {
+    if (calls >= max) {
+      clearInterval(done.intervalID)
+      throw new Error('retry: giving up after ' + max + ' attempts.')
+    }
+
+    fn(done)
+    calls++
+  }, interval)
+
   done.intervalID = intervalID
 }
 
@@ -312,7 +323,7 @@ function main(config) {
     setValues(config.formSelector, query)
     setSearchHeaderText(config.headerId, query)
 
-    retry(1000, function(done) {
+    retry(1000, 10, function(done) {
       getSearchDatabase(config.jsonUrl, function(db) {
         runQuery(db, query, function(results) {
           displayResults(config.template, config.containerId, results)
