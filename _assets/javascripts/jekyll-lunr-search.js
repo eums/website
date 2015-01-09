@@ -262,28 +262,36 @@ function createLunrIndex() {
   })
 }
 
-function runQuery(db, query, callback) {
-  var results = db.index.search(query).map(function(result) {
-    return db.documents[result.ref]
-  })
+// Returns a promise with an array of results.
+function runQuery(db, query) {
+  return new Promise(function(resolve, reject) {
+    var results = db.index.search(query).map(function(result) {
+      return db.documents[result.ref]
+    })
 
-  nextTick(function() { callback(results) })
+    resolve(results)
+  })
 }
 
 function displayResults(template, containerId, results) {
-  var container = document.getElementById(containerId)
+  return new Promise(function(resolve, reject) {
+    var container = document.getElementById(containerId)
 
-  removeAllChildren(container)
+    removeAllChildren(container)
 
-  if (results.length === 0) {
-    var element = Markup.p('Nothing found.')
-    container.appendChild(element)
-  } else {
-    results.forEach(function(result) {
-      container.appendChild(template(result))
-    })
-  }
+    if (results.length === 0) {
+      var element = Markup.p('Nothing found.')
+      container.appendChild(element)
+    } else {
+      results.forEach(function(result) {
+        container.appendChild(template(result))
+      })
+    }
+
+    resolve()
+  })
 }
+
 
 function removeAllChildren(el) {
   while (el.firstChild) {
@@ -332,6 +340,20 @@ function retry(interval, max, fn) {
   done.intervalID = intervalID
 }
 
+// Return a new promise that resolves after the search has been successfully
+// performed.
+function startSearch(config, query) {
+  return getSearchDatabase(config.jsonUrl).then(function(db) {
+    return runQuery(db, query)
+  }).then(function(results) {
+    return displayResults(config.template, config.containerId, results)
+  })
+}
+
+function showError(error) {
+  console.log('Oh dear! An error:', error)
+}
+
 // Configuration:
 //  formSelector:
 //      A CSS selector referencing every <form> on the page, so that the query
@@ -344,20 +366,17 @@ function retry(interval, max, fn) {
 //  containerId:
 //      The id of the HTML element to put the results into.
 //  headerId:
-//      The id of the HTML element to change the innerText of. Default
+//      The id of the HTML element to change the innerText of. The text will be
+//      set to "Search results for '<query>'".
 function main(config) {
   var query = getQueryString('q')
   if (query) {
     setValues(config.formSelector, query)
     setSearchHeaderText(config.headerId, query)
 
-    retry(1000, 10, function(done) {
-      getSearchDatabase(config.jsonUrl).then(function(db) {
-        runQuery(db, query, function(results) {
-          displayResults(config.template, config.containerId, results)
-          done()
-        })
-      })
+    retry(2000, 10, function(done) {
+      startSearch(config, query)
+        .then(function() { done() }, showError)
     })
   }
 }
