@@ -1,8 +1,11 @@
 //= require vendor/lunr-0.5.7.js
+//= require vendor/es6-promise-2.0.1.min.js
 //= require Markup.js
 
 JekyllLunrJsSearch = (function() {
 "use strict"
+
+var Promise = ES6Promise.Promise
 
 // Given a query string, attempt to parse it and return an object.
 function parseQueryString(string) {
