@@ -165,6 +165,7 @@ function getJSON(url, ifModifiedSince) {
   return new Promise(function(resolve, reject) {
     var request = new XMLHttpRequest()
     request.open('GET', url, true)
+    request.setRequestHeader('Accept', 'application/json')
 
     if (ifModifiedSince) {
       request.setRequestHeader('If-Modified-Since', ifModifiedSince)
