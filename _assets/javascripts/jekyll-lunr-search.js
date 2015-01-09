@@ -46,41 +46,6 @@ function setValues(selector, value) {
   }
 }
 
-// Call the supplied function as soon as is convenient.
-var nextTick = (function() {
-  if (typeof setImmediate === 'function') {
-    return setImmediate
-  } else {
-    return function(fn) {
-      setTimeout(fn, 0)
-    }
-  }
-})()
-
-// Take an array of functions, call them all asynchoronously, and call the
-// callback once they're all finished.
-function parallel(fns, callback) {
-  var length = fns.length
-  var complete = 0
-
-  fns.map(function(fn) {
-    nextTick(function() {
-      fn()
-      complete++
-
-      if (complete === length) {
-        nextTick(callback)
-      }
-    })
-  })
-}
-
-// like map, but async.
-function asyncMap(array, fn, callback) {
-  var fns = array.map(function(x) { return function() { fn(x) }})
-  parallel(fns, callback)
-}
-
 // Cache arbitrary values in localStorage.
 function localStorageCache(serialize, unserialize) {
   var cacheKey = '__jekyll_lunr_search_database'
@@ -132,21 +97,27 @@ var databaseCache = (function() {
 // Builds the search database from the document array, and then calls a
 // callback with the result. This function should always return the same result
 // for the same input.
-function buildSearchDatabase(data, callback) {
+function buildSearchDatabase(data) {
   console.log('building search db...')
   var index = createLunrIndex()
   var documents = {}
 
-  var addToIndex = function(doc) {
-    index.add(doc)
-    documents[doc.url] = doc
-  }
+  // Create a list of Promises, each of which resolves with no value after its
+  // document has been added to the database.
+  var promises = data.map(function(doc) {
+    return new Promise(function(resolve, reject) {
+      index.add(doc)
+      documents[doc.url] = doc
+      resolve()
+    })
+  })
 
-  var done = function() {
-    callback({ index: index, documents: documents })
-  }
-
-  asyncMap(data, addToIndex, done)
+  return Promise.all(promises).then(function() {
+    return {
+      index: index,
+      documents: documents
+    }
+  })
 }
 
 // Perform an AJAX request for the given url, set the If-Modified-Since header
@@ -226,7 +197,7 @@ function getJSONWithCache(cache, url, expensiveFn) {
 
     getJSON(url, ifModifiedSince).then(function(input) {
       if (input.state === 'ok') {
-        expensiveFn(input.value, function(result) {
+        expensiveFn(input.value).then(function(result) {
           setTimeout(function() {
             // this is expensive-ish because of the lunr index
             // serialization, so do it a second later
