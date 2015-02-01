@@ -28,6 +28,12 @@ Throughout the twentieth century the society took part in larger and more extrav
 
 [Learn more about the society's history](/about-us/history/).
 
+### Conductors
+
+We have three outstanding conductors who have consistently proven themselves capable of bringing the best out of our members, and thanks to them each concert takes the society to new places and brings new delights.
+
+[Read more about our conductors](/conductors/).
+
 ### The committee
 
 The society is run by an elected group of sixteen members known as the committee. These include our office bearers (the President, Secretary and Treasurer), Ensemble Managers and Librarians, Publicity Managers, Social Secretaries, Community Outreach Manager, Tour Manager and our Sponsorship and Alumni Manager. Though the committee lead the organisation of the Society and its events, all members are encouraged to get involved, and many of our additional activities are organised by non-committee members.
