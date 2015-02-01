@@ -27,20 +27,20 @@ The society consists of three ensembles. The largest is [Chorus](/chorus/), a no
 
 The [Symphony Orchestra](/symphony-orchestra/) is a large auditioning orchestra of a very high standard. It is conducted by Russell Cowieson. Rehearsals are on Monday evenings in the Reid Hall.
 
-![Russell Cowieson guides EUMS Symphony Orchestra](/assets/img/concerts/russell-conducting-at-greyfriars.jpg "Russell Cowieson guides EUMS Symphony Orchestra")
-
 Each ensemble performs 3 times each year, in a total of 6 concerts. In particular, we join Chorus and one of our orchestras for what is always a breathtakingly epic performance in either the Winter or Spring concert series.  The Summer concert features all three ensembles performing together under one roof.
+
+![Russell Cowieson guides EUMS Symphony Orchestra](/assets/img/concerts/russell-conducting-at-greyfriars.jpg "Russell Cowieson guides EUMS Symphony Orchestra")
 
 <!-- I would have used "socials" for the element id here, but it was blocked by adblock plus. Therefore I'm using "socs" instead to avoid it being blocked. -->
 <h3 id="socs">Socials</h3>
 
 As you will find out, our passion for music making is at least matched by our love of having a good time: from ceilidhs to karaoke and from defeating our rival societies at hockey to our regular evening pub meetings, we do like to let our hair down, and our members will always be delighted by a new face in the mix. We have all been new to the society at some point!
 
-![Always a smiling face when a camera appears&hellip;](/assets/img/socials/pub.jpg "Always a smiling face when a camera appears&hellip;")
-
 Major features of the EUMS social calendar include sectional meals, tutti weekend, carolling, intramural hockey (we can definitely beat our season’s best of second place this year!), pre-tour karaoke, mass outings to RSNO or SCO concerts, and the highlight of the year: The Musoc Ball (a meal, giant ceilidh and society-wide party).
 
 [Find out more about socials](/get-involved/socials/).
+
+![Always a smiling face when a camera appears&hellip;](/assets/img/socials/pub.jpg "Always a smiling face when a camera appears&hellip;")
 
 ### Community engagement
 
@@ -50,9 +50,9 @@ We also have a long record of helping local charities, and as part of this conti
 
 In 2011, the event was well attended and raised over **£1300** for the charity’s Stop Homelessness campaign.
 
-![The Big Sing cheque handover](/assets/img/big-sing/2011-cheque.jpg "The Big Sing cheque handover")
-
 [Find out more about community engagement](/community/).
+
+![The Big Sing cheque handover](/assets/img/big-sing/2011-cheque.jpg "The Big Sing cheque handover")
 
 ### Tours
 
