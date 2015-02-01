@@ -158,6 +158,10 @@ header[role="banner"] {
     background: $bg-red;
     color: white;
 
+    ul.ensembles-menu {
+        display: none;
+    }
+
     .logo-image {
         @include svg-background('/assets/img/eums-logo.svg', '/assets/img/eums-logo.png');
         background-size: 146px 83px;
