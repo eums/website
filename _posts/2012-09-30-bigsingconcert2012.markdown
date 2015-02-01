@@ -9,7 +9,7 @@ wordpress_id: 2522
 
 To buy tickets, click the link below:
 
-<a title="buy tickets online" href="http://www.ticketsource.co.uk/event/27964"> <img src="http://www.ticketsource.co.uk/images/buyTickets/buyTickets-medium.png" alt="" width="118" height="88" border="0" /></a>
+<a title="buy tickets online" href="http://www.ticketsource.co.uk/event/27964"> <img src="http://www.ticketsource.co.uk/images/buyTickets/buyTickets-medium.png" alt="" class="centred"></a>
 
 To sign up to perform on the day click the link below. If you wish to sign up a large group then please contact our Community Relations Manager at <a title="Email us" href="mailto:community@eums.org.uk" target="_blank">community@eums.org.uk</a>.
 
