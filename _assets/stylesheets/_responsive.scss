@@ -186,12 +186,12 @@
 
     .col {
         float: left;
-        padding-right: 2em;
     }
 
     .col-one {
         width: 620px;
         max-width: 80%;
+        padding-right: 2em;
     }
 
     .col-two {
@@ -199,10 +199,7 @@
         float: right;
         width: 25%;
         margin: 1em 0 1em 0;
-        padding-right: 0;
-        margin: 1em 0 1em 0;
-        padding: 0.5em;
-        padding-top: 0;
+        padding: 0;
         border-top: 0;
 
         .box {
