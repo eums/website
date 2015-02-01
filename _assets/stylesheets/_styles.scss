@@ -317,7 +317,11 @@ nav {
 }
 
 main {
-    margin-top: 0.8em;
+    margin-top: 2em;
+}
+
+.col.col-one *:first-child {
+    margin-top: 0;
 }
 
 main img {
