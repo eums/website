@@ -159,11 +159,21 @@
     }
 
     .quotes blockquote {
-        float: left;
-        /* don't ask me where the extra 6% goes */
+        /* don't ask me where the extra 5% goes */
         margin: 1.5%;
         padding: 1.5%;
-        width: 43%;
+        width: 45%;
+    }
+
+    .quotes blockquote.quote-left {
+        float: left;
+        margin-left: 0;
+    }
+
+    .quotes blockquote.quote-right {
+        float: right;
+        margin-right: 0;
+        margin-top: 0;
     }
 
     .committee-members .cell {

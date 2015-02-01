@@ -15,7 +15,7 @@ The Society consists of three ensembles, altogether numbering around 300 people.
 </ul>
 
 <div class="clearfix quotes">
-<blockquote>
+<blockquote class="quote-left">
 <p>
 <strong>
 &ldquo;I had forgotten how much I adore Schubert’s Unfinished Symphony &hellip; it is such an emotional work and they carried it off well, the conductor once again bringing out the best from everyone&rdquo;
@@ -27,7 +27,7 @@ The Very Reverend John Mann, St Anne's Cathedral
 </p>
 </blockquote>
 
-<blockquote>
+<blockquote class="quote-right">
 <p>
 <strong>
 &ldquo;Am I allowed to say brilliant? The EUMS was stunningly good &hellip; I’m not sure that I have ever heard a choir cut and start as if the power had gone off and then on again&rdquo;
