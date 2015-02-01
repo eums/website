@@ -17,10 +17,6 @@ title: "What's on"
 
 <hr>
 
-We are proud of the quality of our ensembles. Since the society's creation in
-1867, our concerts have been performed to an incredibly high standard and have
-received critical acclaim alongside warm support from our audiences.
-
 We perform six main concerts a year, with a Winter concert series, a Spring
 concert series and a Summer concert. Each year one of our concerts also
 includes a joint collaboration between the Chorus and one of either Sinfonia or
