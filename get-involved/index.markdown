@@ -12,14 +12,14 @@ Whether you're a seasoned musician or have no musical training, whether you're a
 
 *Jump to:*
 
-* [Making music](#making-music)
+* [Our ensembles](#our-ensembles)
 * [Socials](#socs)
 * [Community engagement](#community-engagement)
 * [Tours](#tours)
 
 Interested? [Join our members' facebook group](http://www.facebook.com/groups/ed.music.society/) or come and find us at one of our rehearsals! You can also [contact us](/contact-us/) directly.
 
-### Making music
+### Our ensembles
 
 The society consists of three ensembles. The largest is [Chorus](/chorus/), a non-auditioned choir of more than 100 people, which rehearses on Tuesday evenings in Paterson's Land.
 
