@@ -34,7 +34,7 @@ If you're not sure who to speak to, ask for the Community Outreach Manager and t
 
 EUMS's most recent collaboration has been with the charity *Drake Music Scotland*, which concentrates on creating opportunities for children and adults to learn, compose and perform music independently. We are eager to learn from them about how we can make our ensembles, projects and concerts more easily accessible to disabled children and adults, and to promote the excellent work they do.  We very much look forward to working with them in the near future. You can find out more about Drake on their website: <http://drakemusicscotland.org>.
 
-<img title="Music brings delight to everyone!" src="/assets/img/education-projects/child-cello.jpg" alt="Child playing cello">
+<img class="bordered" title="Music brings delight to everyone!" src="/assets/img/education-projects/child-cello.jpg" alt="Child playing cello">
 
 ### Something worth encouraging
 

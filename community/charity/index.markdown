@@ -5,7 +5,7 @@ title: Work with charities
 wordpress_id: 989
 ---
 
-<img alt="Work with charities" src="/assets/img/charity/header.jpg">
+<img alt="Work with charities" src="/assets/img/charity/header.jpg" class="bordered">
 
 ## Work with charities
 
@@ -23,7 +23,7 @@ We are eager to learn from them about how we can make our ensembles, projects an
 
 Every Autumn we run our biggest charity event of the year: the Big Sing, which we run on behalf of the Bethany Christian Trust. The event is a Come-and-Sing Handel&rsquo;s <em>Messiah</em>. It is a fantastic opportunity for everyone to get singing, and all of the money raised goes to Bethany&rsquo;s <em>Stop Homelessness</em> campaign.
 
-<img title="Everyone rehearsing hard with the orchestra..." alt="Everyone rehearsing hard with the orchestra..." src="/assets/img/big-sing/2012-rehearsal.jpg">
+<img title="Everyone rehearsing hard with the orchestra..." alt="Everyone rehearsing hard with the orchestra..." src="/assets/img/big-sing/2012-rehearsal.jpg" class="bordered">
 
 We love to put on community projects involving classical music, so as well as raising money for Bethany (in 2011 we raised over £1300!), we're thrilled that the Big Sing gets so many different people singing.
 
@@ -33,7 +33,7 @@ In the winter we will be working with LifeCare (Edinburgh) Ltd, a charity based 
 
 To find out more about LifeCare, visit their website at <http://www.lifecare-edinburgh.org.uk>.
 
-<img class=" " title="Carolling on Princes Street." alt="Carolling on Princes Street." src="/assets/img/charity/carols.jpg">
+<img class=" " title="Carolling on Princes Street." alt="Carolling on Princes Street." src="/assets/img/charity/carols.jpg" class="bordered">
 
 The Edinburgh University Music Society also perform carols across Edinburgh at venues like the Southside Community Centre, Foodies Christmas market, at St. Catharine's Homeless Project and anywhere else where we might get a warm feeling going in a cold Edinburgh winter.
 

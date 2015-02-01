@@ -4,7 +4,7 @@ title: Get involved
 wordpress_id: 10
 ---
 
-![EUMS members, hard at work in rehearsal](/assets/img/rehearsal.jpg)
+<img src="/assets/img/rehearsal.jpg" alt="EUMS members, hard at work in rehearsal" class="bordered">
 
 ## Get involved
 
@@ -29,7 +29,7 @@ The [Symphony Orchestra](/symphony-orchestra/) is a large auditioning orchestra 
 
 Each ensemble performs 3 times each year, in a total of 6 concerts. In particular, we join Chorus and one of our orchestras for what is always a breathtakingly epic performance in either the Winter or Spring concert series.  The Summer concert features all three ensembles performing together under one roof.
 
-![Russell Cowieson guides EUMS Symphony Orchestra](/assets/img/concerts/russell-conducting-at-greyfriars.jpg "Russell Cowieson guides EUMS Symphony Orchestra")
+<img src="/assets/img/concerts/russell-conducting-at-greyfriars.jpg" alt="Russell Cowieson guides EUMS Symphony Orchestra" class="bordered">
 
 <!-- I would have used "socials" for the element id here, but it was blocked by adblock plus. Therefore I'm using "socs" instead to avoid it being blocked. -->
 <h3 id="socs">Socials</h3>
@@ -40,7 +40,7 @@ Major features of the EUMS social calendar include sectional meals, tutti weeken
 
 [Find out more about socials](/get-involved/socials/).
 
-![Always a smiling face when a camera appears&hellip;](/assets/img/socials/pub.jpg "Always a smiling face when a camera appears&hellip;")
+<img src="/assets/img/socials/pub.jpg" alt="Always a smiling face when a camera appears&hellip;" class="bordered">
 
 ### Community engagement
 
@@ -52,7 +52,7 @@ In 2011, the event was well attended and raised over **Â£1300** for the charityâ
 
 [Find out more about community engagement](/community/).
 
-![The Big Sing cheque handover](/assets/img/big-sing/2011-cheque.jpg "The Big Sing cheque handover")
+<img src="/assets/img/big-sing/2011-cheque.jpg" alt="The Big Sing cheque handover" class="bordered">
 
 ### Tours
 
@@ -62,4 +62,4 @@ Tour is the time to really get to know other members, whilst getting the chance 
 
 [Find out more about tour](/get-involved/tours/).
 
-![A final gathering outside Amiens Cathedral](/assets/img/tours/amiens-cathedral.jpg "A final gathering outside Amiens Cathedral")
+<img src="/assets/img/tours/amiens-cathedral.jpg" alt="A final gathering outside Amiens Cathedral" class="bordered">

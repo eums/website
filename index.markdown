@@ -1,8 +1,7 @@
 ---
 ---
 
-![Chorus and Symphony Orchestra at the performance of Verdi's Requiem in 2013](
-/assets/img/symphony-chorus-verdi-2013.jpg)
+<img alt="Chorus and Symphony Orchestra at the performance of Verdi's Requiem in 2013" src="/assets/img/symphony-chorus-verdi-2013.jpg" class="bordered">
 
 ## Who are we?
 

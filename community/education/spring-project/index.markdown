@@ -15,8 +15,7 @@ As part of this, every year we run a series of hour-long education projects aime
 
 The project is structured like a performance, with our cheerful presenters guiding the audience through the various sections of the orchestra and chorus, and of course there is plenty of opportunity for the audience to get involved (often with brilliant, if amusing, results).
 
-<img src="/assets/img/education-projects/hands-up.jpg" alt="Warming up for a
-sing song...">
+<img src="/assets/img/education-projects/hands-up.jpg" alt="Warming up for a sing song..." class="bordered">
 
 The purpose of the day is to introduce the children to the world of orchestral and choral music, showcasing different sections of the orchestra and choir through arrangements of music that will be familiar to them, and music that will excite and impress (but not intimidate) them.
 
@@ -34,6 +33,6 @@ We encourage the members of EUMS to get involved in the education project, becau
 
 We hope to show the various members in our society (not just music students) that promoting music is a fun and beneficial activity as well as a worthwhile profession, and we hope the project can be as much of a learning experience for our society members as for the primary schools students.
 
-<img src="/assets/img/enthralled-children.jpg" alt="Children watching intently">
+<img src="/assets/img/enthralled-children.jpg" alt="Children watching intently" class="bordered">
 
 If you are interested in finding out more or in getting your school involved, then contact our Community Outreach Manager at <a title="Email us" href="mailto:community@eums.org.uk">community@eums.org.uk</a> and we will be more than happy to discuss any opportunities further with you.
