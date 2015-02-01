@@ -5,7 +5,7 @@
   {% if event.url %}
   <p><a href="{{ event.url }}">{{ event.title }}</a></p>
   {% else %}
-  <p>{{ event.title }} (details tbc)</p>
+  <p><strong>{{ event.title }} (details tbc)</strong></p>
   {% endif %}
   <p>{{ event.location }}</p>
   <p>{{ event.date | date: "%a %-d %B" }}{% if event.time %}, {{ event.time }}{% endif %}</p>
