@@ -9,7 +9,7 @@ programme:
     piece: Peer Gynt Suites No. 1 and 2
 ---
 
-<img src="/assets/img/concerts/2014-winter/symphony.jpg">
+<img src="/assets/img/concerts/2014-winter/symphony.jpg" class="bordered">
 
 The Edinburgh University Music Society’s Sinfonia is proud to present this year’s Winter Concert.
 

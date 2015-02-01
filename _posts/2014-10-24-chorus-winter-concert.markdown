@@ -13,7 +13,7 @@ programme:
     piece: No Man's Land
 ---
 
-<img src="/assets/img/concerts/2014-winter/chorus.jpg">
+<img src="/assets/img/concerts/2014-winter/chorus.jpg" class="bordered">
 
 Shortly after Remembrance Day in the centenary year of the beginning of World War 1, this EUMS Chorus concert gives us a chance to reflect on themes of war and peace through music, from Haydn’s interpretation in the 18th century to Edinburgh composer Ken Johnston’s in the 21st.
 

@@ -9,7 +9,7 @@ programme:
     piece: Scènes Historiques No. 1
 ---
 
-<img src="/assets/img/concerts/2014-winter/sinfonia.jpg">
+<img src="/assets/img/concerts/2014-winter/sinfonia.jpg" class="bordered">
 
 The Edinburgh University Music Society’s Sinfonia is proud to present this year’s Winter Concert.
 
