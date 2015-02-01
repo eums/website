@@ -9,7 +9,7 @@ title: "What's on"
 {% for event in site.data.events %}
 <li>
   <h3>
-    {% if event.url %}<a href="{{ event.url }}">{{ event.title }}</a>{% else %}{{ event.title }}{% endif %}, {% if event.date %}{{ event.date | date: "%a %-d %B" }}{% endif %} {% unless event.url %}(details tbc){% endunless %}
+    {% if event.url %}<a href="{{ event.url }}">{{ event.title }}</a>{% else %}{{ event.title }}{% endif %}, {% if event.date %}{{ event.date | date: "%a %-d %B" }}{% endif %}
   </h3>
 </li>
 {% endfor %}
