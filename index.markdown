@@ -44,11 +44,10 @@ The Very Reverend John Mann, St Anne's Cathedral
 <h2>From the <a href="/blog/">blog</a></h2>
 
 {% for post in site.posts offset:0 limit:3 %}
-
-<h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-
-<p>{{ post.content | strip_html | truncatewords: 50 }}</p>
-
+<div class="recent-post">
+  <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+  <p>{{ post.content | strip_html | truncatewords: 50 }}</p>
+</div>
 {% endfor %}
 
 <a href="/blog/">Older posts &raquo;</a>
