@@ -3,7 +3,7 @@ layout: page
 title: Chorus
 ---
 
-![](/assets/img/concerts/chorus-st-cuthberts.jpg)
+<img alt="Chorus performing in St. Cuthbert's" src="/assets/img/concerts/chorus-st-cuthberts.jpg" class="bordered">
 
 ## Chorus
 

@@ -3,7 +3,7 @@ layout: page
 title: Sinfonia
 ---
 
-![](/assets/img/concerts/sinfonia-reid.jpg)
+<img src="/assets/img/concerts/sinfonia-reid.jpg" alt="Sinfonia performing in the Reid Concert Hall." class="bordered">
 
 ## Sinfonia
 

@@ -4,7 +4,7 @@ title: Symphony Orchestra
 wordpress_id: 198
 ---
 
-![](/assets/img/concerts/symphony-greyfriars-kirk.jpg)
+<img alt="Symphony Orchestra performing in Greyfriars Kirk" src="/assets/img/concerts/symphony-greyfriars-kirk.jpg" class="bordered">
 
 ## Symphony Orchestra
 
