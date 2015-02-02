@@ -26,7 +26,7 @@ we perform](/venues/)), and are easily accessible from the centre of Edinburgh.
 Tickets can be bought on the door, but we sell tickets in advance online and at
 rehearsals. Prices are very reasonable, and we offer further concessions to
 students and under-16s. Further booking options are available for larger
-groups. Our concerts always start at 7.30pm with doors usually opening at 7pm.
+groups. Our concerts usually start at 7.30pm, with doors opening at 7pm.
 
 We know that sometimes there is a lot to think about when attending a classical
 concert, especially if it is your first, so we have compiled a list of
