@@ -1,0 +1,5 @@
+{% if site.active_concert_series %}
+<a href="https://ticketsource.co.uk/eums">
+  <img src="/assets/img/ticketsource/{{ site.active_concert_series }}.png" class="sidebar-image-link" alt="Buy tickets for the EUMS {{ site.active_concert_series }} concert {% if site.active_concert_series != 'summer' %}series {% endif %}here">
+</a>
+{% endif %}

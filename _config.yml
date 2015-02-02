@@ -8,6 +8,15 @@ exclude:
 # externally hosted assets. For large files
 external_assets: "https://1ed1fabde45aa32e0f1155aa7d8a86b1b5a88703.googledrive.com/host/0BxsJMhlYrb4QRTFGSHJTMTRuOEU"
 
+# Set the active concert series to control which ticketsource link appears in
+# the sidebar, if any.
+# Valid values:
+#  - null (no ticketsource link displayed)
+#  - winter
+#  - spring
+#  - summer
+active_concert_series: null
+
 # Used in <head> and RSS feed
 name: "Edinburgh University Music Society"
 description: "Scotland's foremost student music body since 1867. Society profile with details of concerts, community projects and membership."
