@@ -19,7 +19,7 @@ orchestral works to a very high standard. Concerts are given at the end of each
 semester in various locations around Edinburgh, including Greyfriars Kirk and
 St Mary’s Cathedral.  Recent works have included Tchaikovsky’s Sixth Symphony,
 Rimsky Korzakov’s Scheherazade and Respighi’s Pines of Rome. Feel free to have
-a listen to [an excerpt from a concert recording of Shostakovich’s Tenth Symphony](http://www.last.fm/music/Edinburgh+University+Music+Society/EUMS+Symphony+Orchestra:+Spring+Concert+2011/Shostakovich:+Symphony+No.+10,+II.+Allegro).
+a listen to [an excerpt from one of our concert recordings on Last.fm](http://www.last.fm/music/Edinburgh+University+Music+Society/).
 
 Every two years the orchestra teams up with the EUMS Chorus to perform large
 scale orchestral and choral works in one of its concerts. Recently performed
