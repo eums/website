@@ -31,7 +31,7 @@ For more information, to donate, become a Friend of EUMS, or purchase a Season T
 
 #### Moderato – £50/year
 
-As above, plus: 
+As above, plus:
 
 * Two free tickets to concerts of your choice
 
