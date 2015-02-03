@@ -204,6 +204,12 @@
         padding-right: 2em;
     }
 
+    main img.bordered {
+        // this overrides the mobile width of 98%, which accounts for the
+        // border while the image has been resized to fix a thinner viewport.
+        width: 100%;
+    }
+
     .col-two {
         display: block;
         float: right;
