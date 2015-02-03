@@ -42,3 +42,7 @@ EH8 9DF
 ### By phone
 
 Though it is not possible to provide a universal society phone number, by contacting EUMS as detailed above, an appropriate phone number for one of our committee members can be administered on a need-to-know basis.
+
+### Music library
+
+EUMS retains a large quantity of music which is available for hire. For further details, please contact our President at <president@eums.org.uk> or see our [music library page](/music-library/).
