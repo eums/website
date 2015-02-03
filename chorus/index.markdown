@@ -13,6 +13,6 @@ As with the other ensembles of EUMS, Chorus puts on a concert at the end of each
 
 Our Chorus performs challenging pieces of music from a wide classical repertoire, with recent works including Bernstein’s *Chichester Psalms*, Jenkins' *The Armed Man* and Verdi's *Messa de Requiem*. Chorus also collaborates with one of our orchestras once a year to perform large choral works, which have recently included Mendelssohn’s Symphony No.2 *Hymn of Praise* and the 2011 sell-out concert Elgar's *Dream of Gerontius*.
 
-Though there is no requirement to read music, it can certainly help; but whether you are a mini-maestro or indeed a hairbrush singer, then there is certainly a place for you.
+Though there is no requirement to read music, it can certainly help; but regardless of your skill level, there is certainly a place for you.
 
 If you're interested, our Chorus Manager will be happy to hear from you: [chorus@eums.org.uk](mailto:chorus@eums.org.uk).
