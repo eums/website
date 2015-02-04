@@ -320,7 +320,7 @@ main {
     margin-top: 2em;
 }
 
-.col.col-one *:first-child {
+.col.col-one > *:first-child {
     margin-top: 0;
 }
 
