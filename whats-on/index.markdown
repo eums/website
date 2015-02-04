@@ -22,7 +22,7 @@ title: "What's on"
     {{ event.date | date: "%a %-d %B" }}
   </div>
   {% endif %}
-  
+
   <div class="event-programme">
   {% for item in event.programme %}
     <wbr><strong>{{ item.composer }}</strong> - {{ item.piece }}{% unless forloop.last %},{% endunless %}
