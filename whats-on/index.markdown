@@ -5,15 +5,32 @@ title: "What's on"
 
 ## What's on
 
-<ul class="whats-on-events">
+<div class="whats-on-events">
 {% for event in site.data.events %}
-<li>
+<div class="whats-on-event">
   <h3>
-    {% if event.url %}<a href="{{ event.url }}">{{ event.title }}</a>{% else %}{{ event.title }}{% endif %}, {% if event.date %}{{ event.date | date: "%a %-d %B" }}{% endif %}
+    {% if event.url %}<a href="{{ event.url }}">{{ event.title }}</a>{% else %}{{ event.title }}{% endif %}
   </h3>
-</li>
+  {% if event.location %}
+  <div class="event-location">
+    {{ event.location }}
+  </div>
+  {% endif %}
+
+  {% if event.date %}
+  <div class="event-date">
+    {{ event.date | date: "%a %-d %B" }}
+  </div>
+  {% endif %}
+  
+  <div class="event-programme">
+  {% for item in event.programme %}
+    <wbr><strong>{{ item.composer }}</strong> - {{ item.piece }}{% unless forloop.last %},{% endunless %}
+  {% endfor %}
+  </div>
+</div>
 {% endfor %}
-</ul>
+</div>
 
 <hr>
 
