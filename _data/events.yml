@@ -2,9 +2,22 @@
 - title: Symphony Orchestra Concert
   location: Caird Hall, Dundee
   date: 2015-03-07
+  programme:
+    - {composer: Stravinsky, piece: Firebird (1919 suite)}
+
 - title: Chorus and Sinfonia Spring Concert
   location: St Mary's Episcopal Cathedral
   date: 2015-03-13
+  programme:
+    - {composer: Mozart, piece: Requiem Mass in D Minor}
+    - {composer: Mozart, piece: Ave Verum Corpus}
+    - {composer: Mozart, piece: Laudate Dominum}
+    - {composer: Haydn, piece: Symphony No. 97 in C Major}
+
 - title: Symphony Orchestra Spring Concert
   location: Greyfriars Kirk
   date: 2015-03-27
+  programme:
+    - {composer: Stravinsky, piece: Firebird (1919 suite)}
+    - {composer: Bartók, piece: Concerto for Orchestra}
+    - {composer: Borodin, piece: Polovtsian Dances}
