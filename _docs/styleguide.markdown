@@ -44,7 +44,7 @@ with a better and more maintainable web page.
   or annoy them.
 * Where appropriate, prefer to use a relative URL; that is, one starting with
   `/`. This rule should not be broken unless you have a very good reason.
-* Avoid **ALL** JavaScript fuckery on links. The `onclick` attribute on an
+* Avoid **ALL** JavaScript shenanigans on links. The `onclick` attribute on an
   `<a>` element is absolutely off limits.
 
 ## URLs
@@ -55,6 +55,12 @@ with a better and more maintainable web page.
 * Avoid redundant information. For example, prefer `/blog/2014/summer-concert`
   to `/blog/2014/summer-concert-14`
 * Avoid `.html` at the end of HTML pages.
+
+## Design notes
+
+* For the image link tiles, any image must be exactly 600x200px. This is so
+  that it is wide enough for the mobile layout (where tiles are stacked
+  vertically).
 
 [GitHub's HTML style guide]: https://github.com/styleguide/templates
 [MDN]: https://developer.mozilla.org/en-US/docs/Web/HTML
