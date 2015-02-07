@@ -9,10 +9,28 @@ The Edinburgh University Music Society is widely regarded as one of Scotland's l
 
 The Society consists of three ensembles, altogether numbering around 300 people. We perform at least six times per year, in addition to running community projects and Innovative Learning Week events, and going on an annual tour.
 
-<ul>
-<li><a href="/get-involved/">Get involved</a></li>
-<li><a href="/whats-on/">What's on</a></li>
-</ul>
+<div class="image-link-tiles tiles-3 clearfix">
+  <a class="tile tile-get-involved" href="/get-involved/">
+    <div class="caption">
+      <h3>Get involved</h3>
+      <p>Find out about our ensembles, and learn how you can join</p>
+    </div>
+  </a>
+
+  <a class="tile tile-whats-on" href="/whats-on/">
+    <div class="caption">
+      <h3>What's on</h3>
+      <p>Get details of our upcoming concerts and other events</p>
+    </div>
+  </a>
+
+  <a class="tile tile-community" href="community">
+    <div class="caption">
+      <h3>Community</h3>
+      <p>Read about our charity work and education projects</p>
+    </div>
+  </a>
+</div>
 
 <div class="clearfix quotes">
 <blockquote class="quote-left">

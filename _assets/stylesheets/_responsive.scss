@@ -186,6 +186,18 @@
         background-size: 146px 83px;
         padding-left: 27%;
     }
+
+    .tiles-3 .tile {
+        box-sizing: border-box;
+        width: 32%;
+        height: 250px;
+        float: left;
+        margin-right: 2%;
+
+        &:last-child {
+            margin-right: 0;
+        }
+    }
 }
 
 @media only screen and (min-width: 64em) {
