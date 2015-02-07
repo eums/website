@@ -53,6 +53,7 @@ kbd {
 }
 
 /* image link tiles */
+
 a.tile {
     display: block;
     border: 4px solid $bg-dgrey;
@@ -82,12 +83,16 @@ a.tile {
     }
 }
 
+.tile-get-involved {
+    background: url(/assets/img/tiles/get-involved.jpg);
+}
+
 .tile-whats-on {
-    background: url('/assets/img/tiles/whats-on.jpg');
+    background: url(/assets/img/tiles/whats-on.jpg);
 }
 
 .tile-community {
-    background: url('/assets/img/tiles/community.jpg');
+    background: url(/assets/img/tiles/community.jpg);
 }
 
 /* blog archive */

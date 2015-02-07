@@ -13,7 +13,7 @@ The Society consists of three ensembles, altogether numbering around 300 people.
   <a class="tile tile-get-involved" href="/get-involved/">
     <div class="caption">
       <h3>Get involved</h3>
-      <p>Find out about our ensembles, and learn how you can join</p>
+      <p>Find out about what we get up to, and how you can join</p>
     </div>
   </a>
 

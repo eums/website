@@ -58,7 +58,7 @@ with a better and more maintainable web page.
 
 ## Design notes
 
-* For the image link tiles, any image must be exactly 600x200px. This is so
+* For the image link tiles, any image must be exactly 600x250px. This is so
   that it is wide enough for the mobile layout (where tiles are stacked
   vertically).
 
