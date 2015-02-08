@@ -187,9 +187,8 @@
         padding-left: 27%;
     }
 
-    .tiles-3 .tile {
+    a.tile {
         box-sizing: border-box;
-        width: 32%;
         height: 250px;
         float: left;
         margin-right: 2%;
@@ -197,6 +196,14 @@
         &:last-child {
             margin-right: 0;
         }
+    }
+
+    .tiles-3 .tile {
+        width: 32%;
+    }
+
+    .tiles-2 .tile {
+        width: 49%;
     }
 }
 

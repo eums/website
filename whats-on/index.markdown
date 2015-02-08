@@ -32,7 +32,28 @@ title: "What's on"
 {% endfor %}
 </div>
 
-<hr>
+<div class="image-link-tiles tiles-3 clearfix">
+  <a class="tile tile-where-we-perform" href="/venues/">
+    <div class="caption">
+      <h3>Venues</h3>
+      <p>Find out about the venues we usually perform in</p>
+    </div>
+  </a>
+
+  <a class="tile tile-past-concerts" href="/about-us/history/past-concerts/">
+    <div class="caption">
+      <h3>Past concerts</h3>
+      <p>View details and posters from some of our past concerts</p>
+    </div>
+  </a>
+
+  <a class="tile tile-concert-faqs" href="/concert-faqs/">
+    <div class="caption">
+      <h3>Concert FAQs</h3>
+      <p>Get answers to your questions about concerts</p>
+    </div>
+  </a>
+</div>
 
 We perform six main concerts a year, with a Winter concert series, a Spring
 concert series and a Summer concert. Each year one of our concerts also

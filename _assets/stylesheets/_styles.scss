@@ -54,13 +54,12 @@ kbd {
 
 /* image link tiles */
 .image-link-tiles {
-    margin-top: 1.5em;
+    margin: 1em 0 1em 0;
 }
 
 a.tile {
     display: block;
     border: 4px solid $bg-dgrey;
-    margin: 0 0 1em 0;
     height: 200px;
     position: relative;
     background-position: top;

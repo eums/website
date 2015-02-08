@@ -24,7 +24,7 @@ The Society consists of three ensembles, altogether numbering around 300 people.
     </div>
   </a>
 
-  <a class="tile tile-community" href="community">
+  <a class="tile tile-community" href="/community/">
     <div class="caption">
       <h3>Community</h3>
       <p>Read about our charity work and education projects</p>

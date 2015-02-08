@@ -5,6 +5,22 @@ title: Support us
 
 ## Support us
 
+<div class="image-link-tiles tiles-2 clearfix">
+  <a class="tile tile-individual" href="/support-us/individual/">
+    <div class="caption">
+      <h3>Individual</h3>
+      <p>Sample text for the individual sponsorship page</p>
+    </div>
+  </a>
+
+  <a class="tile tile-corporate" href="/support-us/corporate/">
+    <div class="caption">
+      <h3>Corporate</h3>
+      <p>Sample text for the corporate sponsorship page</p>
+    </div>
+  </a>
+</div>
+
 EUMS is Scotland’s foremost student music body, giving six concerts a year
 within Edinburgh alongside an extensive range of additional performing events.
 The society also delivers a pioneering education and community programme, and
