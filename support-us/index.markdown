@@ -9,14 +9,14 @@ title: Support us
   <a class="tile tile-individual" href="/support-us/individual/">
     <div class="caption">
       <h3>Individual</h3>
-      <p>Sample text for the individual sponsorship page</p>
+      <p>Become a Friend of EUMS or buy Season Tickets</p>
     </div>
   </a>
 
   <a class="tile tile-corporate" href="/support-us/corporate/">
     <div class="caption">
       <h3>Corporate</h3>
-      <p>Sample text for the corporate sponsorship page</p>
+      <p>Read about corporate sponsorship opportunities</p>
     </div>
   </a>
 </div>
