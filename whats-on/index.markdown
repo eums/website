@@ -32,6 +32,8 @@ title: "What's on"
 {% endfor %}
 </div>
 
+<hr>
+
 <div class="image-link-tiles tiles-3 clearfix">
   <a class="tile tile-where-we-perform" href="/venues/">
     <div class="caption">
