@@ -7,7 +7,11 @@ title: Chorus
 
 ## Chorus
 
-The Edinburgh University Music Society Chorus is one of the largest choirs in Scotland, performing several times a year in front of large audiences. It is a non-auditioning SATB symphonic chorus, and we welcome both students and non-students as members. Rehearsals take place every Tuesday from 6.30pm until 8.45pm in Room G1, Paterson’s Land, Holyrood Road during University term-time.  It is conducted by [Neil Metcalfe](/conductors/#neil-metcalfe).
+* Where: **Room G1, Paterson's Land, Holyrood Road**
+* When: **Tuesday evenings, from 6.30pm until 8.45pm**
+* Contact: <chorus@eums.org.uk>
+
+The Edinburgh University Music Society Chorus is one of the largest choirs in Scotland, performing several times a year in front of large audiences. It is a non-auditioning SATB symphonic chorus, and we welcome both students and non-students as members. It is conducted by [Neil Metcalfe](/conductors/#neil-metcalfe).
 
 As with the other ensembles of EUMS, Chorus puts on a concert at the end of each semester in various venues including St. Cuthbert’s Church, Greyfriars Kirk and St. Mary’s Episcopal Cathedral. Though the Chorus is non-auditioning, the quality of our performances is very high, and with the numbers behind us we produce a fantastic sound. Don’t take our word for it; [listen to one of our recordings on Last.fm](http://www.last.fm/music/Edinburgh+University+Music+Society).
 

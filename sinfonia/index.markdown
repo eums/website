@@ -7,9 +7,11 @@ title: Sinfonia
 
 ## Sinfonia
 
-Sinfonia is a semi-auditioned full symphony orchestra that rehearses every
-Saturday morning from 10.30 am to 1.30 pm in the Reid Concert Hall, Bristo
-Square under the baton of [Peter Keenan](/conductors/#peter-keenan).
+* Where: **Reid Concert Hall, Bristo Square**
+* When: **Saturday mornings, from 10.30am until 1.30pm**
+* Contact: <sinfonia@eums.org.uk>
+
+Sinfonia is a semi-auditioned full symphony orchestra that rehearses under the baton of [Peter Keenan](/conductors/#peter-keenan).
 
 The orchestra aims to provide an opportunity for keen string players to get a
 chance to rehearse and perform with a full scale orchestra without the stress
