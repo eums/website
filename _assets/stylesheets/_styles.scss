@@ -64,6 +64,10 @@ a.tile {
     position: relative;
     background-position: top;
 
+    &:not(:first-child) {
+        margin-top: 1em;
+    }
+
     .caption {
         background-color: rgba(0, 0, 0, 0.6);
         padding: 1em;
