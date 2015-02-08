@@ -53,7 +53,7 @@ The Edinburgh University Music Society offers two sponsorship options. This
 means that we can tailor our benefits to your input, and allows us to work
 together to get the best out of our partnership.
 
-### Event sponsorship
+### Financial sponsorship
 
 Our society offers a unique marketing advantage in that we allow exposure to a
 very wide demographic. From the children involved in our eduction projects and
@@ -79,7 +79,7 @@ be given access to a range of benefits including:
 We can also provide chamber musicians for any corporate events that you hold
 within the period of your support, giving you the edge over your competitors.
 
-### Asset sponsorship
+### In-kind sponsorship
 
 The society often requires equipment, resources and facilities that can be both
 costly and difficult to obtain. By providing these at reduced costs you will be
@@ -94,15 +94,37 @@ tailor these according to the scale of your input.
 
 Be it on our website or in concert programmes, advertising with the society lets you tap into a wide demographic, whilst also allowing you to be confident about the people who engage with your brand.
 
-From individual concerts to an entire Season, the EUMS can put together a flexible advertising package to suit your needs and your budget. Our programmes are printed in high quality and provide another way to engage with a new audience, and our website has upwards of 2000 views per month.
+From individual concerts to an entire Season, the EUMS can put together a flexible advertising package to suit your needs and your budget. Our programmes are printed in high quality and provide another way to engage with a new audience, and our website has around 1000 views per month.
 
-Prices for programme advertisements are as follows:
+### Sponsorship packages
 
-* For a full concert series: £60 for half a page, £100 for a full page.
-* For a single concert only: £30 for half a page, £50 for a full page.
+#### Programme ads
 
-Web advertising prices can be established based on your individual corporate needs.
+* One concert: £30 half page, £50 full page
+* Concert series (3 concerts average): $60 half page, £100 full page
 
-If you wish to advertise in one of our concert programmes or would like to
-discuss further the opportunities surrounding corporate sponsorship then
-contact us at [sponsorship@eums.org.uk](mailto:sponsorship@eums.org.uk).
+#### £200 offer
+
+* Half page ad in all concert programmes
+* Website ad
+* 10 complimentary tickets to EUMS concerts throughout the year
+
+#### £500 offer
+
+As above, plus:
+
+* Full page ad in all concert programmes
+* 20 complimentary tickets
+* Your logo/name on our concert posters (time permitting)
+
+#### £1,000 offer
+
+As above, plus:
+
+* 30 complimentary tickets
+* Help finding musicians for corporate events
+* Potential for a stall at our concerts
+
+**All prices and assets are open to negotiation**.
+
+If you wish to advertise in one of our concert programmes or would like to discuss the opportunities surrounding corporate sponsorship further, then contact us at [sponsorship@eums.org.uk](mailto:sponsorship@eums.org.uk).
