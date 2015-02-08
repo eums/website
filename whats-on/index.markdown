@@ -71,3 +71,5 @@ groups. Our concerts usually start at 7.30pm, with doors opening at 7pm.
 We know that sometimes there is a lot to think about when attending a classical
 concert, especially if it is your first, so we have compiled a list of
 [frequently asked questions](/concert-faqs/).
+
+You can also [like our facebook page](https://www.facebook.com/ed.music.society) for updates about our events and other information.
