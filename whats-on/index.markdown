@@ -35,7 +35,7 @@ title: "What's on"
 <hr>
 
 <div class="image-link-tiles tiles-3 clearfix">
-  <a class="tile tile-where-we-perform" href="/venues/">
+  <a class="tile tile-venues" href="/venues/">
     <div class="caption">
       <h3>Venues</h3>
       <p>Find out about the venues we usually perform in</p>

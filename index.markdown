@@ -10,21 +10,21 @@ The Edinburgh University Music Society is widely regarded as one of Scotland's l
 The Society consists of three ensembles, altogether numbering around 300 people. We perform at least six times per year, in addition to running community projects and Innovative Learning Week events, and going on an annual tour.
 
 <div class="image-link-tiles tiles-3 clearfix">
-  <a class="tile tile-get-involved" href="/get-involved/" title="Image &copy; Louise Spence Photography, 2014">
+  <a class="tile tile-get-involved" href="/get-involved/" title="Image &copy; Louise Spence Photography (louiseanna.co.uk), 2014">
     <div class="caption">
       <h3>Get involved</h3>
       <p>Find out about what we get up to, and how you can join</p>
     </div>
   </a>
 
-  <a class="tile tile-whats-on" href="/whats-on/" title="Image &copy; Louise Spence Photography, 2014">
+  <a class="tile tile-whats-on" href="/whats-on/" title="Image &copy; Louise Spence Photography (louiseanna.co.uk), 2014">
     <div class="caption">
       <h3>What's on</h3>
       <p>Get details of our upcoming concerts and other events</p>
     </div>
   </a>
 
-  <a class="tile tile-community" href="/community/" title="Image &copy; Alastair Temple, 2012. https://www.facebook.com/atempleartist">
+  <a class="tile tile-community" href="/community/" title="Image &copy; Alastair Temple (facebook.com/atempleartist), 2012">
     <div class="caption">
       <h3>Community</h3>
       <p>Read about our charity work and education projects</p>
