@@ -41,3 +41,10 @@ performance.
 
 For further details please feel free to contact our Symphony Manager at
 [symphony@eums.org.uk](mailto:symphony@eums.org.uk).
+
+<hr>
+
+*Read about our other ensembles:*
+
+* [Chorus](/chorus/), an non-auditioned choir of over 100 people.
+* [Sinfonia](/sinfonia/), an auditioned orchestra (apart from the string section, which is non-auditioning).

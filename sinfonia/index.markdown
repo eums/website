@@ -42,3 +42,10 @@ sectional meals and other events with the whole of the society.
 
 For further details, please get in touch with our Sinfonia Manager at
 [sinfonia@eums.org.uk](mailto:sinfonia@eums.org.uk).
+
+<hr>
+
+*Read about our other ensembles:*
+
+* [Chorus](/chorus/), an non-auditioned choir of over 100 people.
+* [Symphony Orchestra](/symphony-orchestra/), an auditioned, large orchestra of a very high standard.

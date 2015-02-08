@@ -16,3 +16,10 @@ Our Chorus performs challenging pieces of music from a wide classical repertoire
 Though there is no requirement to read music, it can certainly help; but regardless of your skill level, there is certainly a place for you.
 
 If you're interested, our Chorus Manager will be happy to hear from you: [chorus@eums.org.uk](mailto:chorus@eums.org.uk).
+
+<hr>
+
+*Read about our other ensembles:*
+
+* [Sinfonia](/sinfonia/), an auditioned orchestra (apart from the string section, which is non-auditioning).
+* [Symphony Orchestra](/symphony-orchestra/), an auditioned, large orchestra of a very high standard.
