@@ -1,0 +1,45 @@
+# important: these should be in reverse descending order.
+#
+# For each filename here, there should be two files in the past concerts folder
+# on Google Drive; ${filename}.jpg for the actual poster, and
+# ${filename}-150x150.jpg for the thumbnail.
+---
+- 20130322b_symphony
+- 20130322a_symphony
+- 20130315b_chorussinfonia
+- 20130315a_chorussinfonia
+- 20120602_tour
+- 20120518_summer
+- 20120324_sinf
+- 20120323_chorus
+- 20120310_symph
+- 20111126_sinf
+- 20111119_chorussymph
+- 20111022_bigsing
+- 20110602_tour_gb
+- 20110513_summer
+- 20110318_symph
+- 20110312_chorussinf
+- 20101126_sinf
+- 20101120_symph
+- 20101119_chorus
+- 20100513_summer
+- 20100312_spring
+- 20091128_chorussymph
+- 20091127_sinf
+- 20090322_chorussinf
+- 20090313_symph
+- 20081203_symph
+- 20081129_sinf
+- 20081128_chorus
+- 20080509_summer
+- 20080331_tour
+- 20080329_tour
+- 20080315_symph
+- 20080314_chorus
+- 20071124_chorussymph
+- 20071117_sinf
+- 20070318_chorussinf
+- 20070309_sinf
+- 20060520_summer
+- 20060318_chorussinf

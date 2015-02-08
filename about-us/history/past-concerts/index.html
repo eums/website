@@ -1,0 +1,20 @@
+---
+layout: page
+published: true
+title: Past concerts
+wordpress_id: 217
+---
+
+<h2>Past concerts</h2>
+
+<p>
+Below are the majority of our event posters from recent years. Click on a poster to have a closer look...
+</p>
+
+<div class="gallery clearfix">
+{% for c in site.data.past_concerts %}
+<a class="gallery-image" href="{{ site.external_assets }}/past-concerts/{{ c }}.jpg">
+    <img src="{{ site.external_assets }}/past-concerts/{{ c }}-150x150.jpg" alt="" class="centred">
+</a>
+{% endfor %}
+</div>
