@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Corporate support
+published: true
 ---
 
 ## Corporate support
@@ -101,7 +102,7 @@ From individual concerts to an entire Season, the EUMS can put together a flexib
 #### Programme ads
 
 * One concert: £30 half page, £50 full page
-* Concert series (3 concerts average): $60 half page, £100 full page
+* Concert series (3 concerts average): £60 half page, £100 full page
 
 #### £200 offer
 
