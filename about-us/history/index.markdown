@@ -4,7 +4,7 @@ title: History
 wordpress_id: 40
 ---
 
-![](/assets/img/history/sketch.jpg)
+<img src="/assets/img/history/sketch.jpg" class="bordered">
 
 ## Our History
 
@@ -24,7 +24,7 @@ That summer a draft constitution was set down, and at the commencement of the ne
 
 Early records exist of a performance by the society was in 1872, where they performed alongside the Hall&eacute; Orchestra from Manchester and some of the most famous artists of the time in a three day festival devoted to the continuation of General John Reid's passion for music.
 
-![Photograph taken by the Edinburgh Evening News, December 1961]( /assets/img/history/1961-editorial-print.jpg "The Society performs in all its glory")
+<img src="/assets/img/history/1961-editorial-print.jpg" title="The Society performs in all its glory" alt="Photograph taken by the Edinburgh Evening News, December 1961" class="bordered">
 
 The society, now and for many decades the largest outside the University of Edinburgh's Sports Union, has a long history of representing the University of Edinburgh through the quality of its performances. Carl Orff's *Carmina Burana* was premiered in Scotland by the EUMS in 1963, and the BBC has made recordings of several of our concerts. In 2007, the society celebrated its 140th anniversary with a series of concerts in the impressive McEwan Hall, ending with a stunning rendition of Verdi's *Requiem* to a thousand-strong audience.
 
@@ -32,4 +32,4 @@ Since those early days in the late-1800s, the society has performed hundreds of 
 
 Our history has given us great strength as a society, but we also look forward to seeing what the years ahead can bring us. We hope you will enjoy following the Edinburgh University Music Society through the years, as we enjoy being involved in such an important part of Scotland's heritage and culture.
 
-![Our identity over the years](/assets/img/history/animated-logo.gif "Our identity over the years")
+<img src="/assets/img/history/animated-logo.gif" title="Our identity over the years" alt="Our identity over the years">
