@@ -6,14 +6,14 @@ title: Support us
 ## Support us
 
 <div class="image-link-tiles tiles-2 clearfix">
-  <a class="tile tile-individual" href="/support-us/individual/">
+  <a class="tile tile-support-individual" href="/support-us/individual/" title="Image &copy; Alastair Temple (facebook.com/atempleartist), 2012">
     <div class="caption">
       <h3>Individual</h3>
       <p>Become a Friend of EUMS or buy Season Tickets</p>
     </div>
   </a>
 
-  <a class="tile tile-corporate" href="/support-us/corporate/">
+  <a class="tile tile-support-corporate" href="/support-us/corporate/">
     <div class="caption">
       <h3>Corporate</h3>
       <p>Read about corporate sponsorship opportunities</p>
