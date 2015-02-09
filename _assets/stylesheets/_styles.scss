@@ -121,6 +121,11 @@ a.tile {
     background: url(/assets/img/tiles/support-individual.jpg);
 }
 
+a.tile.tile-support-corporate {
+    background: url(/assets/img/tiles/support-corporate.jpg);
+    background-position: left;
+}
+
 /* past concerts gallery */
 .gallery-image {
     display: block;

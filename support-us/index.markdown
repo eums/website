@@ -13,7 +13,7 @@ title: Support us
     </div>
   </a>
 
-  <a class="tile tile-support-corporate" href="/support-us/corporate/">
+  <a class="tile tile-support-corporate" href="/support-us/corporate/" title="Image &copy; Louise Spence Photography (louiseanna.co.uk), 2013">
     <div class="caption">
       <h3>Corporate</h3>
       <p>Read about corporate sponsorship opportunities</p>
