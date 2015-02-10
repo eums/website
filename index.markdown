@@ -1,7 +1,13 @@
 ---
+image_fader: true
 ---
 
-<img alt="Chorus and Symphony Orchestra at the performance of Verdi's Requiem in 2013" src="/assets/img/symphony-chorus-verdi-2013.jpg" class="bordered">
+<div class="image-fader-container clearfix">
+<div id="image-fader" class="image-fader" style="position: relative;">
+<img src="/assets/img/fader/verdi-chorus.jpg" style="position: absolute; top: 0; left: 0; z-index: 1" onload="this._succeeded = true">
+</div>
+<img src="/assets/img/fader/placeholder.png">
+</div>
 
 ## Who are we?
 

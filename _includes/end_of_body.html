@@ -8,7 +8,7 @@ window.onload = function() {
 }
 </script>
 
-{% javascript jekyll-lunr-search %}
+{% javascript site %}
 
 <script type="text/javascript">
 // twitter
@@ -48,4 +48,8 @@ addOnLoad(function() {
 
 {% if page.perform_search %}
 {% include perform_search.html %}
+{% endif %}
+
+{% if page.image_fader %}
+{% include image_fader.html %}
 {% endif %}

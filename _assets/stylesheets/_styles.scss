@@ -416,7 +416,8 @@ main {
     margin-top: 0;
 }
 
-main img {
+main img,
+.image-fader-container {
     margin-left: auto;
     margin-right: auto;
     display: block;
@@ -443,6 +444,20 @@ main img {
     &.bordered {
         border: 4px solid $bg-dgrey;
         width: 98%;
+    }
+}
+
+.image-fader-container {
+    border: 4px solid $bg-dgrey;
+}
+
+.image-fader {
+    position: relative;
+
+    img {
+        position: absolute;
+        top: 0;
+        left: 0;
     }
 }
 
