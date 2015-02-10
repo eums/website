@@ -283,7 +283,7 @@ header[role="banner"] {
         a:focus {
             outline: none;
 
-            img {
+            span.logo-image {
                 outline: 3px solid $selection;
             }
         }
