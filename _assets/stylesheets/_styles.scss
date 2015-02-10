@@ -56,6 +56,15 @@ kbd {
     padding: 1px;
 }
 
+.child-outline:focus {
+    outline: none;
+
+    * {
+        background-color: $selection;
+        outline: 3px solid $selection;
+    }
+}
+
 /* image link tiles */
 .image-link-tiles {
     margin: 1em 0 1em 0;
