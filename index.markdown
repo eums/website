@@ -3,8 +3,8 @@ image_fader: true
 ---
 
 <div class="image-fader-container clearfix">
-<div id="image-fader" class="image-fader" style="position: relative;">
-<img src="/assets/img/fader/verdi-chorus.jpg" style="position: absolute; top: 0; left: 0; z-index: 1" onload="this._succeeded = true">
+<div id="image-fader" class="image-fader">
+<img src="/assets/img/fader/verdi-chorus.jpg" style="z-index: 1" onload="this._succeeded = true">
 </div>
 <img src="/assets/img/fader/placeholder.png">
 </div>
