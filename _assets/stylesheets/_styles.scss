@@ -148,7 +148,9 @@ a.tile.tile-support-corporate {
 }
 
 /* past concerts gallery */
-.gallery-image {
+a.gallery-image,
+a.gallery-image:visited,
+a.gallery-image:hover, {
     display: block;
     float: left;
     width: 150px;
