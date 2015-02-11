@@ -40,9 +40,12 @@ function loadImage(url) {
   image.onload = function() {
     image._succeeded = true
 
-    // This is the fault of IE >:(
-    image.removeAttribute('width')
-    image.removeAttribute('height')
+    // This is the fault of IE >:( that is, both the fact that I have to remove
+    // these attributes, and the silly setTimeout call.
+    setTimeout(function() {
+      image.removeAttribute('width')
+      image.removeAttribute('height')
+    }, 100)
   }
 
   setOpacity(image, 0)
