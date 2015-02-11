@@ -404,7 +404,7 @@ nav {
         padding: 0;
         text-align: center;
 
-        a, a:visited {
+        a, a:visited, a:hover {
             color: $fg;
             display: inline-block;
             height: 2em;
