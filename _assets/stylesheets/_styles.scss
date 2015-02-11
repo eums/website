@@ -104,6 +104,16 @@ a.tile {
     }
 }
 
+a.tile:hover, a.tile:focus {
+    top: -1px;
+    left: -1px;
+}
+
+a.tile:active {
+    top: 1px;
+    left: 1px;
+}
+
 .tile-get-involved {
     background: url(/assets/img/tiles/get-involved.jpg);
 }
