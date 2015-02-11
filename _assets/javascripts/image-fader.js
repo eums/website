@@ -39,12 +39,22 @@ function loadImage(url) {
 
   image.onload = function() {
     image._succeeded = true
+
+    // This is the fault of IE >:(
+    removeAttr(image, 'width')
+    removeAttr(image, 'height')
   }
 
   image.style.opacity  = 0
   image.style.zIndex   = nextZIndex()
 
   return image
+}
+
+function removeAttr(el, attr) {
+  if (el.getAttribute(attr)) {
+    el.setAttribute(attr, null)
+  }
 }
 
 // start at 2 as 0 and 1 have gone already.
