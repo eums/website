@@ -4,7 +4,7 @@ ImageFader = (function() {
 
 var Promise = ES6Promise.Promise
 
-var DEBUG = true
+var DEBUG = false
 function debug() {
   if (DEBUG) {
     var args = Array.prototype.slice.call(arguments)
@@ -41,20 +41,21 @@ function loadImage(url) {
     image._succeeded = true
 
     // This is the fault of IE >:(
-    removeAttr(image, 'width')
-    removeAttr(image, 'height')
+    image.removeAttribute('width')
+    image.removeAttribute('height')
   }
 
-  image.style.opacity  = 0
-  image.style.zIndex   = nextZIndex()
+  setOpacity(image, 0)
+  image.style.zIndex  = nextZIndex()
 
   return image
 }
 
-function removeAttr(el, attr) {
-  if (el.getAttribute(attr)) {
-    el.setAttribute(attr, null)
-  }
+function setOpacity(image, opacity) {
+  image.style.opacity = opacity
+
+  // This is for IE8
+  image.style.filter = 'alpha(opacity=' + Math.floor(opacity * 100) + ')'
 }
 
 // start at 2 as 0 and 1 have gone already.
@@ -105,15 +106,15 @@ var transitionOpacityDelta = 0.05
 function transitionImages(currImage, nextImage, done) {
   var iterate = function(opacity) {
     if (opacity < 1) {
-      currImage.style.opacity = 1 - opacity
-      nextImage.style.opacity = opacity
+      setOpacity(currImage, 1 - opacity)
+      setOpacity(nextImage, opacity)
 
       setTimeout(function() {
         iterate(opacity + transitionOpacityDelta)
       }, transitionInterval);
     } else {
-      currImage.style.opacity = 0
-      nextImage.style.opacity = 1
+      setOpacity(currImage, 0)
+      setOpacity(nextImage, 1)
       done()
     }
   }
