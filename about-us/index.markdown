@@ -4,6 +4,8 @@ title: About us
 wordpress_id: 15
 ---
 
+<img src="/assets/img/concerts/chorus-st-cuthberts-2.jpg" alt="Chorus performing at St. Cuthbert's Church" class="bordered">
+
 ## About us
 
 The Edinburgh University Music Society is a large (around 300 members) student music organisation. Our aims are:
