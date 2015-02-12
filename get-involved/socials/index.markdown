@@ -3,7 +3,7 @@ title: Socials
 layout: page
 ---
 
-<img src="/assets/img/socials/football.jpg" alt="EUMS members at a football social">
+<img src="/assets/img/socials/football.jpg" alt="EUMS members at a football social" class="bordered">
 
 <!-- Use HTML here so that the element doesn't get an id of "socials",
 because this will cause some add ons (like ad block plus) to block it. Don't
@@ -18,7 +18,7 @@ If it is food you are after then we cater annually for the culinary needs of our
 
 We also have numerous “recreational” events during the year. By far the most popular is the EUMS Ball, incorporating a formal meal followed by a ceilidh, rounded off with some rather informal boogie-ing. We as a society have an almost unhealthy love for karaoke, and many of our socials involve many of our more senior or alumni members making enormous fools of themselves with a microphone in hand.
 
-<img src="/assets/img/socials/ceilidh.jpg" alt="Ceilidh at an EUMS Ball">
+<img src="/assets/img/socials/ceilidh.jpg" alt="Ceilidh at an EUMS Ball" class="bordered">
 
 One major aspect of the social calendar is intramural hockey. Contrary to popular belief, many of our most distinguished musicians are also pretty mean with a stick in hand, and we have beaten off many a hardy team over the years (most notably the maniacs from Agricultural Sciences), recently finishing second in the league.
 
