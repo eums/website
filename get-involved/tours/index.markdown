@@ -5,7 +5,7 @@ title: Tour
 wordpress_id: 42
 ---
 
-<img src="/assets/img/tours/bus.jpg" alt="EUMS on tour">
+<img src="/assets/img/tours/bus.jpg" alt="EUMS on tour" class="bordered">
 
 ## Society on tour
 
