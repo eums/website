@@ -32,7 +32,6 @@ h4 {
 a, a:visited {
     color: $fg-red;
     text-decoration: none;
-    border-bottom: 1px solid $fg-red;
     font-weight: bold;
 }
 
@@ -42,8 +41,7 @@ a:focus {
 }
 
 a:hover {
-    color: $fg-dred;
-    border-bottom: 1px solid $fg-dred;
+    text-decoration: underline;
 }
 
 .hero {
@@ -289,10 +287,6 @@ header[role="banner"] {
         height: 83px;
     }
 
-    a, a:visited {
-        border-bottom: none;
-    }
-
     h1 {
         margin: 0;
         padding-top: 0.6em;
@@ -353,12 +347,6 @@ footer {
 
     a, a:visited {
         color: $fg;
-        border-bottom: 1px solid $fg;
-    }
-
-    a:hover {
-        color: $fg-lighter;
-        border-bottom: 1px solid $fg-lighter;
     }
 
     .links-grid {
@@ -414,11 +402,10 @@ nav {
             text-decoration: none;
             padding-left: 1em;
             padding-right: 1em;
-            border-bottom: none;
         }
 
         a:hover {
-            border-bottom: none;
+            text-decoration: none;
             background-color: #bbc;
             outline: 0;
         }
