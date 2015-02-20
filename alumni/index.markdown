@@ -3,6 +3,8 @@ title: Alumni
 layout: page
 ---
 
+<img src="/assets/img/history/1961-editorial-print.jpg" title="The Society performs in all its glory" alt="Photograph taken by the Edinburgh Evening News, December 1961" class="bordered">
+
 ## EUMS Alumni
 
 ### Join our [mailing list][1]
