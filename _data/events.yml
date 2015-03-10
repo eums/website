@@ -11,6 +11,7 @@
 
 - title: Symphony Orchestra Spring Concert
   location: Greyfriars Kirk
+  url: /blog/2015/symphony-spring-concert/
   date: 2015-03-27
   programme:
     - {composer: Stravinsky, piece: Firebird (1919 suite)}
