@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: EUMS Chorus and Sinfonia Spring Concert 2015
 ---
 
