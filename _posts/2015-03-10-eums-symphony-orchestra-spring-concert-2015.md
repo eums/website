@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: EUMS Symphony Orchestra Spring Concert 2015
 ---
 
