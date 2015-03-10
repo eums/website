@@ -3,7 +3,7 @@ published: true
 title: EUMS Chorus and Sinfonia Spring Concert 2015
 ---
 
-![mozart.jpg](/assets/img/concerts/mozart.jpg)
+<img src="/assets/img/concerts/mozart.jpg" class="bordered">
 
 Edinburgh University Music Society Chorus and Sinfonia are delighted to join forces to perform Mozart's Requiem in the spectacular backdrop of St Mary's Episcopal Cathedral, on Friday 13th March.
 
